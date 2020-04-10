@@ -85,14 +85,14 @@ if (full_text!=""){
     fs.writeFileSync(update_log_file, JSON.stringify(update_log, null, 2));
 
     var date = moment.unix(now);
-    formated_time = date.tz("Asia/Kolkata").format("MMMM DD, hh:mm A");
+    formated_time = date.tz("Asia/Kathmandu").format("MMMM DD, hh:mm A");
     console.log(formated_time)
     
 
     url = encodeURI("https://api.telegram.org/bot"+BOT_TOKEN+"/sendmessage?parse_mode=Markdown&chat_id=-1001449683810&text=_"
         +formated_time+"_\n\n"
         +tg_full_text
-        +"\n\n*www.covid19india.org*");
+        +"\n\n*www.nepalcovid19.org*");
     // console.log(url);
     let settings = { method: "Get" };
     fetch(url, settings).then(res => res.json())
