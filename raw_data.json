@@ -188,6 +188,27 @@
 			"statepatientnimber": "P7-P4",
 			"statuschangedate": "",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "Test",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "tatta",
+			"currentstatus": "Twat",
+			"dateannounced": "Test",
+			"detectedcity": "Test",
+			"detecteddistrict": "Test",
+			"detectedstate": "Test",
+			"gender": "Test",
+			"nationality": "tast",
+			"notes": "ttwts",
+			"patientnumber": "10",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "Teszt",
+			"statepatientnimber": "Test",
+			"statuschangedate": "",
+			"typeoftransmission": "tasta"
 		}
 	]
 }
