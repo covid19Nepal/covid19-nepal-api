@@ -20,6 +20,12 @@ const c = require("./lib/constants");
     file: c.FILE_WEBSITE_DATA
   });
 
+  await task({
+    sheet: c.SHEET,
+    tabs: { states_daily: c.SHEET_DATE_WISE_DELTA },
+    file: c.FILE_DATE_WISE_DELTA
+  });
+
   // await task({
   //   sheet: c.SHEET,
   //   tabs: {

@@ -7,6 +7,7 @@ try {
   const StateDistrictWiseData = rawData.raw_data.reduce((acc, row) => {
     const isToday = moment().utcOffset(330).isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
     let stateName = row.detectedstate;
+    console.log(stateName);
       if(!stateName) {
         stateName = 'Unknown';
       }
