@@ -45,18 +45,5 @@
         }
       }
     ]
-  },
-  {
-    "state": "Test",
-    "districtData": [
-      {
-        "district": "Test",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
   }
 ]

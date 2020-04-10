@@ -38,16 +38,5 @@
         }
       }
     }
-  },
-  "Test": {
-    "districtData": {
-      "Test": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
   }
 }
