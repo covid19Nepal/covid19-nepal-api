@@ -100,4 +100,3 @@ if (full_text!=""){
 }else{
     console.log("No updates this time!");
 }
-
