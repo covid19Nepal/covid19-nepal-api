@@ -188,27 +188,6 @@
 			"statepatientnimber": "P7-P4",
 			"statuschangedate": "",
 			"typeoftransmission": "Local"
-		},
-		{
-			"agebracket": "Tetst",
-			"backupnotes": "",
-			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "Test",
-			"detectedcity": "Test",
-			"detecteddistrict": "Test",
-			"detectedstate": "Test",
-			"gender": "Test",
-			"nationality": "",
-			"notes": "",
-			"patientnumber": "10",
-			"source1": "",
-			"source2": "",
-			"source3": "",
-			"statecode": "Test",
-			"statepatientnimber": "Test",
-			"statuschangedate": "",
-			"typeoftransmission": ""
 		}
 	]
 }
