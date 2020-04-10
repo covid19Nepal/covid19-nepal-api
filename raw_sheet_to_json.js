@@ -1,8 +1,8 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-sheet_id="ovd0hzm";
-let url = "https://spreadsheets.google.com/feeds/cells/1nzXUdaIWC84QipdVGUKTiCSc5xntBbpMpzLm6Si33zk/"+sheet_id+"/public/values?alt=json";
+sheet_id="1";
+let url = "https://spreadsheets.google.com/feeds/cells/1phoem9oHmMKSa3uUMwCrSkLqAp2ucVuqm2B_OwwhfqI/"+sheet_id+"/public/values?alt=json";
 
 
 let url = "";

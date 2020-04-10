@@ -31,5 +31,5 @@ node_modules/
 jspm_packages/
 
 #package fike
-# package.json
+package.json
 
