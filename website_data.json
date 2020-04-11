@@ -66,6 +66,11 @@
 			"answer": "Yes, they can be, as health care workers come into contact with patients more often than the general public WHO recommends that health care workers consistently apply appropriate.",
 			"qno": "9",
 			"question": "Are health workers at risk from a novel coronavirus?"
+		},
+		{
+			"answer": "No",
+			"qno": "10",
+			"question": "Are you official?"
 		}
 	]
 }
