@@ -17,7 +17,7 @@
     "districtData": [
       {
         "district": "Kailali",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -25,14 +25,6 @@
       },
       {
         "district": "Kanchanpur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -55,23 +47,18 @@
     ]
   },
   {
-    "state": "Unknown",
+    "state": "Province 2",
     "districtData": [
       {
-        "district": "Unknown",
+        "district": "Parsa",
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
-      }
-    ]
-  },
-  {
-    "state": "Province 2",
-    "districtData": [
+      },
       {
-        "district": "Unknown",
+        "district": "Rautahat",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

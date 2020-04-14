@@ -13,20 +13,13 @@
   "Province 7": {
     "districtData": {
       "Kailali": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Kanchanpur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -46,20 +39,16 @@
       }
     }
   },
-  "Unknown": {
+  "Province 2": {
     "districtData": {
-      "Unknown": {
+      "Parsa": {
         "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
-      }
-    }
-  },
-  "Province 2": {
-    "districtData": {
-      "Unknown": {
+      },
+      "Rautahat": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
