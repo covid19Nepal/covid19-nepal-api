@@ -26,6 +26,16 @@ const c = require("./lib/constants");
     file: c.FILE_DATE_WISE_DELTA
   });
 
+  await task({
+    sheet: c.SHEET,
+    tabs: {
+      statewise: c.SHEET_STATEWISE_TAB,
+      cases_time_series: c.SHEET_CASES_TIME_SERIES_TAB,
+      tested: c.SHEET_Tested_Numbers_Data,
+    },
+    file: c.FILE_DATA
+  });
+
   // await task({
   //   sheet: c.SHEET,
   //   tabs: {
@@ -48,20 +58,7 @@ const c = require("./lib/constants");
   //   },
   //   file: c.FILE_STATEWISE_TESTED_DATA
   // });
-  // await task({
-  //   sheet: c.SHEET,
-  //   tabs: { states_daily: c.SHEET_DATE_WISE_DELTA },
-  //   file: c.FILE_DATE_WISE_DELTA
-  // });
-  // await task({
-  //   sheet: c.SHEET,
-  //   tabs: {
-  //     statewise: c.SHEET_STATEWISE_TAB,
-  //     cases_time_series: c.SHEET_CASES_TIME_SERIES_TAB,
-  //     tested: c.SHEET_Tested_Numbers_ICMR_Data,
-  //   },
-  //   file: c.FILE_DATA
-  // });
+  
   // await task({
   //   sheet: c.SHEET_RESOURCES,
   //   tabs: { resources: c.SHEET_RESOURCES_SHEET},
