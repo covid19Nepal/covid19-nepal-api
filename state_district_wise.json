@@ -2,10 +2,10 @@
   "Province 3": {
     "districtData": {
       "Kathmandu": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }

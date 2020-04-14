@@ -22,6 +22,8 @@ jobs:
         env:
             GITHUB_TOKEN: ${{ secrets.github_token }}
             BOT_TOKEN: ${{ secrets.bot_token }}
+            SHEET_ID: ${{ secrets.SHEET_ID }}
+            RESOURCES_SHEET_ID: ${{ secrets.RESOURCES_SHEET_ID }}
 
 
 #trigger the action

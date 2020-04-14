@@ -730,19 +730,19 @@
 			"totalrecovereddaily": "1"
 		},
 		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyconfirmed": "2",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "14 April",
-			"totalconfirmed": "",
-			"totaldecease": "",
-			"totalrecovereddaily": ""
+			"totalconfirmed": "16",
+			"totaldecease": "0",
+			"totalrecovereddaily": "1"
 		}
 	],
 	"statewise": [
 		{
-			"active": "13",
-			"confirmed": "14",
+			"active": "15",
+			"confirmed": "16",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -777,8 +777,8 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "2",
-			"confirmed": "3",
+			"active": "4",
+			"confirmed": "5",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
