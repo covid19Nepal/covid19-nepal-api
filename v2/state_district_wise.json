@@ -30,6 +30,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -39,6 +47,32 @@
       {
         "district": "Baglung",
         "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Province 2",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
