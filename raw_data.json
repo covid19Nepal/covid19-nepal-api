@@ -295,7 +295,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "58",
 			"backupnotes": "from Suncity apartment",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -303,7 +303,7 @@
 			"detectedcity": "Pepsicola",
 			"detecteddistrict": "Kathmandu",
 			"detectedstate": "Province 3",
-			"gender": "",
+			"gender": "M",
 			"nationality": "Nepal",
 			"notes": "Travelled from UK",
 			"patientnumber": "15",
@@ -316,7 +316,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "81",
 			"backupnotes": "from Suncity apartment",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -324,7 +324,7 @@
 			"detectedcity": "Pepsicola",
 			"detecteddistrict": "Kathmandu",
 			"detectedstate": "Province 3",
-			"gender": "",
+			"gender": "F",
 			"nationality": "Nepal",
 			"notes": "Travelled from UK",
 			"patientnumber": "16",
