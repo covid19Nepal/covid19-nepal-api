@@ -59,11 +59,11 @@ const c = require("./lib/constants");
   //   file: c.FILE_STATEWISE_TESTED_DATA
   // });
   
-  // await task({
-  //   sheet: c.SHEET_RESOURCES,
-  //   tabs: { resources: c.SHEET_RESOURCES_SHEET},
-  //   file: c.FILE_RESOURCES_ESSENTIALS
-  // });
+  await task({
+    sheet: c.SHEET_RESOURCES,
+    tabs: { resources: c.SHEET_RESOURCES_SHEET},
+    file: c.FILE_RESOURCES_ESSENTIALS
+  });
   console.log("End of sheet-to-json_generic");
 })();
 
