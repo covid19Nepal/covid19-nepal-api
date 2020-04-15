@@ -4,22 +4,24 @@
 			"additionalfeedbackcomment": "01-4253396",
 			"category": "Covid19-Testing Labs",
 			"city": "Kathmandu",
-			"contactwebsitesandsocialhandlesonly": "www.test.com",
+			"contact": "www.test.com",
 			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
 			"nameoftheorganisation": "Teku Hospital",
 			"phonenumber": "9818131313",
 			"state": "Province 3",
+			"state_2": "",
 			"timestamp": "4/15/2020 15:50:44"
 		},
 		{
 			"additionalfeedbackcomment": "Tets",
 			"category": "Free Food",
 			"city": "Kathmandu",
-			"contactwebsitesandsocialhandlesonly": "Test",
+			"contact": "Test",
 			"descriptionandorserviceprovided": "Test",
 			"nameoftheorganisation": "Test",
 			"phonenumber": "Test",
 			"state": "Province 3",
+			"state_2": "",
 			"timestamp": "4/15/2020 15:50:44"
 		}
 	]
