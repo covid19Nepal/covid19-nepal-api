@@ -1,4 +1,4 @@
-const { task } = require("./lib");
+const { task, fetchData, writeData } = require("./lib");
 const c = require("./lib/constants");
 
 
@@ -20,6 +20,16 @@ const c = require("./lib/constants");
     file: c.FILE_WEBSITE_DATA
   });
 
+   // need to remove objects with empty states or empty totaltested
+   var data = await fetchData({sheet:c.SHEET, tabs:{
+    states_tested_data: c.SHEET_StateWise_Tested_Numbers_Data
+  }});
+  data.states_tested_data.forEach(function(item, index, object)  {
+    if(!item.totaltested || !item.state){
+      object.splice(index,1);
+    }
+  });
+  await writeData({file:c.FILE_STATEWISE_TESTED_DATA, data});
   await task({
     sheet: c.SHEET,
     tabs: { states_daily: c.SHEET_DATE_WISE_DELTA },
