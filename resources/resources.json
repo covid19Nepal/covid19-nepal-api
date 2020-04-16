@@ -1,15 +1,30 @@
 {
 	"resources": [
 		{
-			"additionalfeedbackcomment": "",
-			"category": "Covid19-Testing Labs",
+			"age": "21",
+			"announceddate": "4/7/2020",
 			"city": "Kathmandu",
-			"contact": "https://www.nphl.gov.np/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
-			"nameoftheorganisation": "National Public Health Laboratory",
-			"phonenumber": "14240217",
-			"state": "Province 3",
-			"timestamp": "4/15/2020 15:50:44"
+			"iwanttoreporta": "Recovery",
+			"nationality": "Nepali",
+			"patientgender": "Male",
+			"province": "Province 3",
+			"regardingpatientnumber": "P1-P2",
+			"remarksregardingpatienthistory": "Travelled from India",
+			"source": "https://www.mohp.gov.np/en/",
+			"timestamp": "4/8/2020 14:21:09"
+		},
+		{
+			"age": "21",
+			"announceddate": "1/24/2020",
+			"city": "Kathmandu",
+			"iwanttoreporta": "Confirmed Case",
+			"nationality": "Nepali",
+			"patientgender": "Male",
+			"province": "Province 3",
+			"regardingpatientnumber": "",
+			"remarksregardingpatienthistory": "From India",
+			"source": " https://www.mohp.gov.np/en/",
+			"timestamp": "4/8/2020 15:05:23"
 		}
 	]
 }
