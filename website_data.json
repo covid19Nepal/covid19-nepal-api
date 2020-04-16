@@ -1,28 +1,32 @@
 {
 	"factoids": [
 		{
-			"banner": "Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub.",
+			"banner": "CALL CENTERS 1115 & 1133 (6 AM - 10 PM)",
 			"id": "1"
 		},
 		{
-			"banner": "Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze",
+			"banner": "Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub.",
 			"id": "2"
 		},
 		{
-			"banner": "Avoid close contact (1 meter or 3 feet) with people who are unwell.",
+			"banner": "Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze",
 			"id": "3"
 		},
 		{
-			"banner": "Stay home and self-isolate from others in the household if you feel unwell.",
+			"banner": "Avoid close contact (1 meter or 3 feet) with people who are unwell.",
 			"id": "4"
 		},
 		{
-			"banner": "Plan ahead! Take a minute and check how much you have at home. Planning let's you buy exactly what you need!",
+			"banner": "Stay home and self-isolate from others in the household if you feel unwell.",
 			"id": "5"
 		},
 		{
-			"banner": "Call up your loved ones during the lockdown, support each other through these times.  ",
+			"banner": "Plan ahead! Take a minute and check how much you have at home. Planning let's you buy exactly what you need!",
 			"id": "6"
+		},
+		{
+			"banner": "Call up your loved ones during the lockdown, support each other through these times.  ",
+			"id": "7"
 		}
 	],
 	"faq": [
