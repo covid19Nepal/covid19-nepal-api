@@ -76,10 +76,10 @@
     ]
   },
   {
-    "state": "Unknown",
+    "state": "Province 1",
     "districtData": [
       {
-        "district": "Unknown",
+        "district": "Udayapur",
         "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {

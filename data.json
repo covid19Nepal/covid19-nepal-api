@@ -748,13 +748,22 @@
 			"totalrecovered": "1"
 		},
 		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "16 April",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
+			"totalconfirmed": "16",
+			"totaldeceased": "0",
+			"totalrecovered": "1"
+		},
+		{
+			"dailyconfirmed": "14",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "17 April",
+			"totalconfirmed": "30",
+			"totaldeceased": "0",
+			"totalrecovered": "1"
 		}
 	],
 	"statewise": [
