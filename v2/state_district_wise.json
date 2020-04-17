@@ -9,6 +9,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Chitwan",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
       }
     ]
   },
@@ -63,6 +71,19 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 12
         }
       }
     ]

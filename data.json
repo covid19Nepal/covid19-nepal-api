@@ -759,8 +759,8 @@
 	],
 	"statewise": [
 		{
-			"active": "15",
-			"confirmed": "16",
+			"active": "29",
+			"confirmed": "30",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -771,13 +771,13 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "12",
+			"confirmed": "12",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 11:42:27",
+			"lastupdatedtime": "17/04/2020 11:42:27",
 			"recovered": "0",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -795,13 +795,13 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "4",
-			"confirmed": "5",
+			"active": "6",
+			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 11:42:27",
+			"lastupdatedtime": "17/04/2020 11:42:27",
 			"recovered": "1",
 			"state": "Province 3",
 			"statecode": "P3"
