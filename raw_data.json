@@ -25,7 +25,7 @@
 			"agebracket": "19",
 			"backupnotes": "Travelled in the same flight with Patient 5 and Patient 6",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/03/2020",
 			"detectedcity": "Kathmandu",
 			"detecteddistrict": "Kathmandu",
@@ -39,7 +39,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P2",
-			"statuschangedate": "",
+			"statuschangedate": "18/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
