@@ -109,7 +109,7 @@
 			"agebracket": "65",
 			"backupnotes": "Travelled in the same flight with Patient 2 and Patient 5",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "02/04/2020",
 			"detectedcity": "Baglung",
 			"detecteddistrict": "Baglung",
@@ -120,10 +120,10 @@
 			"patientnumber": "6",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://english.onlinekhabar.com/nepal-reports-sixth-coronavirus-positive-case.html",
-			"source3": "",
+			"source3": "Daulagiri Zonal Hospital",
 			"statecode": "P4",
 			"statepatientnimber": "P4-P2",
-			"statuschangedate": "",
+			"statuschangedate": "18/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
