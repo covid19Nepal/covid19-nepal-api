@@ -14,5 +14,9 @@
   {
     "update": "12 new cases in Province 1\n2 new cases in Province 3\n",
     "timestamp": 1587132327
+  },
+  {
+    "update": "1 recovery in Province 3\n",
+    "timestamp": 1587201253
   }
 ]
