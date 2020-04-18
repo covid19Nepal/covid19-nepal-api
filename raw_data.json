@@ -629,6 +629,27 @@
 			"statepatientnimber": "P1-P12",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "65",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "18/04/2020",
+			"detectedcity": "Udayapur",
+			"detecteddistrict": "Udayapur",
+			"detectedstate": "Province 1",
+			"gender": "M",
+			"nationality": "India",
+			"notes": "",
+			"patientnumber": "31",
+			"source1": "https://www.onlinekhabar.com/2020/04/855931?utm_source=Facebook&utm_medium=FBpage1&fbclid=IwAR2_L6jnWAR_2AclI52o3D38ZDHMMUdHpSfz3xcScReUOE9HVZfSzswN3yM",
+			"source2": "",
+			"source3": "",
+			"statecode": "P1",
+			"statepatientnimber": "P1-P13",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
