@@ -9,6 +9,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Chitwan",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -60,6 +68,19 @@
       {
         "district": "Rautahat",
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Province 1",
+    "districtData": [
+      {
+        "district": "Udayapur",
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

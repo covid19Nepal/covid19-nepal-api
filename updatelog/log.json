@@ -10,5 +10,25 @@
   {
     "update": "2 new cases in Province 3\n",
     "timestamp": 1586851566
+  },
+  {
+    "update": "12 new cases in Province 1\n2 new cases in Province 3\n",
+    "timestamp": 1587132327
+  },
+  {
+    "update": "1 recovery in Province 3\n",
+    "timestamp": 1587201253
+  },
+  {
+    "update": "1 recovery in Province 4\n",
+    "timestamp": 1587212129
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587223478
+  },
+  {
+    "update": "1 recovery in Province 7\n",
+    "timestamp": 1587293368
   }
 ]
