@@ -120,7 +120,7 @@
 			"patientnumber": "6",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://english.onlinekhabar.com/nepal-reports-sixth-coronavirus-positive-case.html",
-			"source3": "Daulagiri Zonal Hospital",
+			"source3": "",
 			"statecode": "P4",
 			"statepatientnimber": "P4-P2",
 			"statuschangedate": "18/04/2020",
@@ -263,7 +263,7 @@
 			"detectedstate": "Sudurpaschim Province",
 			"gender": "F",
 			"nationality": "Nepal",
-			"notes": "Travelled from Birgunj to Kailali",
+			"notes": "Travelled from Birgunj to Kailali\nSecond local case observed",
 			"patientnumber": "13",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://english.onlinekhabar.com/nepals-13th-coronavirus-case-kailalis-65-year-old-woman.html",
@@ -338,7 +338,7 @@
 		},
 		{
 			"agebracket": "27",
-			"backupnotes": "",
+			"backupnotes": "Travelled to Nepal on March 16, 2020",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/04/2020",
@@ -350,16 +350,16 @@
 			"notes": "Travelled from the UK",
 			"patientnumber": "17",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855566",
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P6",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "63",
-			"backupnotes": "",
+			"backupnotes": "Travelled to Nepal on March 16, 2021",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "17/04/2020",
@@ -368,15 +368,15 @@
 			"detectedstate": "Bagmati Province",
 			"gender": "F",
 			"nationality": "Nepal",
-			"notes": "",
+			"notes": "Travelled from the UK",
 			"patientnumber": "18",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855566",
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P7",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "34",
@@ -392,12 +392,12 @@
 			"notes": "",
 			"patientnumber": "19",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P1",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -413,12 +413,12 @@
 			"notes": "",
 			"patientnumber": "20",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P2",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "26",
@@ -434,12 +434,12 @@
 			"notes": "",
 			"patientnumber": "21",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P3",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -455,12 +455,12 @@
 			"notes": "",
 			"patientnumber": "22",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P4",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -476,12 +476,12 @@
 			"notes": "",
 			"patientnumber": "23",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P5",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -497,12 +497,12 @@
 			"notes": "",
 			"patientnumber": "24",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P6",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "28",
@@ -518,12 +518,12 @@
 			"notes": "",
 			"patientnumber": "25",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P7",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -539,12 +539,12 @@
 			"notes": "",
 			"patientnumber": "26",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P8",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "25",
@@ -560,12 +560,12 @@
 			"notes": "",
 			"patientnumber": "27",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P9",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "20",
@@ -581,12 +581,12 @@
 			"notes": "",
 			"patientnumber": "28",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P10",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "40",
@@ -602,12 +602,12 @@
 			"notes": "",
 			"patientnumber": "29",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P11",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "29",
@@ -623,12 +623,12 @@
 			"notes": "",
 			"patientnumber": "30",
 			"source1": "https://covid19.mohp.gov.np/#/",
-			"source2": "",
+			"source2": "https://www.onlinekhabar.com/2020/04/855560",
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P12",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "65",
@@ -649,7 +649,7 @@
 			"statecode": "P1",
 			"statepatientnimber": "P1-P13",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		}
 	]
 }
