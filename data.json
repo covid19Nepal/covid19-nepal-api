@@ -784,13 +784,13 @@
 			"totalrecovered": "4"
 		},
 		{
-			"dailyconfirmed": "",
-			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "20 April",
-			"totalconfirmed": "",
-			"totaldeceased": "",
-			"totalrecovered": ""
+			"totalconfirmed": "31",
+			"totaldeceased": "0",
+			"totalrecovered": "4"
 		}
 	],
 	"statewise": [
@@ -1055,7 +1055,7 @@
 		{
 			"positivecasesfromsamplesreported": "",
 			"samplereportedtoday": "",
-			"source": "",
+			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
 			"totalindividaulstested": "6855",
 			"totalpositivecases": "16",
@@ -1065,12 +1065,42 @@
 		{
 			"positivecasesfromsamplesreported": "",
 			"samplereportedtoday": "",
-			"source": "",
+			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
 			"totalindividaulstested": "7224",
 			"totalpositivecases": "16",
 			"totalsamplestested": "7240",
 			"updatetimestamp": "17/04/2020 06:49:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalindividaulstested": "",
+			"totalpositivecases": "30",
+			"totalsamplestested": "7702",
+			"updatetimestamp": "18/04/2020 06:49:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalindividaulstested": "",
+			"totalpositivecases": "31",
+			"totalsamplestested": "8017",
+			"updatetimestamp": "19/04/2020 06:49:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalindividaulstested": "8383",
+			"totalpositivecases": "31",
+			"totalsamplestested": "8414",
+			"updatetimestamp": "20/04/2020 16:36:00"
 		}
 	]
 }
