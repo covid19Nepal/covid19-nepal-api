@@ -748,63 +748,36 @@
 			"totalrecovered": "1"
 		},
 		{
-			"dailyconfirmed": "0",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyconfirmed": "",
+			"dailydeceased": "",
+			"dailyrecovered": "",
 			"date": "16 April",
-			"totalconfirmed": "16",
-			"totaldeceased": "0",
-			"totalrecovered": "1"
-		},
-		{
-			"dailyconfirmed": "14",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "17 April",
-			"totalconfirmed": "30",
-			"totaldeceased": "0",
-			"totalrecovered": "1"
-		},
-		{
-			"dailyconfirmed": "1",
-			"dailydeceased": "0",
-			"dailyrecovered": "2",
-			"date": "18 April",
-			"totalconfirmed": "31",
-			"totaldeceased": "0",
-			"totalrecovered": "3"
-		},
-		{
-			"dailyconfirmed": "0",
-			"dailydeceased": "0",
-			"dailyrecovered": "1",
-			"date": "19 April",
-			"totalconfirmed": "31",
-			"totaldeceased": "0",
-			"totalrecovered": "4"
+			"totalconfirmed": "",
+			"totaldeceased": "",
+			"totalrecovered": ""
 		}
 	],
 	"statewise": [
 		{
-			"active": "27",
-			"confirmed": "31",
+			"active": "15",
+			"confirmed": "16",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 16:33:00",
-			"recovered": "4",
+			"lastupdatedtime": "14/04/2020 11:42:27",
+			"recovered": "1",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
+			"active": "0",
+			"confirmed": "0",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 21:07:00",
+			"lastupdatedtime": "14/04/2020 11:42:27",
 			"recovered": "0",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -822,27 +795,27 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "5",
-			"confirmed": "7",
+			"active": "4",
+			"confirmed": "5",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 14:53:00",
-			"recovered": "2",
-			"state": "Bagmati Province",
+			"lastupdatedtime": "14/04/2020 11:42:27",
+			"recovered": "1",
+			"state": "Province 3",
 			"statecode": "P3"
 		},
 		{
-			"active": "1",
+			"active": "2",
 			"confirmed": "2",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 17:54:00",
-			"recovered": "1",
-			"state": "Gandaki Province",
+			"lastupdatedtime": "14/04/2020 11:42:27",
+			"recovered": "0",
+			"state": "Province 4",
 			"statecode": "P4"
 		},
 		{
@@ -866,19 +839,19 @@
 			"deltarecovered": "0",
 			"lastupdatedtime": "14/04/2020 11:42:27",
 			"recovered": "0",
-			"state": "Karnali Province",
+			"state": "Province 6",
 			"statecode": "P6"
 		},
 		{
-			"active": "4",
+			"active": "5",
 			"confirmed": "5",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 16:33:00",
-			"recovered": "1",
-			"state": "Sudurpaschim Province",
+			"lastupdatedtime": "12/04/2020 11:42:27",
+			"recovered": "0",
+			"state": "Province 7",
 			"statecode": "P7"
 		}
 	],
