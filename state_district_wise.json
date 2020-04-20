@@ -1,5 +1,5 @@
 {
-  "Province 3": {
+  "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
         "confirmed": 5,
@@ -17,7 +17,7 @@
       }
     }
   },
-  "Province 7": {
+  "Sudurpaschim Province": {
     "districtData": {
       "Kailali": {
         "confirmed": 4,
@@ -35,7 +35,7 @@
       }
     }
   },
-  "Province 4": {
+  "Gandaki Province": {
     "districtData": {
       "Baglung": {
         "confirmed": 2,
