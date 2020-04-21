@@ -67,7 +67,7 @@
 			"agebracket": "34",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "27/03/2020",
 			"detectedcity": "Dhangadhi",
 			"detecteddistrict": "Kailali",
@@ -78,10 +78,10 @@
 			"patientnumber": "4",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://kathmandupost.com/national/2020/03/27/fourth-nepali-tests-positive-for-covid-19-case",
-			"source3": "",
+			"source3": "https://ekantipur.com/news/2020/04/21/1587473389042958.html",
 			"statecode": "P7",
 			"statepatientnimber": "P7-P1",
-			"statuschangedate": "",
+			"statuschangedate": "21/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
