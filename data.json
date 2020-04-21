@@ -810,7 +810,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/04/2020 16:56:00",
+			"lastupdatedtime": "21/04/2020 19:32:00",
 			"recovered": "5",
 			"state": "Total",
 			"statecode": "TT"
@@ -822,7 +822,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/04/2020 16:56:00",
+			"lastupdatedtime": "21/04/2020 19:32:00",
 			"recovered": "0",
 			"state": "Province 1",
 			"statecode": "P1"
