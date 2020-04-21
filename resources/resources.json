@@ -113,13 +113,57 @@
 		{
 			"additionalfeedbackcomment": "",
 			"category": "Covid19-Testing Labs",
-			"city": "",
-			"contact": "",
-			"descriptionandorserviceprovided": "",
+			"city": "Surkhet",
+			"contact": " www.midwesterncancercentre.ie/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
 			"nameoftheorganisation": "Mid Western Regional Hospital",
 			"phonenumber": "",
-			"state": "",
-			"timestamp": ""
+			"state": "Karnali Province",
+			"timestamp": "21/04/2020 17:16:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Nepalgunj",
+			"contact": "",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Bheri Zonal Hospital",
+			"phonenumber": "",
+			"state": "Province 5",
+			"timestamp": "21/04/2020 17:16:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Kailali",
+			"contact": "",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Seti Zonal Hospital",
+			"phonenumber": "",
+			"state": "Sudurpaschim Province",
+			"timestamp": "21/04/2020 17:18:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Rupandehi",
+			"contact": "",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "National Wheat Research Center",
+			"phonenumber": "",
+			"state": "Province 5",
+			"timestamp": "21/04/2020 17:18:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Quarantine Center",
+			"city": "Bhaktapur",
+			"contact": "https://www.facebook.com/pages/Bhaktapur-Kharipati-NEA-Training-Center/220158554695430",
+			"descriptionandorserviceprovided": "",
+			"nameoftheorganisation": "Training Center of Nepal Electricity Authority",
+			"phonenumber": "01-6616660",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 17:20:00"
 		}
 	]
 }
