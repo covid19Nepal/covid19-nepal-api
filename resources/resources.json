@@ -65,6 +65,61 @@
 			"phonenumber": "",
 			"state": "Bagmati Province",
 			"timestamp": "21/04/2020 17:01:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Hetauda",
+			"contact": "http://vbdrtc.gov.np/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Vector Borne Disease Research and Training Center",
+			"phonenumber": "",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 17:09:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Dharan",
+			"contact": "http://www.bpkihs.edu/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "B.P. Koirala Institute of Health Sciences",
+			"phonenumber": "977-25-525555",
+			"state": "Province 1",
+			"timestamp": "21/04/2020 17:11:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Janakpur",
+			"contact": "https://www.mohp.gov.np/eng/health-institutions/government/zonal-hospitals",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Janakpur Zonal Hospital",
+			"phonenumber": "041-520133",
+			"state": "Province 2",
+			"timestamp": "21/04/2020 17:12:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Chitwan",
+			"contact": "",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "National Avian DIsease Investigation Laboratory",
+			"phonenumber": "",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 17:14:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "",
+			"contact": "",
+			"descriptionandorserviceprovided": "",
+			"nameoftheorganisation": "Mid Western Regional Hospital",
+			"phonenumber": "",
+			"state": "",
+			"timestamp": ""
 		}
 	]
 }
