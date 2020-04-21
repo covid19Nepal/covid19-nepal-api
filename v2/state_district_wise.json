@@ -72,14 +72,6 @@
         "delta": {
           "confirmed": 0
         }
-      },
-      {
-        "district": "Udayapur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
       }
     ]
   },
@@ -88,49 +80,10 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
-        }
-      }
-    ]
-  },
-  {
-    "state": "Province 3",
-    "districtData": [
-      {
-        "district": "Udayapur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      }
-    ]
-  },
-  {
-    "state": "Province 4",
-    "districtData": [
-      {
-        "district": "Udayapur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      }
-    ]
-  },
-  {
-    "state": "Province 5",
-    "districtData": [
-      {
-        "district": "Udayapur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
+          "confirmed": 5
         }
       }
     ]
@@ -176,6 +129,19 @@
   },
   {
     "state": "Province 9",
+    "districtData": [
+      {
+        "district": "Udayapur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
     "districtData": [
       {
         "district": "Udayapur",
