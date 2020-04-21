@@ -9,7 +9,29 @@
 			"nameoftheorganisation": "National Public Health Laboratory",
 			"phonenumber": "14240217",
 			"state": "Bagmati Province",
-			"timestamp": "4/15/2020 15:50:44"
+			"timestamp": "15/04/2020 15:50:44"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Kathmandu",
+			"contact": "http://www.pahs.edu.np/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Patan Academy of Health Science",
+			"phonenumber": "01-5522295",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 09:47:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Health Facility",
+			"city": "Kritipur",
+			"contact": "https://nartc.org.np/",
+			"descriptionandorserviceprovided": "",
+			"nameoftheorganisation": "Ayurbed Research Center",
+			"phonenumber": "01-4334973",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 09:50:00"
 		}
 	]
 }

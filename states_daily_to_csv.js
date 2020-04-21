@@ -44,6 +44,10 @@ daily.states_daily.forEach(element => {
     }
 });
 
+// console.log(confirmed_csv);
+// console.log(recovered_csv);
+// console.log(deceased_csv);
+
 fs.writeFileSync('states_daily_csv/confirmed.csv', confirmed_csv);
 fs.writeFileSync('states_daily_csv/recovered.csv', recovered_csv);
 fs.writeFileSync('states_daily_csv/deceased.csv', deceased_csv);
