@@ -1,6 +1,6 @@
 [
   {
-    "state": "Province 3",
+    "state": "Bagmati Province",
     "districtData": [
       {
         "district": "Kathmandu",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "state": "Province 7",
+    "state": "Sudurpaschim Province",
     "districtData": [
       {
         "district": "Kailali",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "state": "Province 4",
+    "state": "Gandaki Province",
     "districtData": [
       {
         "district": "Baglung",
