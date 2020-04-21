@@ -61,6 +61,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -75,13 +82,79 @@
       }
     }
   },
-  "Unknown": {
+  "Province 3": {
     "districtData": {
-      "Unknown": {
-        "confirmed": 8,
+      "Udayapur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 4": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 5": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 6": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 7": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 8": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Province 9": {
+    "districtData": {
+      "Udayapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
