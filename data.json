@@ -804,8 +804,8 @@
 	],
 	"statewise": [
 		{
-			"active": "36",
-			"confirmed": "41",
+			"active": "37",
+			"confirmed": "42",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -816,8 +816,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "23",
-			"confirmed": "23",
+			"active": "24",
+			"confirmed": "24",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
