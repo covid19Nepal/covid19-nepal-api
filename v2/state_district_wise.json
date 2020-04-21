@@ -80,10 +80,10 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 11
         }
       }
     ]

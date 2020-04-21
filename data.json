@@ -793,11 +793,11 @@
 			"totalrecovered": "4"
 		},
 		{
-			"dailyconfirmed": "10",
+			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "21 April",
-			"totalconfirmed": "41",
+			"totalconfirmed": "42",
 			"totaldeceased": "0",
 			"totalrecovered": "5"
 		}
