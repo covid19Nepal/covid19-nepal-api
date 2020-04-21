@@ -650,6 +650,27 @@
 			"statepatientnimber": "P1-P13",
 			"statuschangedate": "",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "33",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "21/04/2020",
+			"detectedcity": "Udayapur",
+			"detecteddistrict": "Udayapur",
+			"detectedstate": "Province 1",
+			"gender": "M",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "32",
+			"source1": "https://covid19.mohp.gov.np/#/",
+			"source2": "",
+			"source3": "",
+			"statecode": "P1",
+			"statepatientnimber": "P1-P14",
+			"statuschangedate": "",
+			"typeoftransmission": "Imported"
 		}
 	]
 }

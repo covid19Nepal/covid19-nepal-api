@@ -791,29 +791,38 @@
 			"totalconfirmed": "31",
 			"totaldeceased": "0",
 			"totalrecovered": "4"
+		},
+		{
+			"dailyconfirmed": "1",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "21 April",
+			"totalconfirmed": "32",
+			"totaldeceased": "0",
+			"totalrecovered": "4"
 		}
 	],
 	"statewise": [
 		{
-			"active": "27",
-			"confirmed": "31",
+			"active": "28",
+			"confirmed": "32",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 16:33:00",
+			"lastupdatedtime": "21/04/2020 16:56:00",
 			"recovered": "4",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "13",
-			"confirmed": "13",
+			"active": "14",
+			"confirmed": "14",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 21:07:00",
+			"lastupdatedtime": "21/04/2020 16:56:00",
 			"recovered": "0",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -1101,6 +1110,16 @@
 			"totalpositivecases": "31",
 			"totalsamplestested": "8414",
 			"updatetimestamp": "20/04/2020 16:36:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "8731",
+			"totalpositivecases": "32",
+			"totalsamplestested": "8763",
+			"updatetimestamp": "21/04/2020 16:57:00"
 		}
 	]
 }
