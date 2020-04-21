@@ -80,10 +80,23 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "confirmed": 22,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 1
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     ]

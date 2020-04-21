@@ -67,10 +67,21 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "confirmed": 22,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 1
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
         }
       }
     }
