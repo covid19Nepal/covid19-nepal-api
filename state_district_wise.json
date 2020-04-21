@@ -67,10 +67,10 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "confirmed": 14,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 9
         }
       }
     }
