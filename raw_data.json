@@ -778,7 +778,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "52",
+			"agebracket": "41",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -799,7 +799,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "58",
+			"agebracket": "52",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -820,7 +820,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "36",
+			"agebracket": "58",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -828,7 +828,7 @@
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
 			"detectedstate": "Province 1",
-			"gender": "F",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "40",
@@ -841,7 +841,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "36",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -870,7 +870,7 @@
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
 			"detectedstate": "Province 1",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "42",
