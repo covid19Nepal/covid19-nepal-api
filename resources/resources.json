@@ -27,11 +27,44 @@
 			"category": "Health Facility",
 			"city": "Kritipur",
 			"contact": "https://nartc.org.np/",
-			"descriptionandorserviceprovided": "",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
 			"nameoftheorganisation": "Ayurbed Research Center",
 			"phonenumber": "01-4334973",
 			"state": "Bagmati Province",
 			"timestamp": "21/04/2020 09:50:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Pokhara",
+			"contact": "https://pahs.gov.np/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Pokhara Health Science Academy",
+			"phonenumber": "061-522674",
+			"state": "Gandaki Province",
+			"timestamp": "21/04/2020 17:01:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Kathmandu",
+			"contact": "https://en.wikipedia.org/wiki/Bir_Hospital",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Bir Hospital",
+			"phonenumber": "",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 17:01:00"
+		},
+		{
+			"additionalfeedbackcomment": "",
+			"category": "Covid19-Testing Labs",
+			"city": "Dulikhel",
+			"contact": "https://en.wikipedia.org/wiki/Dhulikhel_Hospital",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs",
+			"nameoftheorganisation": "Dulikhel Hospital",
+			"phonenumber": "",
+			"state": "Bagmati Province",
+			"timestamp": "21/04/2020 17:01:00"
 		}
 	]
 }
