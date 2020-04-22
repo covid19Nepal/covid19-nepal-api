@@ -46,7 +46,7 @@
 			"agebracket": "32",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "25/03/2020",
 			"detectedcity": "Kathmandu",
 			"detecteddistrict": "Kathmandu",
@@ -60,7 +60,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P3",
-			"statuschangedate": "",
+			"statuschangedate": "22/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
