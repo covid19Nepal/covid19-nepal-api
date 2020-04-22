@@ -901,7 +901,7 @@
 			"statecode": "P1",
 			"statepatientnimber": "P1-P25",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "60",
@@ -914,7 +914,7 @@
 			"detectedstate": "Province 1",
 			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Case reported from area around a mosque in Udayapur",
 			"patientnumber": "44",
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "https://www.facebook.com/mohpnep/videos/2335987356701383/?epa=SEARCH_BOX",
@@ -922,7 +922,7 @@
 			"statecode": "P1",
 			"statepatientnimber": "P1-P26",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "72",
@@ -935,7 +935,7 @@
 			"detectedstate": "Province 1",
 			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Case reported from area around a mosque in Udayapur",
 			"patientnumber": "45",
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "https://www.facebook.com/mohpnep/videos/2335987356701383/?epa=SEARCH_BOX",
@@ -943,7 +943,7 @@
 			"statecode": "P1",
 			"statepatientnimber": "P1-27",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		}
 	]
 }
