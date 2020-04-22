@@ -802,19 +802,19 @@
 			"totalrecovered": "5"
 		},
 		{
-			"dailyconfirmed": "0",
+			"dailyconfirmed": "3",
 			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailyrecovered": "2",
 			"date": "22 April",
-			"totalconfirmed": "42",
+			"totalconfirmed": "45",
 			"totaldeceased": "0",
-			"totalrecovered": "6"
+			"totalrecovered": "7"
 		}
 	],
 	"statewise": [
 		{
-			"active": "36",
-			"confirmed": "42",
+			"active": "39",
+			"confirmed": "45",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -825,8 +825,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "24",
-			"confirmed": "24",
+			"active": "27",
+			"confirmed": "27",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
