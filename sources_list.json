@@ -1,30 +1,94 @@
 {
 	"sources_list": [
 		{
-			"age": "21",
-			"announceddate": "4/7/2020",
-			"city": "Kathmandu",
-			"iwanttoreporta": "Recovery",
-			"nationality": "Nepali",
-			"patientgender": "Male",
-			"province": "Bagmati Province",
-			"regardingpatientnumber": "P1-P2",
-			"remarksregardingpatienthistory": "Travelled from India",
-			"source": "https://www.mohp.gov.np/en/",
-			"timestamp": "4/8/2020 14:21:09"
+			"region": "General",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "https://www.facebook.com/mohpnep/",
+			"source3": "https://english.onlinekhabar.com/tag/covid-19",
+			"source4": "https://covid19.ekantipur.com/",
+			"source5": "",
+			"source6": "",
+			"statecode": "GG"
 		},
 		{
-			"age": "21",
-			"announceddate": "1/24/2020",
-			"city": "Kathmandu",
-			"iwanttoreporta": "Confirmed Case",
-			"nationality": "Nepali",
-			"patientgender": "Male",
-			"province": "Bagmati Province",
-			"regardingpatientnumber": "",
-			"remarksregardingpatienthistory": "From India",
-			"source": " https://www.mohp.gov.np/en/",
-			"timestamp": "4/8/2020 15:05:23"
+			"region": "Testing",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "https://www.facebook.com/mohpnep/",
+			"source3": "https://english.onlinekhabar.com/tag/covid-19",
+			"source4": "https://covid19.ekantipur.com/",
+			"source5": "",
+			"source6": "",
+			"statecode": "TE"
+		},
+		{
+			"region": "Province 1",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/district/province-no-1/",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P1"
+		},
+		{
+			"region": "Province 2",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/district/province-no-2/",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P2"
+		},
+		{
+			"region": "Bagmati Province",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/district/province-no-3/",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P3"
+		},
+		{
+			"region": "Gandaki Province",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/district/gandaki-province/",
+			"source3": "https://ocmcm.gandaki.gov.np/",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P4"
+		},
+		{
+			"region": "Province 5",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/district/province-no-5/",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P5"
+		},
+		{
+			"region": "Karnali Province",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "https://kathmandupost.com/karnali-province",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P6"
+		},
+		{
+			"region": "Sudurpaschim Province",
+			"source1": "https://covid19.mohp.gov.np/",
+			"source2": "http://inseconline.org/en/news/corona-virus-situation-of-far-west-province/",
+			"source3": "",
+			"source4": "",
+			"source5": "",
+			"source6": "",
+			"statecode": "P7"
 		}
 	]
 }
