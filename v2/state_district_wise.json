@@ -80,15 +80,7 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "confirmed": 24,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Dharan",
-        "confirmed": 3,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3

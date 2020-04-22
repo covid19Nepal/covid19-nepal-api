@@ -67,14 +67,7 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "confirmed": 24,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Dharan": {
-        "confirmed": 3,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
