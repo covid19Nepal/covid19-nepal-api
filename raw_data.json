@@ -148,10 +148,10 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "41",
+			"agebracket": "40",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "04/04/2020",
 			"detectedcity": "Kanchanpur",
 			"detecteddistrict": "Kanchanpur",
@@ -162,10 +162,10 @@
 			"patientnumber": "8",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://english.onlinekhabar.com/nepal-adds-three-new-cases-to-coronavirus-infection-tally.html",
-			"source3": "",
+			"source3": "https://www.onlinekhabar.com/2020/04/857218",
 			"statecode": "P7",
 			"statepatientnimber": "P7-P3",
-			"statuschangedate": "",
+			"statuschangedate": "22/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
