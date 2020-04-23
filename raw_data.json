@@ -312,7 +312,7 @@
 			"source3": "https://english.onlinekhabar.com/two-of-a-family-in-kathmandu-test-positive-for-coronavirus-nepals-tally-hits-16.html",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P4",
-			"statuschangedate": "",
+			"statuschangedate": "23/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -333,7 +333,7 @@
 			"source3": "https://english.onlinekhabar.com/two-of-a-family-in-kathmandu-test-positive-for-coronavirus-nepals-tally-hits-16.html",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P5",
-			"statuschangedate": "",
+			"statuschangedate": "23/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -946,46 +946,46 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
-			"gender": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/04/2020",
+			"detectedcity": "Udayapur",
+			"detecteddistrict": "Udayapur",
+			"detectedstate": "Province 1",
+			"gender": "F",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "46",
-			"source1": "",
+			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
-			"statepatientnimber": "",
+			"statecode": "P1",
+			"statepatientnimber": "P1-P28",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "14",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
-			"dateannounced": "",
-			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
-			"gender": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/04/2020",
+			"detectedcity": "Janakpur",
+			"detecteddistrict": "Janakpur",
+			"detectedstate": "Province 2",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumber": "47",
-			"source1": "",
+			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
-			"statepatientnimber": "",
+			"statecode": "P2",
+			"statepatientnimber": "P2-P5",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		}
 	]
 }
