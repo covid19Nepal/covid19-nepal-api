@@ -79,6 +79,13 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      "Bhojpur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   }

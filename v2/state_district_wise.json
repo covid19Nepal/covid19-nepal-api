@@ -93,6 +93,14 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Bhojpur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   }

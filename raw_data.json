@@ -986,6 +986,27 @@
 			"statepatientnimber": "P2-P5",
 			"statuschangedate": "",
 			"typeoftransmission": "Local"
+		},
+		{
+			"agebracket": "26",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "23/04/2020",
+			"detectedcity": "Bhojpur",
+			"detecteddistrict": "Bhojpur",
+			"detectedstate": "Province 1",
+			"gender": "M",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "48",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "P1",
+			"statepatientnimber": "P1-P29",
+			"statuschangedate": "",
+			"typeoftransmission": "Imported"
 		}
 	]
 }
