@@ -813,23 +813,23 @@
 		{
 			"dailyconfirmed": "2",
 			"dailydeceased": "0",
-			"dailyrecovered": "2",
+			"dailyrecovered": "3",
 			"date": "23 April",
 			"totalconfirmed": "47",
 			"totaldeceased": "0",
-			"totalrecovered": "9"
+			"totalrecovered": "10"
 		}
 	],
 	"statewise": [
 		{
-			"active": "38",
+			"active": "37",
 			"confirmed": "47",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 16:35:00",
-			"recovered": "9",
+			"lastupdatedtime": "23/04/2020 18:35:00",
+			"recovered": "10",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -906,14 +906,14 @@
 			"statecode": "P6"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "5",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 16:33:00",
-			"recovered": "3",
+			"lastupdatedtime": "23/04/2020 18:35:00",
+			"recovered": "4",
 			"state": "Sudurpaschim Province",
 			"statecode": "P7"
 		}
