@@ -818,6 +818,15 @@
 			"totalconfirmed": "48",
 			"totaldeceased": "0",
 			"totalrecovered": "10"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "24 April",
+			"totalconfirmed": "48",
+			"totaldeceased": "0",
+			"totalrecovered": "10"
 		}
 	],
 	"statewise": [
@@ -1158,6 +1167,16 @@
 			"totalpositivecases": "47",
 			"totalsamplestested": "9199",
 			"updatetimestamp": "25/04/2020 16:27:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "9359",
+			"totalpositivecases": "48",
+			"totalsamplestested": "9407",
+			"updatetimestamp": "26/04/2020 16:27:00"
 		}
 	]
 }
