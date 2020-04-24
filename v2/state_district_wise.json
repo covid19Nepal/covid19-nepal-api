@@ -96,7 +96,15 @@
       },
       {
         "district": "Bhojpur",
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jhapa",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1

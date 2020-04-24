@@ -81,7 +81,14 @@
         }
       },
       "Bhojpur": {
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jhapa": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
