@@ -96,10 +96,10 @@
       },
       {
         "district": "Bhojpur",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
