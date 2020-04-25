@@ -340,7 +340,7 @@
 			"agebracket": "27",
 			"backupnotes": "Travelled to Nepal on March 16, 2020",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "17/04/2020",
 			"detectedcity": "Chitwan",
 			"detecteddistrict": "Chitwan",
@@ -354,7 +354,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P6",
-			"statuschangedate": "",
+			"statuschangedate": "25/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{

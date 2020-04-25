@@ -831,23 +831,23 @@
 		{
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
-			"dailyrecovered": "1",
+			"dailyrecovered": "2",
 			"date": "25 April",
 			"totalconfirmed": "49",
 			"totaldeceased": "0",
-			"totalrecovered": "11"
+			"totalrecovered": "12"
 		}
 	],
 	"statewise": [
 		{
-			"active": "38",
+			"active": "37",
 			"confirmed": "49",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 11:18:00",
-			"recovered": "11",
+			"lastupdatedtime": "25/04/2020 16:53:00",
+			"recovered": "12",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -876,14 +876,14 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 16:35:00",
-			"recovered": "5",
+			"lastupdatedtime": "25/04/2020 16:53:00",
+			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
 		},
