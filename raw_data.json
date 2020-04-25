@@ -88,7 +88,7 @@
 			"agebracket": "19",
 			"backupnotes": "Travelled in the same flight with Patient 2 and Patient 6",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/03/2020",
 			"detectedcity": "Baglung",
 			"detecteddistrict": "Baglung",
@@ -102,7 +102,7 @@
 			"source3": "",
 			"statecode": "P4",
 			"statepatientnimber": "P4-P1",
-			"statuschangedate": "",
+			"statuschangedate": "25/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{

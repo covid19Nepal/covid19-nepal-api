@@ -827,18 +827,27 @@
 			"totalconfirmed": "49",
 			"totaldeceased": "0",
 			"totalrecovered": "10"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "1",
+			"date": "25 April",
+			"totalconfirmed": "49",
+			"totaldeceased": "0",
+			"totalrecovered": "11"
 		}
 	],
 	"statewise": [
 		{
-			"active": "39",
+			"active": "38",
 			"confirmed": "49",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/04/2020 20:40:00",
-			"recovered": "10",
+			"lastupdatedtime": "25/04/2020 11:18:00",
+			"recovered": "11",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -849,7 +858,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/04/2020 20:40:00",
+			"lastupdatedtime": "24/04/2020 21:40:00",
 			"recovered": "0",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -879,14 +888,14 @@
 			"statecode": "P3"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "2",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/04/2020 17:54:00",
-			"recovered": "1",
+			"lastupdatedtime": "25/04/2020 11:18:00",
+			"recovered": "2",
 			"state": "Gandaki Province",
 			"statecode": "P4"
 		},
