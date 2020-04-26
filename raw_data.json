@@ -193,7 +193,7 @@
 			"agebracket": "37",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
@@ -207,14 +207,14 @@
 			"source3": "https://www.indiatoday.in/india/story/3-indian-nationals-test-positive-for-coronavirus-in-nepal-1666123-2020-04-12",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P1",
-			"statuschangedate": "",
+			"statuschangedate": "26/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "44",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
@@ -228,14 +228,14 @@
 			"source3": "https://www.indiatoday.in/india/story/3-indian-nationals-test-positive-for-coronavirus-in-nepal-1666123-2020-04-12",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P2",
-			"statuschangedate": "",
+			"statuschangedate": "26/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "55",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
@@ -249,7 +249,7 @@
 			"source3": "https://www.indiatoday.in/india/story/3-indian-nationals-test-positive-for-coronavirus-in-nepal-1666123-2020-04-12",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P3",
-			"statuschangedate": "",
+			"statuschangedate": "26/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -277,7 +277,7 @@
 			"agebracket": "19",
 			"backupnotes": "Returned home from India on March 29, the sixth day of nationwide lockdown",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "13/04/2020",
 			"detectedcity": "Ishnath ",
 			"detecteddistrict": "Rautahat",
@@ -291,7 +291,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P4",
-			"statuschangedate": "",
+			"statuschangedate": "26/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
