@@ -49,10 +49,10 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Rautahat": {
