@@ -1070,6 +1070,27 @@
 			"statepatientnimber": "P2-P7",
 			"statuschangedate": "",
 			"typeoftransmission": "Imported"
+		},
+		{
+			"agebracket": "50",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "26/04/2020",
+			"detectedcity": "Jhapa",
+			"detecteddistrict": "Jhapa",
+			"detectedstate": "Province 1",
+			"gender": "M",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "52",
+			"source1": "https://covid19.mohp.gov.np/#/",
+			"source2": "",
+			"source3": "",
+			"statecode": "P1",
+			"statepatientnimber": "P1-P31",
+			"statuschangedate": "",
+			"typeoftransmission": "Imported"
 		}
 	]
 }
