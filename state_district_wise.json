@@ -56,10 +56,10 @@
         }
       },
       "Rautahat": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dhanusa": {
@@ -88,17 +88,6 @@
         }
       },
       "Jhapa": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
