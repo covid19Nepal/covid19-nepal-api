@@ -102,5 +102,23 @@
         }
       }
     }
+  },
+  "Province 5": {
+    "districtData": {
+      "Banke": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Rupdandehi": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
   }
 }
