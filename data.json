@@ -901,11 +901,11 @@
 			"totalrecovered": "16"
 		},
 		{
-			"dailyconfirmed": "10",
+			"dailyconfirmed": "16",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "3 May",
-			"totalconfirmed": "69",
+			"totalconfirmed": "75",
 			"totaldeceased": "0",
 			"totalrecovered": "16"
 		}

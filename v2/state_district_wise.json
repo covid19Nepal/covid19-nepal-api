@@ -125,10 +125,10 @@
     "districtData": [
       {
         "district": "Banke",
-        "confirmed": 10,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 15
         }
       },
       {
