@@ -59,10 +59,10 @@
     "districtData": [
       {
         "district": "Parsa",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -125,7 +125,7 @@
     "districtData": [
       {
         "district": "Banke",
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -134,19 +134,6 @@
       {
         "district": "Rupdandehi",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

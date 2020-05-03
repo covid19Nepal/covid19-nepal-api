@@ -49,10 +49,10 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Rautahat": {
@@ -106,7 +106,7 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "confirmed": 1,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -114,17 +114,6 @@
       },
       "Rupdandehi": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
