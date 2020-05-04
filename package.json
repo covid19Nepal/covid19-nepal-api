@@ -10,7 +10,7 @@
   "dependencies": {
     "drive-db": "^6.0.0",
     "fs": "0.0.1-security",
-    "moment": "^2.25.2",
+    "moment": "^2.25.3",
     "moment-timezone": "^0.5.28",
     "mongoose": "^5.5.13",
     "node-fetch": "^2.6.0"
