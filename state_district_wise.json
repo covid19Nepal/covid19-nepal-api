@@ -106,10 +106,10 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "confirmed": 16,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Rupdandehi": {
