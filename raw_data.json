@@ -296,7 +296,7 @@
 		},
 		{
 			"agebracket": "58",
-			"backupnotes": "Travelled to Nepal on March 18, 2020 - Residing at Sun City Apartments (Kageshwori Manohara)",
+			"backupnotes": "Travelled to Nepal on March 18, 2020 - Residing at Sun City Apartments (Kageshwori Manohara)\n",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "14/04/2020",
@@ -305,7 +305,7 @@
 			"detectedstate": "Bagmati Province",
 			"gender": "M",
 			"nationality": "Nepal",
-			"notes": "Travelled from the UK",
+			"notes": "Travelled from the UK\nTested Positive on 14th April\nTested Negative on 23rd April\nTested Positive again on 5th May",
 			"patientnumber": "15",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://www.onlinekhabar.com/2020/04/854448",
