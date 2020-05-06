@@ -138,6 +138,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Parsa",
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 17
+        }
       }
     ]
   }

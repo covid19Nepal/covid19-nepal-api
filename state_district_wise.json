@@ -118,6 +118,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Parsa": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 17
+        }
       }
     }
   }
