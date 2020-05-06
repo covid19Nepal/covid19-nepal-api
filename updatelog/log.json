@@ -122,5 +122,9 @@
   {
     "update": "6 recoveries in Province 1\n",
     "timestamp": 1588762462
+  },
+  {
+    "update": "17 new cases in Province 2\n",
+    "timestamp": 1588763291
   }
 ]
