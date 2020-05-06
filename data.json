@@ -936,7 +936,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "5/5/2020 8:30:27",
+			"lastupdatedtime": "05/05/2020 8:30:00",
 			"recovered": "16",
 			"state": "Total",
 			"statecode": "TT"
@@ -996,7 +996,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "5/5/2020 8:30:27",
+			"lastupdatedtime": "5/5/2020 8:30:00",
 			"recovered": "0",
 			"state": "Province 5",
 			"statecode": "P5"
