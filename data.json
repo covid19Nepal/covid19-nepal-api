@@ -939,7 +939,7 @@
 	],
 	"statewise": [
 		{
-			"active": "78",
+			"active": "77",
 			"confirmed": "99",
 			"deaths": "0",
 			"deltaconfirmed": "0",
@@ -975,7 +975,7 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "2",
+			"active": "1",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
@@ -1325,6 +1325,16 @@
 			"totalpositivecases": "82",
 			"totalsamplestested": "13850",
 			"updatetimestamp": "05/05/2020 9:46:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "13997",
+			"totalpositivecases": "99",
+			"totalsamplestested": "14096",
+			"updatetimestamp": "06/05/2020 17:01:00"
 		}
 	]
 }

@@ -49,10 +49,10 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 7,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Rautahat": {
@@ -117,13 +117,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Parsa": {
-        "confirmed": 17,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 17
         }
       }
     }
