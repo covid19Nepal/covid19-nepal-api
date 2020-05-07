@@ -948,7 +948,7 @@
 	],
 	"statewise": [
 		{
-			"active": "77",
+			"active": "79",
 			"confirmed": "101",
 			"deaths": "0",
 			"deltaconfirmed": "0",
@@ -1008,7 +1008,7 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "24",
+			"active": "26",
 			"confirmed": "26",
 			"deaths": "0",
 			"deltaconfirmed": "0",
@@ -1353,7 +1353,7 @@
 			"totalnegativetested": "14410",
 			"totalpositivecases": "101",
 			"totalsamplestested": "14511",
-			"updatetimestamp": "07/05/2020 16:24:00"
+			"updatetimestamp": "07/05/2020 21:24:00"
 		}
 	]
 }
