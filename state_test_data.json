@@ -1889,6 +1889,51 @@
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "20/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "267",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1Ha4TAYoz88WBpTuCTzNadGGWZ-Nro0OJ",
+			"state": "Province 2",
+			"totalpeopleinquarantine": "1256",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "6/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "145",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1Ha4TAYoz88WBpTuCTzNadGGWZ-Nro0OJ",
+			"state": "Gandaki Province",
+			"totalpeopleinquarantine": "657",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "6/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "487",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1Ha4TAYoz88WBpTuCTzNadGGWZ-Nro0OJ",
+			"state": "Karnali Province",
+			"totalpeopleinquarantine": "3758",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "6/5/2020"
 		}
 	]
 }
