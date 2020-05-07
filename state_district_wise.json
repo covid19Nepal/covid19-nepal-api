@@ -118,6 +118,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Kapilvastu": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   }

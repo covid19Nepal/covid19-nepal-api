@@ -138,6 +138,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Kapilvastu",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   }
