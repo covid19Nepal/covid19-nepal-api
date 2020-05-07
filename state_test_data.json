@@ -1934,6 +1934,66 @@
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "6/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1mDCOcEJpHvepwuyxWWwF15CnGmrE8dOr",
+			"state": "Province 1",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "7/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1mDCOcEJpHvepwuyxWWwF15CnGmrE8dOr",
+			"state": "Bagmati Province",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "7/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1mDCOcEJpHvepwuyxWWwF15CnGmrE8dOr",
+			"state": "Province 5",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "7/5/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://drive.google.com/drive/folders/1mDCOcEJpHvepwuyxWWwF15CnGmrE8dOr",
+			"state": "Sudurpaschim Province",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "7/5/2020"
 		}
 	]
 }

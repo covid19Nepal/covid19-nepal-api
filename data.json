@@ -935,6 +935,15 @@
 			"totalconfirmed": "99",
 			"totaldeceased": "0",
 			"totalrecovered": "22"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "7 May",
+			"totalconfirmed": "99",
+			"totaldeceased": "0",
+			"totalrecovered": "22"
 		}
 	],
 	"statewise": [
@@ -1335,6 +1344,16 @@
 			"totalpositivecases": "99",
 			"totalsamplestested": "14096",
 			"updatetimestamp": "06/05/2020 17:01:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "14410",
+			"totalpositivecases": "99",
+			"totalsamplestested": "14509",
+			"updatetimestamp": "07/05/2020 16:42:00"
 		}
 	]
 }
