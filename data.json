@@ -957,7 +957,7 @@
 	],
 	"statewise": [
 		{
-			"active": "80",
+			"active": "72",
 			"confirmed": "102",
 			"deaths": "0",
 			"deltaconfirmed": "0",
@@ -969,13 +969,13 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "25",
+			"active": "17",
 			"confirmed": "31",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/05/2020 16:09:00",
+			"lastupdatedtime": "08/05/2020 16:02:00",
 			"recovered": "14",
 			"state": "Province 1",
 			"statecode": "P1"
