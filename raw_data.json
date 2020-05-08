@@ -2098,7 +2098,7 @@
 			"statecode": "P5",
 			"statepatientnimber": "P5-25",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "22",
@@ -2119,7 +2119,7 @@
 			"statecode": "P5",
 			"statepatientnimber": "P5-26",
 			"statuschangedate": "",
-			"typeoftransmission": ""
+			"typeoftransmission": "Imported"
 		}
 	]
 }
