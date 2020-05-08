@@ -134,5 +134,9 @@
   {
     "update": "8 recoveries in Province 1\n1 new case in Province 5\n",
     "timestamp": 1588937678
+  },
+  {
+    "update": "1 recovery in Sudurpaschim Province\n",
+    "timestamp": 1588952068
   }
 ]
