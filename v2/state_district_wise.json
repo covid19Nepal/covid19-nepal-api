@@ -140,32 +140,27 @@
         }
       },
       {
-        "district": "Rupdandehi",
-        "confirmed": 1,
+        "district": "Rupandehi",
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Kapilvastu",
-        "confirmed": 15,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 16
         }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
+      },
       {
-        "district": "Unknown",
-        "confirmed": 13,
+        "district": "Bardiya",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
