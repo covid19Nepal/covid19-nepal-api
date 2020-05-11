@@ -49,7 +49,7 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -75,13 +75,20 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Saptari": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     }
   },
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "confirmed": 28,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -120,7 +127,7 @@
         }
       },
       "Kapilvastu": {
-        "confirmed": 2,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
