@@ -990,7 +990,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 14:35:00",
+			"lastupdatedtime": "11/05/2020 16:35:00",
 			"recovered": "31",
 			"state": "Total",
 			"statecode": "TT"
@@ -1426,10 +1426,10 @@
 			"samplereportedtoday": "",
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
-			"totalnegativetested": "16788",
+			"totalnegativetested": "17688",
 			"totalpositivecases": "121",
-			"totalsamplestested": "16909",
-			"updatetimestamp": "11/05/2020 14:30:00"
+			"totalsamplestested": "17809",
+			"updatetimestamp": "11/05/2020 16:35:00"
 		}
 	]
 }
