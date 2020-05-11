@@ -1072,10 +1072,10 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "50",
+			"agebracket": "48",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "26/04/2020",
 			"detectedcity": "Jhapa",
 			"detecteddistrict": "Jhapa",
@@ -1089,7 +1089,7 @@
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P31",
-			"statuschangedate": "",
+			"statuschangedate": "11/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
