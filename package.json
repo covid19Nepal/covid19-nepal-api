@@ -2,9 +2,9 @@
   "name": "covid19nepal-api",
   "version": "1.0.0",
   "description": "",
-  "main": "sheet-to-json_generic.js",
+  "main": "generate_activity_log.js",
   "scripts": {
-    "start": "node sheet-to-json_generic.js",
+    "start": "node generate_activity_log.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

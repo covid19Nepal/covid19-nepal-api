@@ -31,6 +31,7 @@ data_prev.statewise.forEach(element => {
     recov_text = null;
     death_text = null;
     text = null;
+
     if(parseInt(element.confirmed) < parseInt(statewise_new[element.state].confirmed)){
         confirmed_diff = statewise_new[element.state].confirmed - element.confirmed;
         conf_text = confirmed_diff + " new case"+(confirmed_diff==1?"":"s");

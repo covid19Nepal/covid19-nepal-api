@@ -4,8 +4,6 @@ const fetch = require('node-fetch');
 sheet_id="1";
 let url = "https://spreadsheets.google.com/feeds/cells/1phoem9oHmMKSa3uUMwCrSkLqAp2ucVuqm2B_OwwhfqI/"+sheet_id+"/public/values?alt=json";
 
-
-let url = "";
 let settings = { method: "Get" };
 fetch(url, settings)
     .then(res => res.json())
