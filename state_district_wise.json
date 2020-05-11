@@ -49,7 +49,7 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 25,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -81,7 +81,7 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -120,7 +120,7 @@
         }
       },
       "Kapilvastu": {
-        "confirmed": 15,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -59,7 +59,7 @@
     "districtData": [
       {
         "district": "Parsa",
-        "confirmed": 25,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -96,7 +96,7 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -141,7 +141,7 @@
       },
       {
         "district": "Kapilvastu",
-        "confirmed": 15,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

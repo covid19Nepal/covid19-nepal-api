@@ -998,7 +998,11 @@
 			"detectedstate": "Province 1",
 			"gender": "M",
 			"nationality": "",
+<<<<<<< HEAD
 			"notes": "Travelled from Saudi Arab",
+=======
+			"notes": "Come from Saudi Arab",
+>>>>>>> 00d71aa2d02d926d1baadd14c5e21b169c9e3975
 			"patientnumber": "48",
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
@@ -2141,6 +2145,7 @@
 			"statepatientnimber": "P5-27",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+<<<<<<< HEAD
 		},
 		{
 			"agebracket": "18",
@@ -2540,6 +2545,8 @@
 			"statepatientnimber": "P2-32",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+=======
+>>>>>>> 00d71aa2d02d926d1baadd14c5e21b169c9e3975
 		}
 	]
 }

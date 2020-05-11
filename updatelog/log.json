@@ -30,5 +30,113 @@
   {
     "update": "1 recovery in Province 7\n",
     "timestamp": 1587293368
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587467666
+  },
+  {
+    "update": "1 recovery in Sudurpaschim Province\n",
+    "timestamp": 1587475470
+  },
+  {
+    "update": "9 new cases in Province 1\n",
+    "timestamp": 1587476680
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587481571
+  },
+  {
+    "update": "1 recovery in Bagmati Province\n",
+    "timestamp": 1587550471
+  },
+  {
+    "update": "3 new cases in Province 1\n",
+    "timestamp": 1587552869
+  },
+  {
+    "update": "1 recovery in Sudurpaschim Province\n",
+    "timestamp": 1587553524
+  },
+  {
+    "update": "1 new case in Province 1\n1 new case in Province 2\n2 recoveries in Bagmati Province\n",
+    "timestamp": 1587639270
+  },
+  {
+    "update": "1 recovery in Sudurpaschim Province\n",
+    "timestamp": 1587651866
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587655477
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587740761
+  },
+  {
+    "update": "1 recovery in Gandaki Province\n",
+    "timestamp": 1587792873
+  },
+  {
+    "update": "1 recovery in Bagmati Province\n",
+    "timestamp": 1587813274
+  },
+  {
+    "update": "2 new cases in Province 2\n",
+    "timestamp": 1587884759
+  },
+  {
+    "update": "4 recoveries in Province 2\n",
+    "timestamp": 1587898482
+  },
+  {
+    "update": "1 new case in Province 1\n",
+    "timestamp": 1587907517
+  },
+  {
+    "update": "2 new cases in Province 2\n",
+    "timestamp": 1588073055
+  },
+  {
+    "update": "3 new cases in Province 2\n",
+    "timestamp": 1588158490
+  },
+  {
+    "update": "2 new cases in Province 5\n",
+    "timestamp": 1588323961
+  },
+  {
+    "update": "1 new case in Province 2\n9 new cases in Province 5\n",
+    "timestamp": 1588507621
+  },
+  {
+    "update": "6 new cases in Province 5\n",
+    "timestamp": 1588517692
+  },
+  {
+    "update": "7 new cases in Province 5\n",
+    "timestamp": 1588650863
+  },
+  {
+    "update": "6 recoveries in Province 1\n",
+    "timestamp": 1588762462
+  },
+  {
+    "update": "17 new cases in Province 2\n",
+    "timestamp": 1588763291
+  },
+  {
+    "update": "2 new cases in Province 5\n",
+    "timestamp": 1588872859
+  },
+  {
+    "update": "8 recoveries in Province 1\n1 new case in Province 5\n",
+    "timestamp": 1588937678
+  },
+  {
+    "update": "1 recovery in Sudurpaschim Province\n",
+    "timestamp": 1588952068
   }
 ]

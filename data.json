@@ -1051,33 +1051,101 @@
 			"totalconfirmed": "102",
 			"totaldeceased": "0",
 			"totalrecovered": "31"
+		}
+	],
+	"statewise": [
+		{
+			"active": "71",
+			"confirmed": "102",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "08/05/2020 21:15:00",
+			"recovered": "31",
+			"state": "Total",
+			"statecode": "TT"
 		},
 		{
-			"dailyconfirmed": "8",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "9 May",
-			"totalconfirmed": "110",
-			"totaldeceased": "0",
-			"totalrecovered": "31"
+			"active": "17",
+			"confirmed": "31",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "08/05/2020 16:02:00",
+			"recovered": "14",
+			"state": "Province 1",
+			"statecode": "P1"
+		},
+		{
+			"active": "26",
+			"confirmed": "30",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "06/05/2020 16:09:00",
+			"recovered": "4",
+			"state": "Province 2",
+			"statecode": "P2"
+		},
+		{
+			"active": "1",
+			"confirmed": "7",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "06/05/2020 16:09:00",
+			"recovered": "6",
+			"state": "Bagmati Province",
+			"statecode": "P3"
+		},
+		{
+			"active": "0",
+			"confirmed": "2",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 11:18:00",
+			"recovered": "2",
+			"state": "Gandaki Province",
+			"statecode": "P4"
+		},
+		{
+			"active": "27",
+			"confirmed": "27",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "08/05/2020 16:02:00",
+			"recovered": "0",
+			"state": "Province 5",
+			"statecode": "P5"
 		},
 		{
 			"dailyconfirmed": "0",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
-			"date": "10 May",
-			"totalconfirmed": "110",
+			"date": "27 April",
+			"totalconfirmed": "52",
 			"totaldeceased": "0",
-			"totalrecovered": "31"
+			"totalrecovered": "16"
 		},
 		{
-			"dailyconfirmed": "11",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "11 May",
-			"totalconfirmed": "121",
-			"totaldeceased": "0",
-			"totalrecovered": "31"
+			"active": "0",
+			"confirmed": "5",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "08/05/2020 21:15:00",
+			"recovered": "5",
+			"state": "Sudurpaschim Province",
+			"statecode": "P7"
 		}
 	],
 	"tested": [
@@ -1406,6 +1474,7 @@
 			"samplereportedtoday": "",
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
+<<<<<<< HEAD
 			"totalnegativetested": "16199",
 			"totalpositivecases": "110",
 			"totalsamplestested": "16309",
@@ -1430,6 +1499,12 @@
 			"totalpositivecases": "121",
 			"totalsamplestested": "16909",
 			"updatetimestamp": "11/05/2020 14:30:00"
+=======
+			"totalnegativetested": "15390",
+			"totalpositivecases": "109",
+			"totalsamplestested": "15499",
+			"updatetimestamp": "09/05/2020 9:02:00"
+>>>>>>> 00d71aa2d02d926d1baadd14c5e21b169c9e3975
 		}
 	]
 }
