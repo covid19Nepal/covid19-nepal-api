@@ -1,104 +1,6 @@
 {
 	"cases_time_series": [
 		{
-			"active": "90",
-			"confirmed": "121",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 14:30:00",
-			"recovered": "31",
-			"state": "Total",
-			"statecode": "TT"
-		},
-		{
-			"active": "21",
-			"confirmed": "35",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/05/2020 16:26:00",
-			"recovered": "14",
-			"state": "Province 1",
-			"statecode": "P1"
-		},
-		{
-			"active": "28",
-			"confirmed": "32",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 14:30:00",
-			"recovered": "4",
-			"state": "Province 2",
-			"statecode": "P2"
-		},
-		{
-			"active": "1",
-			"confirmed": "7",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "06/05/2020 16:09:00",
-			"recovered": "6",
-			"state": "Bagmati Province",
-			"statecode": "P3"
-		},
-		{
-			"active": "0",
-			"confirmed": "2",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 11:18:00",
-			"recovered": "2",
-			"state": "Gandaki Province",
-			"statecode": "P4"
-		},
-		{
-			"active": "40",
-			"confirmed": "40",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 10:02:00",
-			"recovered": "0",
-			"state": "Province 5",
-			"statecode": "P5"
-		},
-		{
-			"active": "0",
-			"confirmed": "0",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 11:42:27",
-			"recovered": "0",
-			"state": "Karnali Province",
-			"statecode": "P6"
-		},
-		{
-			"active": "0",
-			"confirmed": "5",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/05/2020 21:15:00",
-			"recovered": "5",
-			"state": "Sudurpaschim Province",
-			"statecode": "P7"
-		}
-	],
-	"statewise": [
-		{
 			"dailyconfirmed": "1",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
@@ -1078,6 +980,104 @@
 			"totalconfirmed": "121",
 			"totaldeceased": "0",
 			"totalrecovered": "31"
+		}
+	],
+	"statewise": [
+		{
+			"active": "90",
+			"confirmed": "121",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "11/05/2020 14:30:00",
+			"recovered": "31",
+			"state": "Total",
+			"statecode": "TT"
+		},
+		{
+			"active": "21",
+			"confirmed": "35",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "09/05/2020 16:26:00",
+			"recovered": "14",
+			"state": "Province 1",
+			"statecode": "P1"
+		},
+		{
+			"active": "28",
+			"confirmed": "32",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "11/05/2020 14:30:00",
+			"recovered": "4",
+			"state": "Province 2",
+			"statecode": "P2"
+		},
+		{
+			"active": "1",
+			"confirmed": "7",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "06/05/2020 16:09:00",
+			"recovered": "6",
+			"state": "Bagmati Province",
+			"statecode": "P3"
+		},
+		{
+			"active": "0",
+			"confirmed": "2",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 11:18:00",
+			"recovered": "2",
+			"state": "Gandaki Province",
+			"statecode": "P4"
+		},
+		{
+			"active": "40",
+			"confirmed": "40",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "11/05/2020 10:02:00",
+			"recovered": "0",
+			"state": "Province 5",
+			"statecode": "P5"
+		},
+		{
+			"active": "0",
+			"confirmed": "0",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "14/04/2020 11:42:27",
+			"recovered": "0",
+			"state": "Karnali Province",
+			"statecode": "P6"
+		},
+		{
+			"active": "0",
+			"confirmed": "5",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "08/05/2020 21:15:00",
+			"recovered": "5",
+			"state": "Sudurpaschim Province",
+			"statecode": "P7"
 		}
 	],
 	"tested": [
