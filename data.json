@@ -993,13 +993,13 @@
 	],
 	"statewise": [
 		{
-			"active": "158",
-			"confirmed": "191",
+			"active": "184",
+			"confirmed": "217",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/05/2020 13:23:00",
+			"lastupdatedtime": "12/05/2020 22:21:00",
 			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
@@ -1017,25 +1017,25 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "68",
-			"confirmed": "72",
+			"active": "88",
+			"confirmed": "92",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/05/2020 13:23:00",
+			"lastupdatedtime": "12/05/2020 22:21:00",
 			"recovered": "4",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "1",
-			"confirmed": "7",
+			"active": "3",
+			"confirmed": "9",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/05/2020 16:09:00",
+			"lastupdatedtime": "12/05/2020 22:21:00",
 			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1447,8 +1447,8 @@
 			"testsconductedbyprivatelabs": "",
 			"totalnegativetested": "18773",
 			"totalpositivecases": "191",
-			"totalsamplestested": "18964",
-			"updatetimestamp": "12/05/2020 16:24:00"
+			"totalsamplestested": "18990",
+			"updatetimestamp": "12/05/2020 22:21:00"
 		}
 	]
 }
