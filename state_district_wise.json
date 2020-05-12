@@ -49,10 +49,10 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 25,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 39
         }
       },
       "Rautahat": {
@@ -135,17 +135,6 @@
       },
       "Bardiya": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
