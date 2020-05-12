@@ -5,7 +5,7 @@
         "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chitwan": {
@@ -19,7 +19,7 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }
@@ -59,7 +59,7 @@
         "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 39
+          "confirmed": 57
         }
       },
       "Rautahat": {
@@ -94,21 +94,21 @@
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dhanusha": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Sarlahi": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
