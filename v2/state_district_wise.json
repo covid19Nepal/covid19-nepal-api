@@ -4,7 +4,7 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -12,6 +12,14 @@
       },
       {
         "district": "Chitwan",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bhaktapur",
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
@@ -59,7 +67,7 @@
     "districtData": [
       {
         "district": "Parsa",
-        "confirmed": 64,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 39
@@ -91,6 +99,30 @@
       },
       {
         "district": "Saptari",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mahottari",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Dhanusha",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sarlahi",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

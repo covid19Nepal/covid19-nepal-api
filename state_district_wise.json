@@ -2,13 +2,20 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
-        "confirmed": 5,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Chitwan": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Bhaktapur": {
         "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
@@ -49,7 +56,7 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 64,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 39
@@ -77,6 +84,27 @@
         }
       },
       "Saptari": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mahottari": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Dhanusha": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sarlahi": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
