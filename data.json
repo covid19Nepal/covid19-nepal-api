@@ -982,11 +982,11 @@
 			"totalrecovered": "33"
 		},
 		{
-			"dailyconfirmed": "57",
+			"dailyconfirmed": "83",
 			"dailydeceased": "0",
-			"dailyrecovered": "2",
+			"dailyrecovered": "0",
 			"date": "12 May",
-			"totalconfirmed": "191",
+			"totalconfirmed": "217",
 			"totaldeceased": "0",
 			"totalrecovered": "33"
 		}
@@ -1017,8 +1017,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "90",
-			"confirmed": "94",
+			"active": "91",
+			"confirmed": "95",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1029,8 +1029,8 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "5",
-			"confirmed": "11",
+			"active": "4",
+			"confirmed": "10",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
