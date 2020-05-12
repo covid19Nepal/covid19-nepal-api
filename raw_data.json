@@ -4327,7 +4327,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "61",
+			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4369,7 +4369,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "61",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -4377,7 +4377,7 @@
 			"detectedcity": "Parsa",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "",
+			"gender": "M",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnumber": "209",
