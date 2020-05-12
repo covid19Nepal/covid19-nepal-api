@@ -83,10 +83,10 @@
       },
       {
         "district": "Bara",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -141,18 +141,18 @@
       },
       {
         "district": "Rupandehi",
-        "confirmed": 7,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
         "district": "Kapilvastu",
-        "confirmed": 21,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -170,7 +170,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 36,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
