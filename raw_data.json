@@ -4556,6 +4556,48 @@
 			"statepatientnimber": "P2-95",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "",
+			"detectedcity": "Janakpur",
+			"detecteddistrict": "Dhanusha",
+			"detectedstate": "Province 2",
+			"gender": "",
+			"nationality": "Nepal",
+			"notes": "Journalist",
+			"patientnumber": "218",
+			"source1": "https://covid19.mohp.gov.np/#/",
+			"source2": "",
+			"source3": "",
+			"statecode": "P2",
+			"statepatientnimber": "P2-96",
+			"statuschangedate": "",
+			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "",
+			"detectedcity": "Janakpur",
+			"detecteddistrict": "Dhanusha",
+			"detectedstate": "Province 2",
+			"gender": "",
+			"nationality": "Nepal",
+			"notes": "",
+			"patientnumber": "219",
+			"source1": "https://covid19.mohp.gov.np/#/",
+			"source2": "",
+			"source3": "",
+			"statecode": "P2",
+			"statepatientnimber": "P2-97",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
