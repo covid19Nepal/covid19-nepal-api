@@ -115,7 +115,7 @@
       },
       {
         "district": "Dhanusha",
-        "confirmed": 4,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -165,10 +165,10 @@
     "districtData": [
       {
         "district": "Banke",
-        "confirmed": 24,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
