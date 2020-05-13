@@ -1002,13 +1002,13 @@
 	],
 	"statewise": [
 		{
-			"active": "184",
-			"confirmed": "219",
+			"active": "208",
+			"confirmed": "243",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/05/2020 16:24:00",
+			"lastupdatedtime": "13/05/2020 20:05:00",
 			"recovered": "35",
 			"state": "Total",
 			"statecode": "TT"
@@ -1062,8 +1062,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "71",
-			"confirmed": "72",
+			"active": "83",
+			"confirmed": "84",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
