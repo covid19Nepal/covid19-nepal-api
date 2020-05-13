@@ -56,10 +56,10 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "confirmed": 82,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Rautahat": {
@@ -155,10 +155,10 @@
         }
       },
       "Kapilvastu": {
-        "confirmed": 30,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 9
         }
       },
       "Bardiya": {
@@ -167,16 +167,12 @@
         "delta": {
           "confirmed": 0
         }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "confirmed": 12,
+      },
+      "Parasi": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 1
         }
       }
     }
