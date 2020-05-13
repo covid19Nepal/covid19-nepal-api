@@ -148,10 +148,10 @@
         }
       },
       "Rupandehi": {
-        "confirmed": 16,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       "Kapilvastu": {
@@ -166,6 +166,17 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 12
         }
       }
     }
