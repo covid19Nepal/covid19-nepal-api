@@ -973,61 +973,88 @@
 			"totalrecovered": "31"
 		},
 		{
-			"dailyconfirmed": "11",
+			"dailyconfirmed": "24",
+			"dailydeceased": "0",
+			"dailyrecovered": "2",
+			"date": "11 May",
+			"totalconfirmed": "134",
+			"totaldeceased": "0",
+			"totalrecovered": "33"
+		},
+		{
+			"dailyconfirmed": "83",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
-			"date": "11 May",
-			"totalconfirmed": "121",
+			"date": "12 May",
+			"totalconfirmed": "217",
 			"totaldeceased": "0",
-			"totalrecovered": "31"
+			"totalrecovered": "33"
+		},
+		{
+			"dailyconfirmed": "26",
+			"dailydeceased": "0",
+			"dailyrecovered": "2",
+			"date": "13 May",
+			"totalconfirmed": "243",
+			"totaldeceased": "0",
+			"totalrecovered": "35"
+		},
+		{
+			"dailyconfirmed": "7",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "14 May",
+			"totalconfirmed": "250",
+			"totaldeceased": "0",
+			"totalrecovered": "35"
 		}
 	],
 	"statewise": [
 		{
-			"active": "90",
-			"confirmed": "121",
+			"active": "215",
+			"confirmed": "250",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 14:30:00",
-			"recovered": "31",
+			"lastupdatedtime": "14/05/2020 08:51:00",
+			"recovered": "35",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "21",
+			"active": "19",
 			"confirmed": "35",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/05/2020 16:26:00",
-			"recovered": "14",
+			"lastupdatedtime": "11/05/2020 16:35:00",
+			"recovered": "16",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "28",
-			"confirmed": "32",
+			"active": "99",
+			"confirmed": "103",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 14:30:00",
+			"lastupdatedtime": "14/05/2020 08:51:00",
 			"recovered": "4",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "1",
-			"confirmed": "7",
+			"active": "4",
+			"confirmed": "11",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/05/2020 16:09:00",
-			"recovered": "6",
+			"lastupdatedtime": "14/05/2020 06:30:00",
+			"recovered": "7",
 			"state": "Bagmati Province",
 			"statecode": "P3"
 		},
@@ -1044,14 +1071,14 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "40",
-			"confirmed": "40",
+			"active": "93",
+			"confirmed": "94",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 10:02:00",
-			"recovered": "0",
+			"lastupdatedtime": "14/05/2020 06:30:00",
+			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
 		},
@@ -1426,10 +1453,40 @@
 			"samplereportedtoday": "",
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
-			"totalnegativetested": "16788",
-			"totalpositivecases": "121",
-			"totalsamplestested": "16909",
-			"updatetimestamp": "11/05/2020 14:30:00"
+			"totalnegativetested": "17687",
+			"totalpositivecases": "134",
+			"totalsamplestested": "17821",
+			"updatetimestamp": "11/05/2020 20:22:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "18773",
+			"totalpositivecases": "217",
+			"totalsamplestested": "18990",
+			"updatetimestamp": "12/05/2020 22:21:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "21121",
+			"totalpositivecases": "243",
+			"totalsamplestested": "21364",
+			"updatetimestamp": "13/05/2020 20:05:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "21121",
+			"totalpositivecases": "250",
+			"totalsamplestested": "21371",
+			"updatetimestamp": "14/05/2020 08:51:00"
 		}
 	]
 }

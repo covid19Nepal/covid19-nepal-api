@@ -8,7 +8,7 @@
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Chitwan": {
@@ -17,6 +17,13 @@
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 1,
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Bhaktapur": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
@@ -90,7 +97,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bara": {
@@ -111,6 +118,20 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Mahottari": {
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Sarlahi": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
