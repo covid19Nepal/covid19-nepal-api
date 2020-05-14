@@ -118,11 +118,11 @@
       },
       {
         "district": "Dhanusa",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -178,11 +178,11 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "active": 32,
+        "active": 26,
         "confirmed": 32,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0
         }

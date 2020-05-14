@@ -652,10 +652,10 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "33",
+			"agebracket": "",
 			"backupnotes": "Resident of at or around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -673,10 +673,10 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "18",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -694,10 +694,10 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "18",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -715,10 +715,10 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "20",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -736,10 +736,10 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "40",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -757,7 +757,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "41",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -778,7 +778,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "41",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -799,7 +799,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "52",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -820,7 +820,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "58",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -841,7 +841,7 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "36",
+			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -949,7 +949,7 @@
 			"agebracket": "55",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -970,7 +970,7 @@
 			"agebracket": "14",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/04/2020",
 			"detectedcity": "Janakpur",
 			"detecteddistrict": "Dhanusa",
