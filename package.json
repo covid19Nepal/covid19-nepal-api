@@ -2,9 +2,9 @@
   "name": "covid19nepal-api",
   "version": "1.0.0",
   "description": "",
-  "main": "sheet-to-json_generic.js",
+  "main": "raw_data-to-state_district_wise_data.js",
   "scripts": {
-    "start": "node sheet-to-json_generic.js",
+    "start": "node raw_data-to-state_district_wise_data.js ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {

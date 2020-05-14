@@ -2,15 +2,21 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
+        "active": 1,
         "confirmed": 5,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 4,
         "delta": {
           "confirmed": 0
         }
       },
       "Chitwan": {
+        "active": 1,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -20,15 +26,21 @@
   "Sudurpaschim Province": {
     "districtData": {
       "Kailali": {
+        "active": 0,
         "confirmed": 4,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 4,
         "delta": {
           "confirmed": 0
         }
       },
       "Kanchanpur": {
+        "active": 0,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -38,8 +50,11 @@
   "Gandaki Province": {
     "districtData": {
       "Baglung": {
+        "active": 0,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 2,
         "delta": {
           "confirmed": 0
         }
@@ -49,36 +64,51 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
+        "active": 22,
         "confirmed": 25,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 3,
         "delta": {
           "confirmed": 0
         }
       },
       "Rautahat": {
+        "active": 2,
         "confirmed": 3,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
       },
       "Dhanusa": {
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Bara": {
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Saptari": {
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -88,22 +118,31 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
+        "active": 32,
         "confirmed": 32,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Bhojpur": {
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Jhapa": {
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -113,22 +152,31 @@
   "Province 5": {
     "districtData": {
       "Banke": {
+        "active": 24,
         "confirmed": 24,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Rupdandehi": {
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       "Kapilvastu": {
+        "active": 15,
         "confirmed": 15,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }

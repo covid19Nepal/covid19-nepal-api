@@ -4,16 +4,22 @@
     "districtData": [
       {
         "district": "Kathmandu",
+        "active": 1,
         "confirmed": 5,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 4,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Chitwan",
+        "active": 1,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -25,16 +31,22 @@
     "districtData": [
       {
         "district": "Kailali",
+        "active": 0,
         "confirmed": 4,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 4,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Kanchanpur",
+        "active": 0,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -46,8 +58,11 @@
     "districtData": [
       {
         "district": "Baglung",
+        "active": 0,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 2,
         "delta": {
           "confirmed": 0
         }
@@ -59,40 +74,55 @@
     "districtData": [
       {
         "district": "Parsa",
+        "active": 22,
         "confirmed": 25,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 3,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Rautahat",
+        "active": 2,
         "confirmed": 3,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Dhanusa",
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Bara",
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Saptari",
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -104,24 +134,33 @@
     "districtData": [
       {
         "district": "Udayapur",
+        "active": 32,
         "confirmed": 32,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Bhojpur",
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Jhapa",
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -133,24 +172,33 @@
     "districtData": [
       {
         "district": "Banke",
+        "active": 24,
         "confirmed": 24,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Rupdandehi",
+        "active": 1,
         "confirmed": 1,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Kapilvastu",
+        "active": 15,
         "confirmed": 15,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }

@@ -21,11 +21,11 @@ try {
     if(!acc[stateName].districtData[districtName]) {
       
       acc[stateName].districtData[districtName] = {
-//         active: 0,
+        active: 0,
         confirmed: 0,
-//         deaths: 0,
+        deaths: 0,
         lastupdatedtime: "",
-//         recovered: 0,
+        recovered: 0,
         delta: {
           confirmed: 0
         }
@@ -37,13 +37,13 @@ try {
     if (isToday) {
       currentDistrict.delta.confirmed++;
     }
-//     if(row.currentstatus === 'Hospitalized') {
-//       currentDistrict.active++;
-//     } else if(row.currentstatus === 'Deceased') {
-//       currentDistrict.deaths++;
-//     } else if(row.currentstatus === 'Recovered') {
-//       currentDistrict.recovered++;
-//     }
+    if(row.currentstatus === 'Hospitalized') {
+      currentDistrict.active++;
+    } else if(row.currentstatus === 'Deceased') {
+      currentDistrict.deaths++;
+    } else if(row.currentstatus === 'Recovered') {
+      currentDistrict.recovered++;
+    }
 
     return acc;
   
