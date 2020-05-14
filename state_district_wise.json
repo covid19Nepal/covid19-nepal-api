@@ -8,7 +8,7 @@
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       "Chitwan": {
@@ -38,7 +38,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
@@ -86,7 +86,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
@@ -120,7 +120,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Bara": {
@@ -228,7 +228,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       "Bardiya": {
