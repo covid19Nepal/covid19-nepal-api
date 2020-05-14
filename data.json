@@ -1011,14 +1011,14 @@
 	],
 	"statewise": [
 		{
-			"active": "211",
+			"active": "212",
 			"confirmed": "246",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "14/05/2020 12:15:00",
-			"recovered": "35",
+			"recovered": "34",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1047,14 +1047,14 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "4",
+			"active": "5",
 			"confirmed": "11",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "14/05/2020 06:30:00",
-			"recovered": "7",
+			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
 		},
