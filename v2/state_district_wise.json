@@ -82,11 +82,11 @@
         }
       },
       {
-        "district": "Dhanusa",
-        "confirmed": 1,
+        "district": "Dhanusha",
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -107,14 +107,6 @@
       },
       {
         "district": "Mahottari",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      {
-        "district": "Dhanusha",
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {

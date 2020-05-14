@@ -69,11 +69,11 @@
           "confirmed": 0
         }
       },
-      "Dhanusa": {
-        "confirmed": 1,
+      "Dhanusha": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Bara": {
@@ -91,13 +91,6 @@
         }
       },
       "Mahottari": {
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      "Dhanusha": {
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
