@@ -178,11 +178,11 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "active": 19,
+        "active": 18,
         "confirmed": 32,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0
         }
