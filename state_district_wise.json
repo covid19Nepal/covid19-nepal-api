@@ -2,13 +2,13 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
-        "active": 4,
-        "confirmed": 8,
+        "active": 3,
+        "confirmed": 7,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "Chitwan": {
@@ -67,6 +67,16 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Nawalpur": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -229,20 +239,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0
-        }
-      }
-    }
-  },
-  "Gandaki Province ": {
-    "districtData": {
-      "Nawalpur": {
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1
         }
       }
     }
