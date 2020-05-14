@@ -216,11 +216,11 @@
       },
       {
         "district": "Rupandehi",
-        "active": 28,
+        "active": 27,
         "confirmed": 28,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }

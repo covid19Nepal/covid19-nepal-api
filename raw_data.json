@@ -1222,7 +1222,7 @@
 			"agebracket": "25",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "01/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -1236,7 +1236,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-P2",
-			"statuschangedate": "",
+			"statuschangedate": "13/05/2020",
 			"typeoftransmission": ""
 		},
 		{
