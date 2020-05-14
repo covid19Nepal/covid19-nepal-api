@@ -2,13 +2,13 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Chitwan": {

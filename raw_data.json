@@ -5165,6 +5165,27 @@
 			"statepatientnimber": "P4-P3",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "14/05/2020",
+			"detectedcity": "Kathmandu",
+			"detecteddistrict": "Kathmandu",
+			"detectedstate": "Bagmati Province",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumber": "247",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "P3",
+			"statepatientnimber": "P3-11",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
