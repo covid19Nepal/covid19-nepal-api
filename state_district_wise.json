@@ -104,11 +104,11 @@
         }
       },
       "Dhanusa": {
-        "active": 2,
+        "active": 3,
         "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -158,11 +158,11 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "active": 26,
+        "active": 24,
         "confirmed": 32,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 0
         }
