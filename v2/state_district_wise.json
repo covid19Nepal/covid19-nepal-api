@@ -4,13 +4,13 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       {
@@ -33,6 +33,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Dhading",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -118,13 +129,13 @@
       },
       {
         "district": "Dhanusa",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
