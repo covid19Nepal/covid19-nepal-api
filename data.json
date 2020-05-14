@@ -1000,24 +1000,24 @@
 			"totalrecovered": "35"
 		},
 		{
-			"dailyconfirmed": "3",
+			"dailyconfirmed": "6",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14 May",
-			"totalconfirmed": "246",
+			"totalconfirmed": "249",
 			"totaldeceased": "0",
 			"totalrecovered": "35"
 		}
 	],
 	"statewise": [
 		{
-			"active": "211",
-			"confirmed": "246",
+			"active": "214",
+			"confirmed": "249",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 12:15:00",
+			"lastupdatedtime": "14/05/2020 21:31:00",
 			"recovered": "35",
 			"state": "Total",
 			"statecode": "TT"
@@ -1035,25 +1035,25 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "93",
-			"confirmed": "98",
+			"active": "94",
+			"confirmed": "99",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 08:51:00",
+			"lastupdatedtime": "14/05/2020 21:31:00",
 			"recovered": "5",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "5",
-			"confirmed": "11",
+			"active": "7",
+			"confirmed": "13",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 06:30:00",
+			"lastupdatedtime": "14/05/2020 21:31:00",
 			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1484,9 +1484,9 @@
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
 			"totalnegativetested": "22418",
-			"totalpositivecases": "246",
-			"totalsamplestested": "22664",
-			"updatetimestamp": "14/05/2020 12:15:00"
+			"totalpositivecases": "249",
+			"totalsamplestested": "22667",
+			"updatetimestamp": "14/05/2020 21:31:00"
 		}
 	]
 }
