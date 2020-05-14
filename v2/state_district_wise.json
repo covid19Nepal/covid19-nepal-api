@@ -107,13 +107,13 @@
       },
       {
         "district": "Dhanusha",
-        "active": 5,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       {
@@ -140,24 +140,24 @@
       },
       {
         "district": "Mahottari",
-        "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 2
-        }
-      },
-      {
-        "district": "Sarlahi",
         "active": 2,
         "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sarlahi",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
         }
       }
     ]
