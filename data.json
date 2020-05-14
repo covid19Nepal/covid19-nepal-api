@@ -1000,24 +1000,24 @@
 			"totalrecovered": "35"
 		},
 		{
-			"dailyconfirmed": "2",
+			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14 May",
-			"totalconfirmed": "245",
+			"totalconfirmed": "246",
 			"totaldeceased": "0",
 			"totalrecovered": "35"
 		}
 	],
 	"statewise": [
 		{
-			"active": "210",
-			"confirmed": "245",
+			"active": "211",
+			"confirmed": "246",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 10:15:00",
+			"lastupdatedtime": "14/05/2020 12:15:00",
 			"recovered": "35",
 			"state": "Total",
 			"statecode": "TT"
@@ -1059,13 +1059,13 @@
 			"statecode": "P3"
 		},
 		{
-			"active": "0",
-			"confirmed": "2",
+			"active": "1",
+			"confirmed": "3",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 11:18:00",
+			"lastupdatedtime": "14/05/2020 12:15:00",
 			"recovered": "2",
 			"state": "Gandaki Province",
 			"statecode": "P4"
@@ -1484,9 +1484,9 @@
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
 			"totalnegativetested": "21121",
-			"totalpositivecases": "245",
+			"totalpositivecases": "246",
 			"totalsamplestested": "21366",
-			"updatetimestamp": "14/05/2020 10:15:00"
+			"updatetimestamp": "14/05/2020 12:15:00"
 		}
 	]
 }

@@ -232,5 +232,19 @@
         }
       }
     }
+  },
+  "Gandaki Province ": {
+    "districtData": {
+      "Nawalpur": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    }
   }
 }
