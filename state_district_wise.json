@@ -2,8 +2,8 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
-        "active": 1,
-        "confirmed": 5,
+        "active": 3,
+        "confirmed": 7,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -12,18 +12,21 @@
         }
       },
       "Chitwan": {
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0
         }
       },
       "Bhaktapur": {
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
@@ -71,8 +74,8 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 22,
-        "confirmed": 25,
+        "active": 82,
+        "confirmed": 85,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -90,9 +93,9 @@
           "confirmed": 0
         }
       },
-      "Dhanusa": {
-        "active": 1,
-        "confirmed": 1,
+      "Dhanusha": {
+        "active": 5,
+        "confirmed": 5,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -101,8 +104,8 @@
         }
       },
       "Bara": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -121,15 +124,21 @@
         }
       },
       "Mahottari": {
+        "active": 4,
         "confirmed": 4,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 2
         }
       },
       "Sarlahi": {
+        "active": 2,
         "confirmed": 2,
+        "deaths": 0,
         "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 1
         }
@@ -149,21 +158,21 @@
         }
       },
       "Bhojpur": {
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
       },
       "Jhapa": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0
         }
@@ -173,8 +182,8 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 24,
-        "confirmed": 24,
+        "active": 25,
+        "confirmed": 25,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -182,7 +191,27 @@
           "confirmed": 0
         }
       },
-      "Rupdandehi": {
+      "Rupandehi": {
+        "active": 28,
+        "confirmed": 28,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kapilvastu": {
+        "active": 39,
+        "confirmed": 39,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Bardiya": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
@@ -192,9 +221,9 @@
           "confirmed": 0
         }
       },
-      "Kapilvastu": {
-        "active": 15,
-        "confirmed": 15,
+      "Parasi": {
+        "active": 1,
+        "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
