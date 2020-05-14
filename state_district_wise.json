@@ -158,11 +158,11 @@
   "Province 1": {
     "districtData": {
       "Udayapur": {
-        "active": 24,
+        "active": 19,
         "confirmed": 32,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 8,
+        "recovered": 13,
         "delta": {
           "confirmed": 0
         }
