@@ -2254,61 +2254,61 @@
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
+			"numisolationbeds": "449",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://drive.google.com/drive/folders/1woAxbWgkgEACBzaJs5YOLmEHusA1LMDs",
 			"state": "Province 1",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "959",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "13/5/2020"
 		},
 		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
+			"numisolationbeds": "975",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://drive.google.com/drive/folders/1woAxbWgkgEACBzaJs5YOLmEHusA1LMDs",
 			"state": "Bagmati Province",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "101",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "13/5/2020"
 		},
 		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
+			"numisolationbeds": "534",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://drive.google.com/drive/folders/1woAxbWgkgEACBzaJs5YOLmEHusA1LMDs",
 			"state": "Province 5",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "6989",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "13/5/2020"
 		},
 		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
+			"numisolationbeds": "163",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://drive.google.com/drive/folders/1woAxbWgkgEACBzaJs5YOLmEHusA1LMDs",
 			"state": "Sudurpaschim Province",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "2848",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "13/5/2020"
 		}
 	]
 }
