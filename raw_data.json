@@ -550,7 +550,7 @@
 			"agebracket": "25",
 			"backupnotes": "Case reported in a mosque in Udayapur district",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "17/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -564,7 +564,7 @@
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P9",
-			"statuschangedate": "",
+			"statuschangedate": "15/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
