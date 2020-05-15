@@ -10,7 +10,7 @@
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -118,13 +118,13 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 83,
-        "confirmed": 85,
+        "active": 87,
+        "confirmed": 89,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -200,13 +200,13 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "active": 17,
-        "confirmed": 32,
+        "active": 18,
+        "confirmed": 33,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 15,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -292,41 +292,14 @@
         }
       },
       {
-        "district": "Parsa",
-        "active": 4,
-        "confirmed": 4,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
         "district": "Dang",
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 0,
+        "active": 3,
         "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       }
     ]

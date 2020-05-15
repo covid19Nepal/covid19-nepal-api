@@ -1009,11 +1009,11 @@
 			"totalrecovered": "35"
 		},
 		{
-			"dailyconfirmed": "9",
+			"dailyconfirmed": "18",
 			"dailydeceased": "0",
 			"dailyrecovered": "1",
 			"date": "15 May",
-			"totalconfirmed": "258",
+			"totalconfirmed": "267",
 			"totaldeceased": "0",
 			"totalrecovered": "36"
 		}
@@ -1050,7 +1050,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 21:31:00",
+			"lastupdatedtime": "15/05/2020 21:01:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1503,9 +1503,9 @@
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
 			"totalnegativetested": "23656",
-			"totalpositivecases": "258",
-			"totalsamplestested": "23914",
-			"updatetimestamp": "15/05/2020 15:31:00"
+			"totalpositivecases": "267",
+			"totalsamplestested": "23923",
+			"updatetimestamp": "15/05/2020 21:01:00"
 		}
 	]
 }
