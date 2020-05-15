@@ -811,6 +811,7 @@
 			"totalrecovered": "7"
 		},
 		{
+			"_clrrx": "2",
 			"dailyconfirmed": "3",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
