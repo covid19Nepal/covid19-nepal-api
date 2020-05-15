@@ -190,10 +190,10 @@
 			"typeoftransmission": "Local"
 		},
 		{
-			"agebracket": "37",
+			"agebracket": "",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Recovered",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "12/04/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
@@ -211,7 +211,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "44",
+			"agebracket": "",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
@@ -232,7 +232,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "55",
+			"agebracket": "",
 			"backupnotes": "Travelled to Nepal to attend a religious mass gathering",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Recovered",
@@ -277,14 +277,14 @@
 			"agebracket": "19",
 			"backupnotes": "Returned home from India on March 29, the sixth day of nationwide lockdown",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Recovered",
+			"currentstatus": "Hospitalized",
 			"dateannounced": "13/04/2020",
 			"detectedcity": "Ishnath ",
 			"detecteddistrict": "Rautahat",
 			"detectedstate": "Province 2",
 			"gender": "M",
 			"nationality": "Nepal",
-			"notes": "Travelled from India",
+			"notes": "Travelled from India\nRe-admitted",
 			"patientnumber": "14",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://english.onlinekhabar.com/another-coronavirus-positive-case-in-nepal-tally-reaches-14.html",

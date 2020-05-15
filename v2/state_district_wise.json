@@ -118,22 +118,22 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 82,
+        "active": 83,
         "confirmed": 85,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 3,
+        "recovered": 2,
         "delta": {
           "confirmed": 0
         }
       },
       {
         "district": "Rautahat",
-        "active": 2,
+        "active": 3,
         "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0
         }
