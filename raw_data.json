@@ -200,14 +200,14 @@
 			"detectedstate": "Province 2",
 			"gender": "M",
 			"nationality": "India",
-			"notes": "Travelled from India",
+			"notes": "Travelled from India\nRe-admitted",
 			"patientnumber": "10",
 			"source1": "https://www.facebook.com/mohpnep/",
 			"source2": "https://kathmandupost.com/national/2020/04/12/three-indian-nationals-in-birgunj-test-positive-for-covid-19",
 			"source3": "https://www.indiatoday.in/india/story/3-indian-nationals-test-positive-for-coronavirus-in-nepal-1666123-2020-04-12",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P1",
-			"statuschangedate": "26/04/2020",
+			"statuschangedate": "06/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -291,7 +291,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P4",
-			"statuschangedate": "26/04/2020",
+			"statuschangedate": "06/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
