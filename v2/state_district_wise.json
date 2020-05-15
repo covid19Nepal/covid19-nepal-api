@@ -10,7 +10,7 @@
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -54,7 +54,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
@@ -124,7 +124,7 @@
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 4
+          "confirmed": 0
         }
       },
       {
@@ -206,7 +206,7 @@
         "lastupdatedtime": "",
         "recovered": 15,
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       },
       {
@@ -244,7 +244,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 8
+          "confirmed": 0
         }
       },
       {
@@ -299,7 +299,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 3
+          "confirmed": 0
         }
       }
     ]
