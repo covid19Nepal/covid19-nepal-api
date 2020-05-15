@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Kailali and 1 new case in Kanchanpur\n",
-    "timestamp": 1585989414
-  },
-  {
     "update": "3 new cases in Birgunj who came from India\n",
     "timestamp": 1586698768
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Province 2\n2 new cases in Bagmati Province\n",
     "timestamp": 1589471657
+  },
+  {
+    "update": "1 new case in Bagmati Province\n8 new cases in Province 5\n",
+    "timestamp": 1589514907
   }
 ]

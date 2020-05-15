@@ -40,6 +40,16 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Makwanpur": {
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -202,13 +212,13 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 25,
-        "confirmed": 25,
+        "active": 33,
+        "confirmed": 33,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Rupandehi": {
