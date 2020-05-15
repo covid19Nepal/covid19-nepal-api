@@ -2,8 +2,8 @@
   "Bagmati Province": {
     "districtData": {
       "Kathmandu": {
-        "active": 4,
-        "confirmed": 8,
+        "active": 5,
+        "confirmed": 9,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -254,6 +254,40 @@
       "Parasi": {
         "active": 1,
         "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Parsa": {
+        "active": 4,
+        "confirmed": 4,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Dang": {
+        "active": 0,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "active": 0,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,

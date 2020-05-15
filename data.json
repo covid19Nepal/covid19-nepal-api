@@ -1020,32 +1020,32 @@
 	],
 	"statewise": [
 		{
-			"active": "225",
-			"confirmed": "258",
+			"active": "234",
+			"confirmed": "267",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/05/2020 15:31:00",
+			"lastupdatedtime": "15/05/2020 21:01:00",
 			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "18",
-			"confirmed": "35",
+			"active": "19",
+			"confirmed": "36",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/05/2020 15:31:00",
+			"lastupdatedtime": "15/05/2020 21:01:00",
 			"recovered": "17",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "97",
-			"confirmed": "99",
+			"active": "101",
+			"confirmed": "103",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1056,13 +1056,13 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "8",
-			"confirmed": "14",
+			"active": "9",
+			"confirmed": "15",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/05/2020 09:31:00",
+			"lastupdatedtime": "15/05/2020 21:01:00",
 			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1080,13 +1080,13 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "101",
-			"confirmed": "102",
+			"active": "104",
+			"confirmed": "105",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/05/2020 09:38:00",
+			"lastupdatedtime": "15/05/2020 21:01:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
