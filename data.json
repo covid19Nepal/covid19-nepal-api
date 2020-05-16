@@ -1000,84 +1000,102 @@
 			"totalrecovered": "35"
 		},
 		{
-			"dailyconfirmed": "7",
+			"dailyconfirmed": "6",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "14 May",
-			"totalconfirmed": "250",
+			"totalconfirmed": "249",
 			"totaldeceased": "0",
 			"totalrecovered": "35"
+		},
+		{
+			"dailyconfirmed": "18",
+			"dailydeceased": "0",
+			"dailyrecovered": "1",
+			"date": "15 May",
+			"totalconfirmed": "267",
+			"totaldeceased": "0",
+			"totalrecovered": "36"
+		},
+		{
+			"dailyconfirmed": "14",
+			"dailydeceased": "1",
+			"dailyrecovered": "0",
+			"date": "16 May",
+			"totalconfirmed": "281",
+			"totaldeceased": "1",
+			"totalrecovered": "36"
 		}
 	],
 	"statewise": [
 		{
-			"active": "215",
-			"confirmed": "250",
-			"deaths": "0",
+			"active": "247",
+			"confirmed": "281",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 08:51:00",
-			"recovered": "35",
+			"lastupdatedtime": "16/05/2020 21:12:00",
+			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
 			"active": "19",
-			"confirmed": "35",
+			"confirmed": "36",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "11/05/2020 16:35:00",
-			"recovered": "16",
+			"lastupdatedtime": "15/05/2020 21:01:00",
+			"recovered": "17",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "99",
-			"confirmed": "103",
+			"active": "108",
+			"confirmed": "110",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 08:51:00",
-			"recovered": "4",
+			"lastupdatedtime": "16/05/2020 21:12:00",
+			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "4",
-			"confirmed": "11",
-			"deaths": "0",
+			"active": "11",
+			"confirmed": "18",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 06:30:00",
-			"recovered": "7",
+			"lastupdatedtime": "16/05/2020 21:06:00",
+			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
 		},
 		{
-			"active": "0",
-			"confirmed": "2",
+			"active": "1",
+			"confirmed": "3",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 11:18:00",
+			"lastupdatedtime": "14/05/2020 12:15:00",
 			"recovered": "2",
 			"state": "Gandaki Province",
 			"statecode": "P4"
 		},
 		{
-			"active": "93",
-			"confirmed": "94",
+			"active": "108",
+			"confirmed": "109",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/05/2020 06:30:00",
+			"lastupdatedtime": "16/05/2020 11:56:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
@@ -1483,10 +1501,30 @@
 			"samplereportedtoday": "",
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
-			"totalnegativetested": "21121",
-			"totalpositivecases": "250",
-			"totalsamplestested": "21371",
-			"updatetimestamp": "14/05/2020 08:51:00"
+			"totalnegativetested": "22418",
+			"totalpositivecases": "249",
+			"totalsamplestested": "22667",
+			"updatetimestamp": "14/05/2020 21:31:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "23656",
+			"totalpositivecases": "267",
+			"totalsamplestested": "23923",
+			"updatetimestamp": "15/05/2020 21:01:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "26413",
+			"totalpositivecases": "281",
+			"totalsamplestested": "26694",
+			"updatetimestamp": "16/05/2020 21:12:00"
 		}
 	]
 }

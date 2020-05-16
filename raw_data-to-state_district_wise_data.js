@@ -23,11 +23,14 @@ try {
       acc[stateName].districtData[districtName] = {
         active: 0,
         confirmed: 0,
-        deaths: 0,
+        deceased: 0,
         lastupdatedtime: "",
         recovered: 0,
         delta: {
-          confirmed: 0
+          confirmed: 0,
+          active: 0,
+          recovered: 0,
+          deceased: 0
         }
       };
     }
@@ -40,7 +43,7 @@ try {
     if(row.currentstatus === 'Hospitalized') {
       currentDistrict.active++;
     } else if(row.currentstatus === 'Deceased') {
-      currentDistrict.deaths++;
+      currentDistrict.deceased++;
     } else if(row.currentstatus === 'Recovered') {
       currentDistrict.recovered++;
     }
