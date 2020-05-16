@@ -60,6 +60,16 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      "Sindhupalchowk": {
+        "active": 0,
+        "confirmed": 1,
+        "deaths": 1,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
       }
     }
   },
@@ -134,8 +144,8 @@
         }
       },
       "Dhanusa": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,

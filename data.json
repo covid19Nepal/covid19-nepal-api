@@ -1030,8 +1030,8 @@
 	"statewise": [
 		{
 			"active": "245",
-			"confirmed": "278",
-			"deaths": "0",
+			"confirmed": "279",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
@@ -1066,8 +1066,8 @@
 		},
 		{
 			"active": "11",
-			"confirmed": "17",
-			"deaths": "0",
+			"confirmed": "18",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",

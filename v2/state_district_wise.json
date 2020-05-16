@@ -67,6 +67,17 @@
         "delta": {
           "confirmed": 1
         }
+      },
+      {
+        "district": "Sindhupalchowk",
+        "active": 0,
+        "confirmed": 1,
+        "deaths": 1,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -151,8 +162,8 @@
       },
       {
         "district": "Dhanusa",
-        "active": 4,
-        "confirmed": 4,
+        "active": 6,
+        "confirmed": 6,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
