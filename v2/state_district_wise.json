@@ -6,6 +6,7 @@
         "district": "Kathmandu",
         "active": 5,
         "confirmed": 9,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -14,12 +15,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 4,
+        "delta": {
+          "confirmed": 0
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Chitwan",
         "active": 1,
         "confirmed": 3,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -28,12 +37,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 2,
+        "delta": {
+          "confirmed": 1
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Bhaktapur",
         "active": 2,
         "confirmed": 2,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -42,12 +59,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Dhading",
         "active": 1,
         "confirmed": 1,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -56,13 +81,24 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Makwanpur",
         "active": 1,
         "confirmed": 1,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -98,6 +134,28 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+        }
+      },
+      {
+        "district": "Kavre",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Sindhupalchowk",
+        "active": 0,
+        "confirmed": 1,
+        "deaths": 1,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -165,6 +223,17 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      {
+        "district": "Nawalpur",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -175,6 +244,7 @@
         "district": "Parsa",
         "active": 89,
         "confirmed": 91,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -183,6 +253,13 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 2,
+        "delta": {
+          "confirmed": 2
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
@@ -203,7 +280,11 @@
         "district": "Dhanusa",
         "active": 6,
         "confirmed": 6,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -217,7 +298,11 @@
         "district": "Bara",
         "active": 3,
         "confirmed": 3,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -245,6 +330,7 @@
         "district": "Mahottari",
         "active": 3,
         "confirmed": 3,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -253,12 +339,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Sarlahi",
         "active": 2,
         "confirmed": 2,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -276,6 +370,22 @@
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Siraha",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -292,7 +402,11 @@
         "district": "Udayapur",
         "active": 18,
         "confirmed": 33,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 15,
         "delta": {
@@ -339,7 +453,11 @@
         "district": "Banke",
         "active": 33,
         "confirmed": 33,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -353,7 +471,11 @@
         "district": "Rupandehi",
         "active": 27,
         "confirmed": 28,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
@@ -367,6 +489,7 @@
         "district": "Kapilvastu",
         "active": 42,
         "confirmed": 42,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -375,12 +498,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 3
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Bardiya",
         "active": 2,
         "confirmed": 2,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -389,12 +520,20 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Parasi",
         "active": 1,
         "confirmed": 1,
+<<<<<<< HEAD
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -403,13 +542,24 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
+=======
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         }
       },
       {
         "district": "Dang",
         "active": 3,
         "confirmed": 3,
+<<<<<<< HEAD
         "deceased": 0,
+=======
+        "deaths": 0,
+>>>>>>> 864267fd490a997e7f5cecc2b0de0ca60adf7189
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
