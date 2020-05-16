@@ -56,6 +56,17 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Kavre",
+        "active": 1,
+        "confirmed": 1,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
@@ -173,13 +184,13 @@
       },
       {
         "district": "Mahottari",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {

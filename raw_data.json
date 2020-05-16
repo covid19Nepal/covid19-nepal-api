@@ -5795,6 +5795,48 @@
 			"statepatientnimber": "P5-109",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "52",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "16/05/2020",
+			"detectedcity": "Mahottari",
+			"detecteddistrict": "Mahottari",
+			"detectedstate": "Province 2",
+			"gender": "M",
+			"nationality": "Nepal",
+			"notes": "",
+			"patientnumber": "277",
+			"source1": "https://covid19.mohp.gov.np/#///",
+			"source2": "https://ekantipur.com/news/2020/05/16/158962601509068578.html",
+			"source3": "",
+			"statecode": "P2",
+			"statepatientnimber": "P2-108",
+			"statuschangedate": "",
+			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "26",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Hospitalized",
+			"dateannounced": "16/05/2020",
+			"detectedcity": "Kavre",
+			"detecteddistrict": "Kavre",
+			"detectedstate": "Bagmati Province",
+			"gender": "M",
+			"nationality": "Nepal",
+			"notes": "",
+			"patientnumber": "278",
+			"source1": "https://covid19.mohp.gov.np/#///",
+			"source2": "https://ekantipur.com/news/2020/05/16/158962601509068578.html",
+			"source3": "",
+			"statecode": "P3",
+			"statepatientnimber": "P3-17",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }

@@ -1018,24 +1018,24 @@
 			"totalrecovered": "36"
 		},
 		{
-			"dailyconfirmed": "9",
+			"dailyconfirmed": "11",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "16 May",
-			"totalconfirmed": "276",
+			"totalconfirmed": "278",
 			"totaldeceased": "0",
 			"totalrecovered": "36"
 		}
 	],
 	"statewise": [
 		{
-			"active": "243",
-			"confirmed": "276",
+			"active": "245",
+			"confirmed": "278",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 11:56:00",
+			"lastupdatedtime": "16/05/2020 16:26:00",
 			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
@@ -1053,25 +1053,25 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "105",
-			"confirmed": "107",
+			"active": "106",
+			"confirmed": "108",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 10:21:00",
+			"lastupdatedtime": "16/05/2020 16:26:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "10",
-			"confirmed": "16",
+			"active": "11",
+			"confirmed": "17",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 10:21:00",
+			"lastupdatedtime": "16/05/2020 16:26:00",
 			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
