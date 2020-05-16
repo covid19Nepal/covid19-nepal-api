@@ -12,13 +12,13 @@
         }
       },
       "Chitwan": {
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Bhaktapur": {
@@ -104,13 +104,13 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 87,
-        "confirmed": 89,
+        "active": 89,
+        "confirmed": 91,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Rautahat": {
@@ -164,13 +164,23 @@
         }
       },
       "Sarlahi": {
+        "active": 2,
+        "confirmed": 2,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Siraha": {
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     }
@@ -242,13 +252,13 @@
         }
       },
       "Bardiya": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Parasi": {
@@ -269,30 +279,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Bardiya": {
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
-        "active": 0,
-        "confirmed": 5,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 5
         }
       }
     }

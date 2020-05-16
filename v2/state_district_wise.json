@@ -15,13 +15,13 @@
       },
       {
         "district": "Chitwan",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -118,13 +118,13 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 87,
-        "confirmed": 89,
+        "active": 89,
+        "confirmed": 91,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -184,13 +184,24 @@
       },
       {
         "district": "Sarlahi",
+        "active": 2,
+        "confirmed": 2,
+        "deaths": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Siraha",
         "active": 1,
         "confirmed": 1,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
@@ -271,13 +282,13 @@
       },
       {
         "district": "Bardiya",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deaths": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -300,33 +311,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Bardiya",
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 5,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 5
         }
       }
     ]
