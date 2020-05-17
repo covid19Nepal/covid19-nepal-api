@@ -337,9 +337,9 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 33,
+        "active": 32,
         "confirmed": 33,
-        "deceased": 0,
+        "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
