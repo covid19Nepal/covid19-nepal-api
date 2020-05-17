@@ -176,7 +176,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
