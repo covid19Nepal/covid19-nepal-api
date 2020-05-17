@@ -1032,7 +1032,7 @@
 			"dailyrecovered": "0",
 			"date": "17 May",
 			"totalconfirmed": "291",
-			"totaldeceased": "1",
+			"totaldeceased": "2",
 			"totalrecovered": "36"
 		}
 	],
@@ -1040,7 +1040,7 @@
 		{
 			"active": "257",
 			"confirmed": "291",
-			"deaths": "1",
+			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
@@ -1100,7 +1100,7 @@
 		{
 			"active": "108",
 			"confirmed": "109",
-			"deaths": "0",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
