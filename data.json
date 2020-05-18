@@ -1553,6 +1553,16 @@
 			"totalpositivecases": "291",
 			"totalsamplestested": "26704",
 			"updatetimestamp": "17/05/2020 21:12:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "27868",
+			"totalpositivecases": "304",
+			"totalsamplestested": "28172",
+			"updatetimestamp": "18/05/2020 09:12:00"
 		}
 	]
 }
