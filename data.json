@@ -1036,11 +1036,11 @@
 			"totalrecovered": "36"
 		},
 		{
-			"dailyconfirmed": "9",
+			"dailyconfirmed": "62",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "18 May",
-			"totalconfirmed": "304",
+			"totalconfirmed": "357",
 			"totaldeceased": "2",
 			"totalrecovered": "36"
 		}
@@ -1559,10 +1559,10 @@
 			"samplereportedtoday": "",
 			"source": "https://covid19.mohp.gov.np",
 			"testsconductedbyprivatelabs": "",
-			"totalnegativetested": "27868",
-			"totalpositivecases": "304",
-			"totalsamplestested": "28172",
-			"updatetimestamp": "18/05/2020 09:12:00"
+			"totalnegativetested": "30366",
+			"totalpositivecases": "357",
+			"totalsamplestested": "30723",
+			"updatetimestamp": "18/05/2020 17:15:00"
 		}
 	]
 }
