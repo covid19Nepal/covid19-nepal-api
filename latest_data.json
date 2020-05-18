@@ -1036,48 +1036,48 @@
 			"totalrecovered": "36"
 		},
 		{
-			"dailyconfirmed": "62",
+			"dailyconfirmed": "80",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "18 May",
-			"totalconfirmed": "357",
+			"totalconfirmed": "375",
 			"totaldeceased": "2",
 			"totalrecovered": "36"
 		}
 	],
 	"statewise": [
 		{
-			"active": "322",
-			"confirmed": "357",
+			"active": "340",
+			"confirmed": "375",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 17:15:00",
+			"lastupdatedtime": "18/05/2020 22:35:00",
 			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "23",
-			"confirmed": "40",
+			"active": "26",
+			"confirmed": "43",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 17:15:00",
+			"lastupdatedtime": "18/05/2020 22:35:00",
 			"recovered": "17",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "129",
-			"confirmed": "131",
+			"active": "131",
+			"confirmed": "133",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 17:15:00",
+			"lastupdatedtime": "18/05/2020 22:35:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1107,25 +1107,25 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "157",
-			"confirmed": "159",
+			"active": "169",
+			"confirmed": "171",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 17:15:00",
+			"lastupdatedtime": "18/05/2020 22:35:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 11:42:27",
+			"lastupdatedtime": "18/05/2020 22:35:00",
 			"recovered": "0",
 			"state": "Karnali Province",
 			"statecode": "P6"
