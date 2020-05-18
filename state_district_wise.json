@@ -308,8 +308,8 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 32,
-        "confirmed": 33,
+        "active": 33,
+        "confirmed": 34,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
