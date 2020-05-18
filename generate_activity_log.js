@@ -1,7 +1,7 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 const moment = require('moment-timezone');
-const data = require('./data.json');
+const data = require('./latest_data.json');
 const data_prev = require('./data_prev.json');
 
 update_log_file = './updatelog/log.json';

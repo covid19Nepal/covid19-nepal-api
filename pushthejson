@@ -20,7 +20,7 @@ npm install node-fetch
 npm install moment
 npm install moment-timezone
 
-cp ./data.json ./data_prev.json
+cp ./latest_data.json ./data_prev.json
 
 node sheet-to-json_generic.js
 node raw_data-to-state_district_wise_data.js

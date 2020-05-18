@@ -1025,53 +1025,71 @@
 			"totalconfirmed": "281",
 			"totaldeceased": "1",
 			"totalrecovered": "36"
+		},
+		{
+			"dailyconfirmed": "13",
+			"dailydeceased": "1",
+			"dailyrecovered": "0",
+			"date": "17 May",
+			"totalconfirmed": "295",
+			"totaldeceased": "2",
+			"totalrecovered": "36"
+		},
+		{
+			"dailyconfirmed": "62",
+			"dailydeceased": "1",
+			"dailyrecovered": "0",
+			"date": "18 May",
+			"totalconfirmed": "357",
+			"totaldeceased": "2",
+			"totalrecovered": "36"
 		}
 	],
 	"statewise": [
 		{
-			"active": "247",
-			"confirmed": "281",
-			"deaths": "1",
+			"active": "322",
+			"confirmed": "357",
+			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 21:12:00",
+			"lastupdatedtime": "18/05/2020 17:15:00",
 			"recovered": "33",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "19",
-			"confirmed": "36",
+			"active": "23",
+			"confirmed": "40",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "15/05/2020 21:01:00",
+			"lastupdatedtime": "18/05/2020 17:15:00",
 			"recovered": "17",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "108",
-			"confirmed": "110",
+			"active": "129",
+			"confirmed": "131",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 21:12:00",
+			"lastupdatedtime": "18/05/2020 17:15:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "11",
-			"confirmed": "18",
+			"active": "12",
+			"confirmed": "19",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 21:06:00",
+			"lastupdatedtime": "18/05/2020 17:15:00",
 			"recovered": "6",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1089,13 +1107,13 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "108",
-			"confirmed": "109",
-			"deaths": "0",
+			"active": "157",
+			"confirmed": "159",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "16/05/2020 11:56:00",
+			"lastupdatedtime": "18/05/2020 17:15:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
@@ -1525,6 +1543,26 @@
 			"totalpositivecases": "281",
 			"totalsamplestested": "26694",
 			"updatetimestamp": "16/05/2020 21:12:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "26413",
+			"totalpositivecases": "291",
+			"totalsamplestested": "26704",
+			"updatetimestamp": "17/05/2020 21:12:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "30366",
+			"totalpositivecases": "357",
+			"totalsamplestested": "30723",
+			"updatetimestamp": "18/05/2020 17:15:00"
 		}
 	]
 }

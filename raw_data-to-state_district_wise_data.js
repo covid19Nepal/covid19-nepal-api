@@ -62,8 +62,8 @@ try {
     }
   });
 
-  fs.writeFileSync('state_district_wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
-  fs.writeFileSync('./v2/state_district_wise.json', JSON.stringify(stateDistrictWiseDataV2, null, 2));
+  fs.writeFileSync('state-district-wise.json', JSON.stringify(StateDistrictWiseData, null, 2));
+  fs.writeFileSync('./v2/state-district-wise.json', JSON.stringify(stateDistrictWiseDataV2, null, 2));
   console.log('Starting district wise data processing ...done');
 } catch(err) {
   console.log('Error processing district wise data', err);

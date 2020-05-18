@@ -46,8 +46,8 @@
       },
       {
         "district": "Dhading",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -73,7 +73,7 @@
         }
       },
       {
-        "district": "Kavre",
+        "district": "Kavrepalanchowk",
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
@@ -98,28 +98,6 @@
           "active": 0,
           "recovered": 0,
           "deceased": 0
-        }
-      },
-      {
-        "district": "Kavre",
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Sindhupalchowk",
-        "active": 0,
-        "confirmed": 1,
-        "deaths": 1,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1
         }
       }
     ]
@@ -187,17 +165,6 @@
           "recovered": 0,
           "deceased": 0
         }
-      },
-      {
-        "district": "Nawalpur",
-        "active": 1,
-        "confirmed": 1,
-        "deaths": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0
-        }
       }
     ]
   },
@@ -220,8 +187,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 3,
-        "confirmed": 3,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -234,8 +201,8 @@
       },
       {
         "district": "Dhanusa",
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -248,8 +215,8 @@
       },
       {
         "district": "Bara",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -362,6 +329,34 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      {
+        "district": "Dhankuta",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Morang",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     ]
   },
@@ -370,9 +365,9 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 33,
-        "confirmed": 33,
-        "deceased": 0,
+        "active": 80,
+        "confirmed": 81,
+        "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -440,8 +435,22 @@
       },
       {
         "district": "Dang",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Gulmi",
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
