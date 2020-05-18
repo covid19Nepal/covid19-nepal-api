@@ -201,13 +201,13 @@
       },
       {
         "district": "Dhanusa",
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -318,13 +318,13 @@
       },
       {
         "district": "Jhapa",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -357,6 +357,34 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      {
+        "district": "Sunsari",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Khotang",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     ]
   },
@@ -365,13 +393,13 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 80,
-        "confirmed": 81,
+        "active": 92,
+        "confirmed": 93,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 47,
+          "confirmed": 59,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -449,6 +477,25 @@
       },
       {
         "district": "Gulmi",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Karnali Province",
+    "districtData": [
+      {
+        "district": "Dailekh",
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
