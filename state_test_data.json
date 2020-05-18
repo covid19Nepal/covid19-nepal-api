@@ -2476,17 +2476,17 @@
 			"updatedon": "16/5/2020"
 		},
 		{
-			"negative": "",
+			"negative": "3035",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "449",
 			"numventilators": "",
-			"positive": "",
+			"positive": "36",
 			"source": "https://drive.google.com/drive/folders/1bMGJq7a6V74WGbq2DREHDghLqQ6hMhTM",
 			"state": "Province 1",
 			"totalpeopleinquarantine": "947",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "3071",
 			"unconfirmed": "",
 			"updatedon": "17/5/2020"
 		},
