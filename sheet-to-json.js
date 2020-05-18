@@ -1,5 +1,5 @@
 const moment = require("moment");
-const rawData = require('./raw_data');
+const rawData = require('./raw_latest_data');
 const { fetchData, writeData } = require("./lib");
 const { SHEET, SHEET_STATEWISE_TAB, SHEET_CASES_TIME_SERIES_TAB, SHEET_KEY_VALUES_TAB, SHEET_Tested_Numbers_ICMR_Data, FILE_DATA } = require("./lib/constants");
 

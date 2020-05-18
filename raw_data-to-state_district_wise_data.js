@@ -1,6 +1,6 @@
 const fs = require('fs');
 const moment = require("moment");
-const rawData = require('./raw_data');
+const rawData = require('./raw_latest_data');
 
 console.log('Starting district wise data processing');
 try {
