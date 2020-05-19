@@ -4,13 +4,13 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 5,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -32,13 +32,13 @@
       },
       {
         "district": "Bhaktapur",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -60,13 +60,13 @@
       },
       {
         "district": "Makwanpur",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -95,6 +95,48 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Ramechhap",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Lalitpur",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Sindhuli",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -161,6 +203,20 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Lamjung",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -257,13 +313,13 @@
       },
       {
         "district": "Sarlahi",
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -318,7 +374,7 @@
       },
       {
         "district": "Jhapa",
-        "active": 2,
+        "active": 11,
         "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
@@ -346,7 +402,7 @@
       },
       {
         "district": "Morang",
-        "active": 3,
+        "active": 4,
         "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
@@ -360,7 +416,7 @@
       },
       {
         "district": "Sunsari",
-        "active": 1,
+        "active": 2,
         "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
@@ -421,13 +477,13 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 42,
-        "confirmed": 42,
+        "active": 46,
+        "confirmed": 46,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -449,13 +505,13 @@
       },
       {
         "district": "Parasi",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -503,25 +559,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 16,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 16,
           "active": 0,
           "recovered": 0,
           "deceased": 0
