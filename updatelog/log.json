@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Province 1\n1 new case in Province 2\n2 recoveries in Bagmati Province\n",
-    "timestamp": 1587639270
-  },
-  {
     "update": "1 recovery in Sudurpaschim Province\n",
     "timestamp": 1587651866
   },
@@ -198,5 +194,9 @@
   {
     "update": "11 new cases in Province 1\n2 new cases in Province 2\n8 new cases in Bagmati Province\n1 new case in Gandaki Province\n5 new cases in Province 5\n",
     "timestamp": 1589888667
+  },
+  {
+    "update": "1 recovery in Province 1\n",
+    "timestamp": 1589890080
   }
 ]

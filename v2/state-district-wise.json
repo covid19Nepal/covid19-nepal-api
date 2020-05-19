@@ -374,11 +374,11 @@
       },
       {
         "district": "Jhapa",
-        "active": 11,
+        "active": 10,
         "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 9,
           "active": 0,

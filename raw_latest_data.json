@@ -1012,7 +1012,7 @@
 			"agebracket": "62",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "24/04/2020",
 			"detectedcity": "Jhapa",
 			"detecteddistrict": "Jhapa",
@@ -1026,7 +1026,7 @@
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P30",
-			"statuschangedate": "",
+			"statuschangedate": "19/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -8353,7 +8353,7 @@
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "P5",
 			"statepatientnimber": "P5-172",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -8374,7 +8374,7 @@
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "P5",
 			"statepatientnimber": "P5-173",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -8395,7 +8395,7 @@
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "P5",
 			"statepatientnimber": "P5-174",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -8416,7 +8416,7 @@
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "P5",
 			"statepatientnimber": "P5-175",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -8437,7 +8437,7 @@
 			"source1": "https://covid19.mohp.gov.np/#/",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "P5",
 			"statepatientnimber": "P5-176",
 			"statuschangedate": "",
 			"typeoftransmission": ""
