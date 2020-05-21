@@ -1063,36 +1063,36 @@
 			"totalrecovered": "45"
 		},
 		{
-			"dailyconfirmed": "17",
+			"dailyconfirmed": "26",
 			"dailydeceased": "1",
 			"dailyrecovered": "0",
 			"date": "21 May",
-			"totalconfirmed": "444",
+			"totalconfirmed": "453",
 			"totaldeceased": "3",
 			"totalrecovered": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "399",
-			"confirmed": "444",
+			"active": "408",
+			"confirmed": "453",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 13:23:00",
+			"lastupdatedtime": "21/05/2020 17:07:00",
 			"recovered": "42",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "50",
-			"confirmed": "76",
+			"active": "58",
+			"confirmed": "84",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 08:47:00",
+			"lastupdatedtime": "21/05/2020 17:07:00",
 			"recovered": "26",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -1134,13 +1134,13 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "193",
-			"confirmed": "196",
+			"active": "194",
+			"confirmed": "197",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 13:23:00",
+			"lastupdatedtime": "21/05/2020 17:07:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"

@@ -374,13 +374,13 @@
       },
       {
         "district": "Jhapa",
-        "active": 25,
-        "confirmed": 27,
+        "active": 33,
+        "confirmed": 35,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 15,
+          "confirmed": 23,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -449,8 +449,8 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 98,
-        "confirmed": 99,
+        "active": 97,
+        "confirmed": 98,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -463,13 +463,13 @@
       },
       {
         "district": "Rupandehi",
-        "active": 27,
-        "confirmed": 28,
+        "active": 28,
+        "confirmed": 29,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -536,6 +536,20 @@
         "active": 0,
         "confirmed": 1,
         "deceased": 1,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
