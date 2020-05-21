@@ -1056,8 +1056,8 @@
 	],
 	"statewise": [
 		{
-			"active": "366",
-			"confirmed": "402",
+			"active": "391",
+			"confirmed": "427",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1068,8 +1068,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "36",
-			"confirmed": "54",
+			"active": "41",
+			"confirmed": "59",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1116,8 +1116,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "174",
-			"confirmed": "176",
+			"active": "194",
+			"confirmed": "196",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
