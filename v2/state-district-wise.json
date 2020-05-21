@@ -449,8 +449,8 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 97,
-        "confirmed": 98,
+        "active": 98,
+        "confirmed": 99,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -536,20 +536,6 @@
         "active": 0,
         "confirmed": 1,
         "deceased": 1,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
