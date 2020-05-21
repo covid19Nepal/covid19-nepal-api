@@ -28,11 +28,11 @@
         }
       },
       "Bhaktapur": {
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "active": 0,

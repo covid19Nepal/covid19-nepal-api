@@ -4449,14 +4449,14 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P8",
-			"statuschangedate": "",
+			"statuschangedate": "21/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "27",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Bhaktapur",
 			"detecteddistrict": "Bhaktapur",
@@ -4470,7 +4470,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-P9",
-			"statuschangedate": "",
+			"statuschangedate": "21/05/2020",
 			"typeoftransmission": ""
 		},
 		{
