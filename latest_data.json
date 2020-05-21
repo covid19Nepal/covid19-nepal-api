@@ -1052,30 +1052,48 @@
 			"totalconfirmed": "402",
 			"totaldeceased": "2",
 			"totalrecovered": "37"
+		},
+		{
+			"dailyconfirmed": "25",
+			"dailydeceased": "0",
+			"dailyrecovered": "8",
+			"date": "20 May",
+			"totalconfirmed": "427",
+			"totaldeceased": "2",
+			"totalrecovered": "45"
+		},
+		{
+			"dailyconfirmed": "17",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "21 May",
+			"totalconfirmed": "444",
+			"totaldeceased": "2",
+			"totalrecovered": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "408",
+			"active": "400",
 			"confirmed": "444",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "21/05/2020 08:47:00",
-			"recovered": "34",
+			"recovered": "42",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "58",
+			"active": "50",
 			"confirmed": "76",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "21/05/2020 08:47:00",
-			"recovered": "18",
+			"recovered": "26",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
@@ -1572,6 +1590,36 @@
 			"totalpositivecases": "375",
 			"totalsamplestested": "30741",
 			"updatetimestamp": "18/05/2020 22:35:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "",
+			"totalpositivecases": "402",
+			"totalsamplestested": "",
+			"updatetimestamp": "19/05/2020"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "",
+			"totalpositivecases": "427",
+			"totalsamplestested": "35494",
+			"updatetimestamp": "20/05/2020 16:30:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "35067",
+			"totalpositivecases": "444",
+			"totalsamplestested": "35511",
+			"updatetimestamp": "21/05/2020 08:47:00"
 		}
 	]
 }

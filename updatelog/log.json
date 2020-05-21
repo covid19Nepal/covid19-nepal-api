@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Province 1\n",
-    "timestamp": 1587740761
-  },
-  {
     "update": "1 recovery in Gandaki Province\n",
     "timestamp": 1587792873
   },
@@ -198,5 +194,9 @@
   {
     "update": "17 new cases in Province 1\n",
     "timestamp": 1590038104
+  },
+  {
+    "update": "8 recoveries in Province 1\n",
+    "timestamp": 1590046483
   }
 ]

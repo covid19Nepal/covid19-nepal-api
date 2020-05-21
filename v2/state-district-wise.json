@@ -346,11 +346,11 @@
     "districtData": [
       {
         "district": "Udayapur",
-        "active": 18,
+        "active": 10,
         "confirmed": 33,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 15,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -374,13 +374,13 @@
       },
       {
         "district": "Jhapa",
-        "active": 10,
-        "confirmed": 12,
+        "active": 25,
+        "confirmed": 27,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -388,13 +388,13 @@
       },
       {
         "district": "Dhankuta",
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -416,13 +416,13 @@
       },
       {
         "district": "Sunsari",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -554,25 +554,6 @@
         "district": "Dailekh",
         "active": 1,
         "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 17,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
