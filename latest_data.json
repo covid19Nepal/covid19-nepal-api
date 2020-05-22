@@ -1063,19 +1063,19 @@
 			"totalrecovered": "45"
 		},
 		{
-			"dailyconfirmed": "29",
+			"dailyconfirmed": "30",
 			"dailydeceased": "1",
 			"dailyrecovered": "4",
 			"date": "21 May",
-			"totalconfirmed": "456",
+			"totalconfirmed": "457",
 			"totaldeceased": "3",
 			"totalrecovered": "49"
 		}
 	],
 	"statewise": [
 		{
-			"active": "410",
-			"confirmed": "456",
+			"active": "411",
+			"confirmed": "457",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1134,8 +1134,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "198",
-			"confirmed": "200",
+			"active": "199",
+			"confirmed": "201",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

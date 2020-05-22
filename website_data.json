@@ -1,39 +1,32 @@
 {
 	"factoids": [
 		{
-			"abbreviation": "P1",
-			"no": "1",
-			"stateut": "Province 1"
+			"banner": "CALL CENTERS 1115 & 1133 (6 AM - 10 PM)",
+			"id": "1"
 		},
 		{
-			"abbreviation": "P2",
-			"no": "2",
-			"stateut": "Province 2"
+			"banner": "Wash your hands regularly for 20 seconds, with soap and water or alcohol-based hand rub.",
+			"id": "2"
 		},
 		{
-			"abbreviation": "P3",
-			"no": "3",
-			"stateut": "Bagmati Province"
+			"banner": "Cover your nose and mouth with a disposable tissue or flexed elbow when you cough or sneeze",
+			"id": "3"
 		},
 		{
-			"abbreviation": "P4",
-			"no": "4",
-			"stateut": "Gandaki Province "
+			"banner": "Avoid close contact (1 meter or 3 feet) with people who are unwell.",
+			"id": "4"
 		},
 		{
-			"abbreviation": "P5",
-			"no": "5",
-			"stateut": "Province 5"
+			"banner": "Stay home and self-isolate from others in the household if you feel unwell.",
+			"id": "5"
 		},
 		{
-			"abbreviation": "P6",
-			"no": "6",
-			"stateut": "Karnali Province"
+			"banner": "Plan ahead! Take a minute and check how much you have at home. Planning let's you buy exactly what you need!",
+			"id": "6"
 		},
 		{
-			"abbreviation": "P7",
-			"no": "7",
-			"stateut": "Sudurpaschim Province"
+			"banner": "Call up your loved ones during the lockdown, support each other through these times.  ",
+			"id": "7"
 		}
 	],
 	"faq": [
