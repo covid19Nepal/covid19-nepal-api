@@ -1074,8 +1074,8 @@
 	],
 	"statewise": [
 		{
-			"active": "406",
-			"confirmed": "453",
+			"active": "410",
+			"confirmed": "456",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1134,8 +1134,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "194",
-			"confirmed": "197",
+			"active": "198",
+			"confirmed": "200",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

@@ -2534,51 +2534,6 @@
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "17/5/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"state": "Province 2",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "18/5/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"state": "Gandaki Province",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "18/5/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"state": "Karnali Province",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "18/5/2020"
 		}
 	]
 }
