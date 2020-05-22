@@ -9493,7 +9493,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "27",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -9501,7 +9501,7 @@
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
 			"detectedstate": "Province 5",
-			"gender": "",
+			"gender": "M",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnumber": "453",
