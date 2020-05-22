@@ -21,15 +21,15 @@
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
         }
       },
       "Bhaktapur": {
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -54,8 +54,8 @@
         }
       },
       "Makwanpur": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -136,8 +136,8 @@
   "Sudurpaschim Province": {
     "districtData": {
       "Kailali": {
-        "active": 0,
-        "confirmed": 4,
+        "active": 3,
+        "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -154,6 +154,32 @@
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "Dadeldhura": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "Baitadi": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -248,8 +274,8 @@
         }
       },
       "Bara": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -261,8 +287,8 @@
         }
       },
       "Saptari": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -287,8 +313,8 @@
         }
       },
       "Sarlahi": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -369,8 +395,8 @@
         }
       },
       "Morang": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -412,8 +438,8 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 100,
-        "confirmed": 101,
+        "active": 114,
+        "confirmed": 115,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -438,8 +464,8 @@
         }
       },
       "Kapilvastu": {
-        "active": 60,
-        "confirmed": 60,
+        "active": 69,
+        "confirmed": 69,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -470,7 +496,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -507,49 +533,6 @@
   "Karnali Province": {
     "districtData": {
       "Dailekh": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Kapilvastu": {
-        "active": 9,
-        "confirmed": 9,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 9,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      },
-      "Sarlahi": {
-        "active": 15,
-        "confirmed": 15,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 15,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      },
-      "Unknown": {
         "active": 1,
         "confirmed": 1,
         "deceased": 0,

@@ -1070,36 +1070,45 @@
 			"totalconfirmed": "457",
 			"totaldeceased": "3",
 			"totalrecovered": "49"
+		},
+		{
+			"dailyconfirmed": "59",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "22 May",
+			"totalconfirmed": "516",
+			"totaldeceased": "3",
+			"totalrecovered": "49"
 		}
 	],
 	"statewise": [
 		{
-			"active": "411",
-			"confirmed": "457",
+			"active": "469",
+			"confirmed": "516",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 19:30:00",
+			"lastupdatedtime": "22/05/2020 20:30:00",
 			"recovered": "44",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "58",
-			"confirmed": "84",
+			"active": "59",
+			"confirmed": "85",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 17:07:00",
+			"lastupdatedtime": "22/05/2020 20:30:00",
 			"recovered": "26",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "133",
-			"confirmed": "135",
+			"active": "155",
+			"confirmed": "157",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1110,13 +1119,13 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "18",
-			"confirmed": "27",
+			"active": "22",
+			"confirmed": "31",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 17:07:00",
+			"lastupdatedtime": "22/05/2020 20:35:00",
 			"recovered": "8",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1134,13 +1143,13 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "199",
-			"confirmed": "201",
+			"active": "225",
+			"confirmed": "228",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/05/2020 19:30:00",
+			"lastupdatedtime": "22/05/2020 20:35:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
@@ -1158,13 +1167,13 @@
 			"statecode": "P6"
 		},
 		{
-			"active": "0",
-			"confirmed": "5",
+			"active": "5",
+			"confirmed": "10",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/05/2020 21:15:00",
+			"lastupdatedtime": "22/05/2020 20:35:00",
 			"recovered": "5",
 			"state": "Sudurpaschim Province",
 			"statecode": "P7"
