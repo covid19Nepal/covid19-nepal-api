@@ -413,7 +413,7 @@
     "districtData": {
       "Banke": {
         "active": 98,
-        "confirmed": 99,
+        "confirmed": 101,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -439,7 +439,7 @@
       },
       "Kapilvastu": {
         "active": 59,
-        "confirmed": 59,
+        "confirmed": 60,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -508,6 +508,23 @@
     "districtData": {
       "Dailekh": {
         "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
