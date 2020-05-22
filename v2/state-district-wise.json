@@ -570,14 +570,42 @@
     "state": "Unknown",
     "districtData": [
       {
-        "district": "Unknown",
-        "active": 25,
-        "confirmed": 25,
+        "district": "Kapilvastu",
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 24,
+          "confirmed": 9,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Sarlahi",
+        "active": 15,
+        "confirmed": 15,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 15,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
