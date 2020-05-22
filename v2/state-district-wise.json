@@ -18,13 +18,13 @@
       },
       {
         "district": "Chitwan",
-        "active": 1,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -505,13 +505,13 @@
       },
       {
         "district": "Parasi",
-        "active": 3,
-        "confirmed": 3,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -571,13 +571,13 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 0,
-        "confirmed": 30,
+        "active": 25,
+        "confirmed": 25,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 24,
           "active": 0,
           "recovered": 0,
           "deceased": 0
