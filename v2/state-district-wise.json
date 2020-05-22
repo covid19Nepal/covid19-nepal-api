@@ -197,7 +197,7 @@
       {
         "district": "Nawalpur",
         "active": 1,
-        "confirmed": 2,
+        "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -449,7 +449,7 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 98,
+        "active": 100,
         "confirmed": 101,
         "deceased": 1,
         "lastupdatedtime": "",
@@ -477,7 +477,7 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 59,
+        "active": 60,
         "confirmed": 60,
         "deceased": 0,
         "lastupdatedtime": "",

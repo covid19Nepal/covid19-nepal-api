@@ -180,7 +180,7 @@
       },
       "Nawalpur": {
         "active": 1,
-        "confirmed": 2,
+        "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -412,7 +412,7 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 98,
+        "active": 100,
         "confirmed": 101,
         "deceased": 1,
         "lastupdatedtime": "",
@@ -438,7 +438,7 @@
         }
       },
       "Kapilvastu": {
-        "active": 59,
+        "active": 60,
         "confirmed": 60,
         "deceased": 0,
         "lastupdatedtime": "",
