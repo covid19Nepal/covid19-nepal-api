@@ -191,8 +191,8 @@
       },
       {
         "district": "Baitadi",
-        "active": 1,
-        "confirmed": 1,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -402,8 +402,8 @@
       },
       {
         "district": "Jhapa",
-        "active": 33,
-        "confirmed": 35,
+        "active": 34,
+        "confirmed": 36,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -477,8 +477,8 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 114,
-        "confirmed": 115,
+        "active": 141,
+        "confirmed": 142,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -519,8 +519,8 @@
       },
       {
         "district": "Bardiya",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -582,6 +582,39 @@
         "district": "Dailekh",
         "active": 1,
         "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Surkhet",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "active": 0,
+        "confirmed": 19,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
