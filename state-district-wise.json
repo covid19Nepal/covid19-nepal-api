@@ -339,11 +339,11 @@
         }
       },
       "Sarlahi": {
-        "active": 33,
+        "active": 32,
         "confirmed": 33,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,

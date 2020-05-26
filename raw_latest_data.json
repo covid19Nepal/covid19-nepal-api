@@ -5608,7 +5608,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "28",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -5616,7 +5616,7 @@
 			"detectedcity": "Bardiya",
 			"detecteddistrict": "Bardiya",
 			"detectedstate": "Province 5",
-			"gender": "F",
+			"gender": "",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "268",
@@ -8128,15 +8128,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "34",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/05/2020",
 			"detectedcity": "Sarlahi",
 			"detecteddistrict": "Sarlahi",
 			"detectedstate": "Province 2",
-			"gender": "",
+			"gender": "M",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "388",
@@ -8145,7 +8145,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-135",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{
