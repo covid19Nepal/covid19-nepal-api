@@ -1101,13 +1101,13 @@
 	],
 	"statewise": [
 		{
-			"active": "552",
-			"confirmed": "599",
+			"active": "556",
+			"confirmed": "603",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:30:00",
+			"lastupdatedtime": "23/05/2020 18:39:00",
 			"recovered": "44",
 			"state": "Total",
 			"statecode": "TT"
@@ -1125,8 +1125,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "174",
-			"confirmed": "176",
+			"active": "175",
+			"confirmed": "177",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1137,8 +1137,8 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "24",
-			"confirmed": "33",
+			"active": "26",
+			"confirmed": "35",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1161,8 +1161,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "278",
-			"confirmed": "281",
+			"active": "279",
+			"confirmed": "282",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

@@ -4,8 +4,8 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 9,
-        "confirmed": 13,
+        "active": 10,
+        "confirmed": 14,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -130,6 +130,20 @@
       },
       {
         "district": "Sindhuli",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Nuwakot",
         "active": 1,
         "confirmed": 1,
         "deceased": 0,
@@ -341,8 +355,8 @@
       },
       {
         "district": "Sarlahi",
-        "active": 32,
-        "confirmed": 32,
+        "active": 33,
+        "confirmed": 33,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -561,8 +575,8 @@
       },
       {
         "district": "Gulmi",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -596,25 +610,6 @@
         "district": "Surkhet",
         "active": 3,
         "confirmed": 3,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
