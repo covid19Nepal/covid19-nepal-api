@@ -341,8 +341,8 @@
       },
       {
         "district": "Sarlahi",
-        "active": 19,
-        "confirmed": 19,
+        "active": 32,
+        "confirmed": 32,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -505,8 +505,8 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 69,
-        "confirmed": 69,
+        "active": 77,
+        "confirmed": 77,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -582,6 +582,25 @@
         "district": "Dailekh",
         "active": 1,
         "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "active": 0,
+        "confirmed": 11,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
