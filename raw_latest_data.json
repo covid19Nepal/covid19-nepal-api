@@ -1030,10 +1030,10 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "50",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "26/04/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
@@ -1047,7 +1047,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P6",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -1096,7 +1096,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/04/2020",
 			"detectedcity": "Rautahat",
 			"detecteddistrict": "Rautahat",
@@ -1110,14 +1110,14 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P8",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "28/04/2020",
 			"detectedcity": "Rautahat",
 			"detecteddistrict": "Rautahat",
@@ -1131,14 +1131,14 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P9",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "29/04/2020",
 			"detectedcity": "Bara",
 			"detecteddistrict": "Bara",
@@ -1152,14 +1152,14 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P10",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "29/04/2020",
 			"detectedcity": "Bara",
 			"detecteddistrict": "Bara",
@@ -1173,14 +1173,14 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P11",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "29/04/2020",
 			"detectedcity": "Parsa",
 			"detecteddistrict": "Parsa",
@@ -1194,7 +1194,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P12",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -1240,10 +1240,10 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "36",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "03/05/2020",
 			"detectedcity": "Parsa",
 			"detecteddistrict": "Parsa",
@@ -1257,7 +1257,7 @@
 			"source3": "https://ekantipur.com/news/2020/05/03/158850267359176366.html",
 			"statecode": "P2",
 			"statepatientnimber": "P2-P13",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -2773,10 +2773,10 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "40",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "11/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2790,7 +2790,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-52",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -2818,7 +2818,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2832,14 +2832,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-54",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2853,14 +2853,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-55",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2874,14 +2874,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-56",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2895,14 +2895,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-57",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2916,14 +2916,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-58",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2937,14 +2937,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-59",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2958,14 +2958,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-60",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -2979,14 +2979,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-61",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "12/05/2020",
 			"detectedcity": "Rupandehi",
 			"detecteddistrict": "Rupandehi",
@@ -3000,7 +3000,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-62",
-			"statuschangedate": "",
+			"statuschangedate": "24/05/2020",
 			"typeoftransmission": ""
 		},
 		{

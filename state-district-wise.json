@@ -261,11 +261,11 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 92,
+        "active": 89,
         "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 3,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -274,11 +274,11 @@
         }
       },
       "Rautahat": {
-        "active": 48,
+        "active": 46,
         "confirmed": 49,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -300,11 +300,11 @@
         }
       },
       "Bara": {
-        "active": 36,
+        "active": 34,
         "confirmed": 37,
         "deceased": 1,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -477,11 +477,11 @@
         }
       },
       "Rupandehi": {
-        "active": 42,
+        "active": 32,
         "confirmed": 43,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "active": 0,
