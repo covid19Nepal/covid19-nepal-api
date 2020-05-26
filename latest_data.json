@@ -1117,7 +1117,7 @@
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/05/2020 16:31:00",
-			"recovered": "92",
+			"recovered": "110",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1141,7 +1141,7 @@
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/05/2020 16:31:00",
-			"recovered": "14",
+			"recovered": "32",
 			"state": "Province 2",
 			"statecode": "P2"
 		},

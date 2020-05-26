@@ -1,10 +1,6 @@
 [
   {
     "update": "1 new case in Province 5\n",
-    "timestamp": 1589357733
-  },
-  {
-    "update": "1 new case in Province 5\n",
     "timestamp": 1589358269
   },
   {
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Province 2\n1 recovery in Bagmati Province\n2 recoveries in Province 5\n",
     "timestamp": 1590486864
+  },
+  {
+    "update": "18 recoveries in Province 2\n",
+    "timestamp": 1590488662
   }
 ]

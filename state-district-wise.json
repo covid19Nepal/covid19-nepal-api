@@ -261,11 +261,11 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 89,
+        "active": 71,
         "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 6,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "active": 0,
