@@ -285,8 +285,8 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 92,
-        "confirmed": 94,
+        "active": 93,
+        "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -327,8 +327,8 @@
       },
       {
         "district": "Bara",
-        "active": 35,
-        "confirmed": 35,
+        "active": 36,
+        "confirmed": 36,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -547,8 +547,8 @@
       },
       {
         "district": "Bardiya",
-        "active": 4,
-        "confirmed": 4,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,

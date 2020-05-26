@@ -1099,19 +1099,19 @@
 			"totalrecovered": ""
 		},
 		{
-			"dailyconfirmed": "72",
+			"dailyconfirmed": "78",
 			"dailydeceased": "",
 			"dailyrecovered": "",
 			"date": "25 May",
-			"totalconfirmed": "675",
+			"totalconfirmed": "681",
 			"totaldeceased": "",
 			"totalrecovered": ""
 		}
 	],
 	"statewise": [
 		{
-			"active": "607",
-			"confirmed": "676",
+			"active": "613",
+			"confirmed": "681",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1134,8 +1134,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "229",
-			"confirmed": "231",
+			"active": "231",
+			"confirmed": "233",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1170,8 +1170,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "266",
-			"confirmed": "290",
+			"active": "269",
+			"confirmed": "293",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1194,13 +1194,13 @@
 			"statecode": "P6"
 		},
 		{
-			"active": "9",
+			"active": "10",
 			"confirmed": "15",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:35:00",
+			"lastupdatedtime": "25/05/2020 22:20:00",
 			"recovered": "5",
 			"state": "Sudurpaschim Province",
 			"statecode": "P7"
