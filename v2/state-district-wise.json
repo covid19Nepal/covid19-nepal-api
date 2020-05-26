@@ -299,13 +299,13 @@
       },
       {
         "district": "Rautahat",
-        "active": 46,
-        "confirmed": 49,
+        "active": 68,
+        "confirmed": 71,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 22,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -327,13 +327,13 @@
       },
       {
         "district": "Bara",
-        "active": 34,
-        "confirmed": 37,
+        "active": 37,
+        "confirmed": 40,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -355,13 +355,13 @@
       },
       {
         "district": "Mahottari",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -383,13 +383,13 @@
       },
       {
         "district": "Siraha",
-        "active": 1,
-        "confirmed": 1,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -505,13 +505,13 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 124,
-        "confirmed": 146,
+        "active": 132,
+        "confirmed": 154,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -533,13 +533,13 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 83,
-        "confirmed": 83,
+        "active": 109,
+        "confirmed": 109,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 26,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -622,13 +622,27 @@
       },
       {
         "district": "Surkhet",
-        "active": 3,
-        "confirmed": 3,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Jumla",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -642,12 +656,12 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 90,
+        "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 90,
+          "confirmed": 12,
           "active": 0,
           "recovered": 0,
           "deceased": 0
