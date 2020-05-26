@@ -4,8 +4,8 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 8,
-        "confirmed": 12,
+        "active": 9,
+        "confirmed": 13,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -18,8 +18,8 @@
       },
       {
         "district": "Chitwan",
-        "active": 3,
-        "confirmed": 5,
+        "active": 4,
+        "confirmed": 6,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -299,8 +299,8 @@
       },
       {
         "district": "Bara",
-        "active": 10,
-        "confirmed": 10,
+        "active": 11,
+        "confirmed": 11,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -491,8 +491,8 @@
       },
       {
         "district": "Rupandehi",
-        "active": 28,
-        "confirmed": 29,
+        "active": 36,
+        "confirmed": 37,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -582,25 +582,6 @@
         "district": "Dailekh",
         "active": 1,
         "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 11,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,

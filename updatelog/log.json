@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Province 5\n",
-    "timestamp": 1588323961
-  },
-  {
     "update": "1 new case in Province 2\n9 new cases in Province 5\n",
     "timestamp": 1588507621
   },
@@ -198,5 +194,9 @@
   {
     "update": "13 new cases in Province 2\n8 new cases in Province 5\n",
     "timestamp": 1590468872
+  },
+  {
+    "update": "1 new case in Province 2\n2 new cases in Bagmati Province\n8 new cases in Province 5\n",
+    "timestamp": 1590469886
   }
 ]
