@@ -4,8 +4,8 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 10,
-        "confirmed": 14,
+        "active": 13,
+        "confirmed": 17,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
@@ -285,8 +285,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 23,
-        "confirmed": 23,
+        "active": 49,
+        "confirmed": 49,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -299,8 +299,8 @@
       },
       {
         "district": "Dhanusa",
-        "active": 9,
-        "confirmed": 9,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -313,8 +313,8 @@
       },
       {
         "district": "Bara",
-        "active": 12,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -416,8 +416,8 @@
       },
       {
         "district": "Jhapa",
-        "active": 35,
-        "confirmed": 37,
+        "active": 34,
+        "confirmed": 36,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -444,8 +444,8 @@
       },
       {
         "district": "Morang",
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -519,8 +519,8 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 80,
-        "confirmed": 80,
+        "active": 83,
+        "confirmed": 83,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -610,6 +610,25 @@
         "district": "Surkhet",
         "active": 3,
         "confirmed": 3,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "active": 0,
+        "confirmed": 35,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,

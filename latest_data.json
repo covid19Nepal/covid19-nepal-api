@@ -1097,17 +1097,26 @@
 			"totalconfirmed": "603",
 			"totaldeceased": "",
 			"totalrecovered": ""
+		},
+		{
+			"dailyconfirmed": "72",
+			"dailydeceased": "",
+			"dailyrecovered": "",
+			"date": "25 May",
+			"totalconfirmed": "675",
+			"totaldeceased": "",
+			"totalrecovered": ""
 		}
 	],
 	"statewise": [
 		{
-			"active": "556",
-			"confirmed": "603",
+			"active": "567",
+			"confirmed": "614",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/05/2020 18:39:00",
+			"lastupdatedtime": "24/05/2020 18:39:00",
 			"recovered": "44",
 			"state": "Total",
 			"statecode": "TT"
@@ -1119,31 +1128,31 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:30:00",
+			"lastupdatedtime": "24/05/2020 18:39:00",
 			"recovered": "26",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
 		{
-			"active": "175",
-			"confirmed": "177",
+			"active": "180",
+			"confirmed": "182",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "19/05/2020 16:35:00",
+			"lastupdatedtime": "24/05/2020 18:39:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
 		},
 		{
-			"active": "26",
-			"confirmed": "35",
+			"active": "29",
+			"confirmed": "38",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:35:00",
+			"lastupdatedtime": "24/05/2020 18:39:00",
 			"recovered": "8",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1161,13 +1170,13 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "279",
-			"confirmed": "282",
+			"active": "282",
+			"confirmed": "285",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "22/05/2020 20:35:00",
+			"lastupdatedtime": "24/05/2020 18:39:00",
 			"recovered": "1",
 			"state": "Province 5",
 			"statecode": "P5"
