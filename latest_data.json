@@ -1106,18 +1106,27 @@
 			"totalconfirmed": "682",
 			"totaldeceased": "4",
 			"totalrecovered": "111"
+		},
+		{
+			"dailyconfirmed": "90",
+			"dailydeceased": "",
+			"dailyrecovered": "",
+			"date": "26 May",
+			"totalconfirmed": "772",
+			"totaldeceased": "",
+			"totalrecovered": ""
 		}
 	],
 	"statewise": [
 		{
-			"active": "571",
+			"active": "569",
 			"confirmed": "682",
 			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/05/2020 16:31:00",
-			"recovered": "107",
+			"recovered": "109",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1170,14 +1179,14 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "260",
+			"active": "258",
 			"confirmed": "293",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/05/2020 16:31:00",
-			"recovered": "31",
+			"recovered": "33",
 			"state": "Province 5",
 			"statecode": "P5"
 		},
@@ -1666,6 +1675,16 @@
 			"totalpositivecases": "682",
 			"totalsamplestested": "51642",
 			"updatetimestamp": "25/05/2020 16:31:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "53652",
+			"totalpositivecases": "772",
+			"totalsamplestested": "54424",
+			"updatetimestamp": "26/05/2020 16:45:00"
 		}
 	]
 }

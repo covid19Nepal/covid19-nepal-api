@@ -4381,11 +4381,6 @@
 			"tt": "17"
 		},
 		{
-			"_cssly": "2",
-			"_cu76f": "parsa",
-			"_cvlqs": "18",
-			"_cx0b9": "4 mnth to 67",
-			"_d9ney": "21 day",
 			"date": "24-May-20",
 			"p1": "0",
 			"p2": "0",
@@ -4410,11 +4405,6 @@
 			"tt": "79"
 		},
 		{
-			"_cssly": "2",
-			"_cu76f": "patan",
-			"_cvlqs": "dns",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
 			"date": "25-May-20",
 			"p1": "0",
 			"p2": "20",
@@ -4427,10 +4417,6 @@
 			"tt": "24"
 		},
 		{
-			"_cssly": "3",
-			"_cvlqs": "dhading",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
 			"date": "25-May-20",
 			"p1": "0",
 			"p2": "1",
@@ -4443,11 +4429,7 @@
 			"tt": "1"
 		},
 		{
-			"_cssly": "5",
-			"_cvlqs": "dang",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
-			"date": "",
+			"date": "26-May-20",
 			"p1": "",
 			"p2": "",
 			"p3": "",
@@ -4455,15 +4437,11 @@
 			"p5": "",
 			"p6": "",
 			"p7": "",
-			"status": "",
+			"status": "Confirmed",
 			"tt": ""
 		},
 		{
-			"_cssly": "5",
-			"_cvlqs": "bardiya",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
-			"date": "",
+			"date": "26-May-20",
 			"p1": "",
 			"p2": "",
 			"p3": "",
@@ -4471,15 +4449,11 @@
 			"p5": "",
 			"p6": "",
 			"p7": "",
-			"status": "",
+			"status": "Recovered",
 			"tt": ""
 		},
 		{
-			"_cssly": "2",
-			"_cvlqs": "sarlahi",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
-			"date": "",
+			"date": "26-May-20",
 			"p1": "",
 			"p2": "",
 			"p3": "",
@@ -4487,23 +4461,7 @@
 			"p5": "",
 			"p6": "",
 			"p7": "",
-			"status": "",
-			"tt": ""
-		},
-		{
-			"_cssly": "3",
-			"_cvlqs": "ktm",
-			"_cx0b9": "done",
-			"_d9ney": "ok",
-			"date": "",
-			"p1": "",
-			"p2": "",
-			"p3": "",
-			"p4": "",
-			"p5": "",
-			"p6": "",
-			"p7": "",
-			"status": "",
+			"status": "Deceased",
 			"tt": ""
 		}
 	]
