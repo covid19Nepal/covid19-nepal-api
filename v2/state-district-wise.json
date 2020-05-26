@@ -216,6 +216,20 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      {
+        "district": "Achham",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     ]
   },
@@ -491,11 +505,11 @@
     "districtData": [
       {
         "district": "Banke",
-        "active": 123,
+        "active": 124,
         "confirmed": 146,
         "deceased": 1,
         "lastupdatedtime": "",
-        "recovered": 22,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "active": 0,

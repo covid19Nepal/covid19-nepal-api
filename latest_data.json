@@ -1074,11 +1074,11 @@
 		{
 			"dailyconfirmed": "59",
 			"dailydeceased": "0",
-			"dailyrecovered": "0",
+			"dailyrecovered": "21",
 			"date": "22 May",
 			"totalconfirmed": "516",
 			"totaldeceased": "3",
-			"totalrecovered": "49"
+			"totalrecovered": "70"
 		},
 		{
 			"dailyconfirmed": "68",
@@ -1110,14 +1110,14 @@
 	],
 	"statewise": [
 		{
-			"active": "628",
-			"confirmed": "675",
+			"active": "607",
+			"confirmed": "676",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 18:39:00",
-			"recovered": "44",
+			"lastupdatedtime": "25/05/2020 22:20:00",
+			"recovered": "65",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1140,7 +1140,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 18:39:00",
+			"lastupdatedtime": "25/05/2020 22:20:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1152,7 +1152,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 18:39:00",
+			"lastupdatedtime": "25/05/2020 22:20:00",
 			"recovered": "8",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1170,14 +1170,14 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "287",
+			"active": "266",
 			"confirmed": "290",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/05/2020 18:39:00",
-			"recovered": "1",
+			"lastupdatedtime": "25/05/2020 22:20:00",
+			"recovered": "22",
 			"state": "Province 5",
 			"statecode": "P5"
 		},
@@ -1188,14 +1188,14 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "18/05/2020 22:35:00",
+			"lastupdatedtime": "25/05/2020 22:20:00",
 			"recovered": "0",
 			"state": "Karnali Province",
 			"statecode": "P6"
 		},
 		{
 			"active": "9",
-			"confirmed": "14",
+			"confirmed": "15",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

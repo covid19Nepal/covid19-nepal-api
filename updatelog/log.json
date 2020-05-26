@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Province 5\n",
-    "timestamp": 1588872859
-  },
-  {
     "update": "8 recoveries in Province 1\n1 new case in Province 5\n",
     "timestamp": 1588937678
   },
@@ -198,5 +194,9 @@
   {
     "update": "49 new cases in Province 2\n5 new cases in Province 5\n7 new cases in Karnali Province\n",
     "timestamp": 1590474288
+  },
+  {
+    "update": "21 recoveries in Province 5\n1 new case in Sudurpaschim Province\n",
+    "timestamp": 1590474867
   }
 ]
