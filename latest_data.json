@@ -1099,24 +1099,24 @@
 			"totalrecovered": ""
 		},
 		{
-			"dailyconfirmed": "78",
-			"dailydeceased": "",
+			"dailyconfirmed": "79",
+			"dailydeceased": "1",
 			"dailyrecovered": "",
 			"date": "25 May",
-			"totalconfirmed": "681",
-			"totaldeceased": "",
+			"totalconfirmed": "682",
+			"totaldeceased": "4",
 			"totalrecovered": ""
 		}
 	],
 	"statewise": [
 		{
 			"active": "613",
-			"confirmed": "681",
-			"deaths": "3",
+			"confirmed": "682",
+			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/05/2020 22:20:00",
+			"lastupdatedtime": "25/05/2020 16:31:00",
 			"recovered": "65",
 			"state": "Total",
 			"statecode": "TT"
@@ -1135,12 +1135,12 @@
 		},
 		{
 			"active": "231",
-			"confirmed": "233",
-			"deaths": "0",
+			"confirmed": "234",
+			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/05/2020 22:20:00",
+			"lastupdatedtime": "25/05/2020 16:31:00",
 			"recovered": "2",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1152,7 +1152,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/05/2020 22:20:00",
+			"lastupdatedtime": "25/05/2020 16:31:00",
 			"recovered": "8",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1176,7 +1176,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/05/2020 22:20:00",
+			"lastupdatedtime": "25/05/2020 16:31:00",
 			"recovered": "22",
 			"state": "Province 5",
 			"statecode": "P5"
@@ -1188,7 +1188,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/05/2020 22:20:00",
+			"lastupdatedtime": "25/05/2020 16:31:00",
 			"recovered": "0",
 			"state": "Karnali Province",
 			"statecode": "P6"
@@ -1656,6 +1656,16 @@
 			"totalpositivecases": "444",
 			"totalsamplestested": "35511",
 			"updatetimestamp": "21/05/2020 08:47:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "50960",
+			"totalpositivecases": "682",
+			"totalsamplestested": "51642",
+			"updatetimestamp": "25/05/2020 16:31:00"
 		}
 	]
 }

@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Sudurpaschim Province\n",
-    "timestamp": 1588952068
-  },
-  {
     "update": "2 recoveries in Province 1\n",
     "timestamp": 1589200476
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Province 2\n3 new cases in Province 5\n",
     "timestamp": 1590475517
+  },
+  {
+    "update": "1 new case and 1 death in Province 2\n",
+    "timestamp": 1590477124
   }
 ]

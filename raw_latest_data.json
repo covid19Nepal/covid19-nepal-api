@@ -14300,6 +14300,27 @@
 			"statepatientnimber": "P2-233",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "70",
+			"backupnotes": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "Deceased",
+			"dateannounced": "25/05/2020",
+			"detectedcity": "Bara",
+			"detecteddistrict": "Bara",
+			"detectedstate": "Province 2",
+			"gender": "M",
+			"nationality": "",
+			"notes": "Tuberculosis patient from Bara, deceased on 17 May in NMC Birgunj \nAnnounced on 25th May",
+			"recovered": "682",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "P2",
+			"statepatientnimber": "P2-234",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
