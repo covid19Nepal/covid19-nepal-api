@@ -149,13 +149,13 @@
   "Sudurpaschim Province": {
     "districtData": {
       "Kailali": {
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -201,13 +201,13 @@
         }
       },
       "Achham": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -618,36 +618,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 2,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Kailali": {
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      },
-      "Achham": {
-        "active": 0,
-        "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
