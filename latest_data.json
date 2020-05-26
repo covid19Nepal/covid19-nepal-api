@@ -1110,7 +1110,7 @@
 		{
 			"dailyconfirmed": "90",
 			"dailydeceased": "",
-			"dailyrecovered": "",
+			"dailyrecovered": "43",
 			"date": "26 May",
 			"totalconfirmed": "772",
 			"totaldeceased": "",
