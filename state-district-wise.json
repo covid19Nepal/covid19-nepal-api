@@ -255,6 +255,19 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Syangja": {
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
@@ -287,13 +300,13 @@
         }
       },
       "Dhanusa": {
-        "active": 11,
-        "confirmed": 12,
+        "active": 12,
+        "confirmed": 13,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -326,13 +339,13 @@
         }
       },
       "Mahottari": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -477,13 +490,13 @@
         }
       },
       "Rupandehi": {
-        "active": 32,
-        "confirmed": 43,
+        "active": 33,
+        "confirmed": 44,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -542,13 +555,26 @@
         }
       },
       "Gulmi": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "Argakhanchi": {
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -585,7 +611,24 @@
         }
       },
       "Jumla": {
-        "active": 1,
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Kailali": {
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
@@ -596,19 +639,15 @@
           "recovered": 0,
           "deceased": 0
         }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
+      },
+      "Achham": {
         "active": 0,
-        "confirmed": 12,
+        "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
