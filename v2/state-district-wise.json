@@ -257,8 +257,8 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 89,
-        "confirmed": 91,
+        "active": 92,
+        "confirmed": 94,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -271,8 +271,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 22,
-        "confirmed": 22,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -299,8 +299,8 @@
       },
       {
         "district": "Bara",
-        "active": 11,
-        "confirmed": 11,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -402,8 +402,8 @@
       },
       {
         "district": "Jhapa",
-        "active": 34,
-        "confirmed": 36,
+        "active": 35,
+        "confirmed": 37,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -491,8 +491,8 @@
       },
       {
         "district": "Rupandehi",
-        "active": 36,
-        "confirmed": 37,
+        "active": 42,
+        "confirmed": 43,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -505,8 +505,8 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 77,
-        "confirmed": 77,
+        "active": 80,
+        "confirmed": 80,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -614,7 +614,7 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 19,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
