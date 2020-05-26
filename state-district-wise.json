@@ -274,11 +274,11 @@
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 71,
+        "active": 29,
         "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 24,
+        "recovered": 66,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -313,11 +313,11 @@
         }
       },
       "Bara": {
-        "active": 37,
+        "active": 36,
         "confirmed": 40,
         "deceased": 1,
         "lastupdatedtime": "",
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 3,
           "active": 0,
@@ -503,11 +503,11 @@
         }
       },
       "Kapilvastu": {
-        "active": 109,
+        "active": 108,
         "confirmed": 109,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 26,
           "active": 0,
