@@ -1110,8 +1110,8 @@
 	],
 	"statewise": [
 		{
-			"active": "567",
-			"confirmed": "614",
+			"active": "628",
+			"confirmed": "675",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1134,8 +1134,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "180",
-			"confirmed": "182",
+			"active": "229",
+			"confirmed": "231",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1170,8 +1170,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "282",
-			"confirmed": "285",
+			"active": "287",
+			"confirmed": "290",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1182,8 +1182,8 @@
 			"statecode": "P5"
 		},
 		{
-			"active": "4",
-			"confirmed": "4",
+			"active": "11",
+			"confirmed": "11",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
