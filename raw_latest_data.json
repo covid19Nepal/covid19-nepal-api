@@ -5104,15 +5104,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "32",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/05/2020",
 			"detectedcity": "Kathmandu",
 			"detecteddistrict": "Kathmandu",
 			"detectedstate": "Bagmati Province",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "244",
@@ -5121,7 +5121,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-11",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -5209,15 +5209,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "30",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "14/05/2020",
 			"detectedcity": "Dhading",
 			"detecteddistrict": "Dhading",
 			"detectedstate": "Bagmati Province",
-			"gender": "F",
+			"gender": "",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "249",
@@ -5226,7 +5226,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-13",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -5524,15 +5524,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "23",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/05/2020",
 			"detectedcity": "Dang",
 			"detecteddistrict": "Dang",
 			"detectedstate": "Province 5",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "264",
@@ -5541,7 +5541,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-103",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -5611,7 +5611,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/05/2020",
 			"detectedcity": "Bardiya",
 			"detecteddistrict": "Bardiya",
@@ -5625,7 +5625,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-106",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -5860,15 +5860,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "20",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/05/2020",
 			"detectedcity": "Dhanusa",
 			"detecteddistrict": "Dhanusa",
 			"detectedstate": "Province 2",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"notes": "",
 			"patientnimber": "280",
@@ -5877,7 +5877,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-109",
-			"statuschangedate": "",
+			"statuschangedate": "25/05/2020",
 			"typeoftransmission": ""
 		},
 		{

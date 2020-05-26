@@ -4,11 +4,11 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 12,
+        "active": 11,
         "confirmed": 17,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -46,11 +46,11 @@
       },
       {
         "district": "Dhading",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -313,11 +313,11 @@
       },
       {
         "district": "Dhanusa",
-        "active": 12,
+        "active": 11,
         "confirmed": 12,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -547,11 +547,11 @@
       },
       {
         "district": "Bardiya",
-        "active": 7,
+        "active": 6,
         "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -575,11 +575,11 @@
       },
       {
         "district": "Dang",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,

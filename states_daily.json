@@ -4399,9 +4399,6 @@
 			"tt": "0"
 		},
 		{
-			"_cssly": "patan",
-			"_cu76f": "patan",
-			"_cvlqs": "dhanusa",
 			"date": "25-May-20",
 			"p1": "0",
 			"p2": "57",
@@ -4414,7 +4411,10 @@
 			"tt": "79"
 		},
 		{
-			"_cvlqs": "ktm",
+			"_cu76f": "patan",
+			"_cvlqs": "dns",
+			"_cx0b9": "done",
+			"_d9ney": "ok",
 			"date": "25-May-20",
 			"p1": "",
 			"p2": "",
@@ -4427,8 +4427,9 @@
 			"tt": "24"
 		},
 		{
-			"_cvlqs": "dhjading",
-			"_d9ney": "9 10",
+			"_cvlqs": "dhading",
+			"_cx0b9": "done",
+			"_d9ney": "ok",
 			"date": "25-May-20",
 			"p1": "0",
 			"p2": "1",
@@ -4441,7 +4442,50 @@
 			"tt": "1"
 		},
 		{
-			"_cvlqs": "barduya",
+			"_cvlqs": "dang",
+			"_cx0b9": "done",
+			"date": "",
+			"p1": "",
+			"p2": "",
+			"p3": "",
+			"p4": "",
+			"p5": "",
+			"p6": "",
+			"p7": "",
+			"status": "",
+			"tt": ""
+		},
+		{
+			"_cvlqs": "bardiya",
+			"_cx0b9": "done",
+			"date": "",
+			"p1": "",
+			"p2": "",
+			"p3": "",
+			"p4": "",
+			"p5": "",
+			"p6": "",
+			"p7": "",
+			"status": "",
+			"tt": ""
+		},
+		{
+			"_cvlqs": "sarlahi",
+			"_cx0b9": "done",
+			"date": "",
+			"p1": "",
+			"p2": "",
+			"p3": "",
+			"p4": "",
+			"p5": "",
+			"p6": "",
+			"p7": "",
+			"status": "",
+			"tt": ""
+		},
+		{
+			"_cvlqs": "ktm",
+			"_cx0b9": "done",
 			"date": "",
 			"p1": "",
 			"p2": "",
