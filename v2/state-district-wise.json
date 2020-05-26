@@ -4,11 +4,11 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 13,
+        "active": 12,
         "confirmed": 17,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -285,11 +285,11 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 93,
+        "active": 92,
         "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "active": 0,
@@ -299,11 +299,11 @@
       },
       {
         "district": "Rautahat",
-        "active": 49,
+        "active": 48,
         "confirmed": 49,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "active": 0,
