@@ -341,11 +341,11 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 5,
+        "active": 4,
         "confirmed": 95,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 90,
+        "recovered": 91,
         "delta": {
           "confirmed": 0,
           "active": 0,
