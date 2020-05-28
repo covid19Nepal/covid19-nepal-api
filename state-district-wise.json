@@ -257,13 +257,13 @@
         }
       },
       "Syangja": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -352,26 +352,26 @@
         }
       },
       "Sarlahi": {
-        "active": 32,
-        "confirmed": 33,
+        "active": 39,
+        "confirmed": 40,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "active": 0,
           "recovered": 0,
           "deceased": 0
         }
       },
       "Siraha": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -516,13 +516,13 @@
         }
       },
       "Bardiya": {
-        "active": 5,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -598,13 +598,13 @@
   "Karnali Province": {
     "districtData": {
       "Dailekh": {
-        "active": 8,
-        "confirmed": 8,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -642,12 +642,12 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 38,
+        "confirmed": 11,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 38,
+          "confirmed": 11,
           "active": 0,
           "recovered": 0,
           "deceased": 0

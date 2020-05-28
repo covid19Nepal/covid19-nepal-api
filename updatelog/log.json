@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case and 1 death in Bagmati Province\n",
-    "timestamp": 1589645218
-  },
-  {
     "update": "2 new cases in Province 2\n",
     "timestamp": 1589645707
   },
@@ -198,5 +194,9 @@
   {
     "update": "51 new cases in Province 2\n13 new cases in Karnali Province\n",
     "timestamp": 1590662673
+  },
+  {
+    "update": "13 new cases in Province 2\n3 new cases in Gandaki Province\n3 new cases in Province 5\n8 new cases in Karnali Province\n",
+    "timestamp": 1590663268
   }
 ]
