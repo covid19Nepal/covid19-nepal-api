@@ -1119,23 +1119,23 @@
 		{
 			"dailyconfirmed": "114",
 			"dailydeceased": "0",
-			"dailyrecovered": "43",
+			"dailyrecovered": "28",
 			"date": "27 May",
 			"totalconfirmed": "886",
 			"totaldeceased": "4",
-			"totalrecovered": "155"
+			"totalrecovered": "183"
 		}
 	],
 	"statewise": [
 		{
-			"active": "729",
+			"active": "728",
 			"confirmed": "886",
 			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
-			"recovered": "153",
+			"lastupdatedtime": "27/05/2020 16:31:00",
+			"recovered": "154",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -1146,7 +1146,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
+			"lastupdatedtime": "27/05/2020 16:31:00",
 			"recovered": "26",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -1158,7 +1158,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
+			"lastupdatedtime": "27/05/2020 16:31:00",
 			"recovered": "75",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1170,7 +1170,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
+			"lastupdatedtime": "27/05/2020 16:31:00",
 			"recovered": "11",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1182,20 +1182,20 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
+			"lastupdatedtime": "27/05/2020 16:31:00",
 			"recovered": "2",
 			"state": "Gandaki Province",
 			"statecode": "P4"
 		},
 		{
-			"active": "330",
+			"active": "329",
 			"confirmed": "366",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/05/2020 11:31:00",
-			"recovered": "34",
+			"lastupdatedtime": "27/05/2020 16:31:00",
+			"recovered": "35",
 			"state": "Province 5",
 			"statecode": "P5"
 		},
@@ -1694,6 +1694,16 @@
 			"totalpositivecases": "772",
 			"totalsamplestested": "54424",
 			"updatetimestamp": "26/05/2020 16:45:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://covid19.mohp.gov.np",
+			"testsconductedbyprivatelabs": "",
+			"totalnegativetested": "57391",
+			"totalpositivecases": "886",
+			"totalsamplestested": "58277",
+			"updatetimestamp": "27/05/2020 16:31:00"
 		}
 	]
 }

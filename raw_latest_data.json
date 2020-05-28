@@ -2797,7 +2797,7 @@
 			"agebracket": "11",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "11/05/2020",
 			"detectedcity": "Bardiya",
 			"detecteddistrict": "Bardiya",
@@ -2811,7 +2811,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-53",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": ""
 		},
 		{

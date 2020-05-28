@@ -561,11 +561,11 @@
       },
       {
         "district": "Bardiya",
-        "active": 6,
+        "active": 5,
         "confirmed": 7,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "active": 0,
