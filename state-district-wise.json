@@ -54,8 +54,8 @@
         }
       },
       "Makwanpur": {
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -218,8 +218,8 @@
   "Gandaki Province": {
     "districtData": {
       "Baglung": {
-        "active": 0,
-        "confirmed": 2,
+        "active": 6,
+        "confirmed": 8,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -477,8 +477,8 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 132,
-        "confirmed": 154,
+        "active": 148,
+        "confirmed": 170,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 21,
@@ -542,8 +542,8 @@
         }
       },
       "Dang": {
-        "active": 4,
-        "confirmed": 5,
+        "active": 19,
+        "confirmed": 20,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -570,6 +570,19 @@
       "Argakhanchi": {
         "active": 2,
         "confirmed": 2,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "East Rukum": {
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -613,23 +626,6 @@
       "Jumla": {
         "active": 2,
         "confirmed": 2,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 41,
-        "confirmed": 41,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
