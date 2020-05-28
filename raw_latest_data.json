@@ -1051,7 +1051,7 @@
 			"typeoftransmission": "Imported"
 		},
 		{
-			"agebracket": "50",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -1059,7 +1059,7 @@
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "M",
+			"gender": "",
 			"nationality": "",
 			"note": "",
 			"patientnimber": "51",
@@ -5503,15 +5503,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "47",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "15/05/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "F",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "263",
@@ -5520,7 +5520,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-103",
-			"statuschangedate": "",
+			"statuschangedate": "28/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -5650,15 +5650,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "28",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/05/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "270",
@@ -5667,19 +5667,19 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-105",
-			"statuschangedate": "",
+			"statuschangedate": "28/05/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "29",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "16/05/2020",
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "271",
@@ -5688,7 +5688,7 @@
 			"source3": "",
 			"statecode": "P2",
 			"statepatientnimber": "P2-106",
-			"statuschangedate": "",
+			"statuschangedate": "28/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -12454,7 +12454,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "25",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
@@ -12462,7 +12462,7 @@
 			"detectedcity": "Birgunj",
 			"detecteddistrict": "Parsa",
 			"detectedstate": "Province 2",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "594",
