@@ -313,8 +313,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 104,
-        "confirmed": 107,
+        "active": 105,
+        "confirmed": 108,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -327,8 +327,8 @@
       },
       {
         "district": "Dhanusa",
-        "active": 12,
-        "confirmed": 13,
+        "active": 41,
+        "confirmed": 42,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -444,8 +444,8 @@
       },
       {
         "district": "Jhapa",
-        "active": 51,
-        "confirmed": 53,
+        "active": 76,
+        "confirmed": 78,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -698,7 +698,7 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 112,
+        "confirmed": 101,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
