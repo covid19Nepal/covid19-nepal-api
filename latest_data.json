@@ -1128,11 +1128,11 @@
 		{
 			"dailyconfirmed": "156",
 			"dailydeceased": "1",
-			"dailyrecovered": "",
+			"dailyrecovered": "4",
 			"date": "28 May",
 			"totalconfirmed": "1042",
 			"totaldeceased": "5",
-			"totalrecovered": ""
+			"totalrecovered": "187"
 		}
 	],
 	"statewise": [
