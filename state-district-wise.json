@@ -60,7 +60,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -112,7 +112,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -151,7 +151,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -168,7 +168,7 @@
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -233,7 +233,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -246,7 +246,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -276,7 +276,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -302,7 +302,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -332,7 +332,7 @@
         "lastupdatedtime": "",
         "recovered": 3,
         "delta": {
-          "confirmed": 20,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -345,7 +345,7 @@
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 29,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -371,7 +371,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -384,7 +384,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -397,7 +397,7 @@
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -410,7 +410,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -453,7 +453,7 @@
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 25,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -518,7 +518,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -535,7 +535,7 @@
         "lastupdatedtime": "",
         "recovered": 23,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -574,7 +574,7 @@
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -656,7 +656,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -669,7 +669,7 @@
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
