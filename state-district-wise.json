@@ -408,8 +408,8 @@
         }
       },
       "Jhapa": {
-        "active": 34,
-        "confirmed": 36,
+        "active": 51,
+        "confirmed": 53,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -628,8 +628,8 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "active": 0,
-        "confirmed": 114,
+        "active": 97,
+        "confirmed": 97,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
