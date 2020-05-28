@@ -313,8 +313,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 68,
-        "confirmed": 71,
+        "active": 104,
+        "confirmed": 107,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -341,8 +341,8 @@
       },
       {
         "district": "Bara",
-        "active": 36,
-        "confirmed": 40,
+        "active": 43,
+        "confirmed": 47,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -355,8 +355,8 @@
       },
       {
         "district": "Saptari",
-        "active": 4,
-        "confirmed": 4,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -397,8 +397,8 @@
       },
       {
         "district": "Siraha",
-        "active": 6,
-        "confirmed": 6,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -683,8 +683,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 97,
-        "confirmed": 97,
+        "active": 41,
+        "confirmed": 41,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
