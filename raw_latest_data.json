@@ -823,7 +823,7 @@
 			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -837,14 +837,14 @@
 			"source3": "https://www.onlinekhabar.com/2020/04/856933",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P22",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -858,14 +858,14 @@
 			"source3": "https://www.onlinekhabar.com/2020/04/856933",
 			"statecode": "P1",
 			"statepatientnimber": "P1-P23",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "Resident of area around the mosque in Udayapur",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/04/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
@@ -879,7 +879,7 @@
 			"source3": "https://www.onlinekhabar.com/2020/04/856933",
 			"statecode": "P1",
 			"statepatientnimber": "P1-24",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": "Local"
 		},
 		{
@@ -2290,15 +2290,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "43",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "09/05/2020",
 			"detectedcity": "Udayapur",
 			"detecteddistrict": "Udayapur",
 			"detectedstate": "Province 1",
-			"gender": "F",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "110",
@@ -2307,7 +2307,7 @@
 			"source3": "",
 			"statecode": "P1",
 			"statepatientnimber": "P1-35",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": ""
 		},
 		{

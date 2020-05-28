@@ -1128,26 +1128,26 @@
 	],
 	"statewise": [
 		{
-			"active": "726",
+			"active": "722",
 			"confirmed": "886",
 			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "27/05/2020 16:31:00",
-			"recovered": "156",
+			"recovered": "160",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "78",
+			"active": "74",
 			"confirmed": "104",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "27/05/2020 16:31:00",
-			"recovered": "26",
+			"recovered": "30",
 			"state": "Province 1",
 			"statecode": "P1"
 		},
