@@ -287,13 +287,13 @@
         }
       },
       "Rautahat": {
-        "active": 105,
-        "confirmed": 108,
+        "active": 124,
+        "confirmed": 127,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -306,7 +306,7 @@
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 29,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -326,26 +326,26 @@
         }
       },
       "Saptari": {
-        "active": 15,
-        "confirmed": 15,
+        "active": 29,
+        "confirmed": 29,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "active": 0,
           "recovered": 0,
           "deceased": 0
         }
       },
       "Mahottari": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -414,7 +414,7 @@
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 25,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -611,13 +611,13 @@
         }
       },
       "Surkhet": {
-        "active": 15,
-        "confirmed": 15,
+        "active": 28,
+        "confirmed": 28,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -642,12 +642,12 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 101,
+        "confirmed": 38,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 38,
           "active": 0,
           "recovered": 0,
           "deceased": 0
