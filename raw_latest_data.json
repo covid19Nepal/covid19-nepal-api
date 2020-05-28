@@ -1705,7 +1705,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "05/05/2020",
 			"detectedcity": "Nepalgunj",
 			"detecteddistrict": "Banke",
@@ -1719,7 +1719,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-P24",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -6388,7 +6388,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "18/05/2020",
 			"detectedcity": "Banke",
 			"detecteddistrict": "Banke",
@@ -6402,7 +6402,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-111",
-			"statuschangedate": "",
+			"statuschangedate": "27/05/2020",
 			"typeoftransmission": ""
 		},
 		{

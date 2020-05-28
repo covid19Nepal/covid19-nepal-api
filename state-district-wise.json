@@ -477,11 +477,11 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 148,
+        "active": 146,
         "confirmed": 170,
         "deceased": 1,
         "lastupdatedtime": "",
-        "recovered": 21,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "active": 0,
