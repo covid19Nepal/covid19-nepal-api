@@ -624,5 +624,22 @@
         }
       }
     }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "active": 0,
+        "confirmed": 29,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    }
   }
 }
