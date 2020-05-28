@@ -54,13 +54,13 @@
         }
       },
       "Makwanpur": {
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -107,12 +107,12 @@
       },
       "Lalitpur": {
         "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
+        "confirmed": 2,
+        "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -143,19 +143,32 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Dolakha": {
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
   "Sudurpaschim Province": {
     "districtData": {
       "Kailali": {
-        "active": 4,
-        "confirmed": 8,
+        "active": 6,
+        "confirmed": 10,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -212,6 +225,32 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Darchula": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "Bajhang": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
@@ -231,13 +270,13 @@
         }
       },
       "Nawalpur": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -471,19 +510,32 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Solukhumbu": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 146,
-        "confirmed": 170,
+        "active": 147,
+        "confirmed": 171,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -631,23 +683,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 0,
-        "confirmed": 11,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 11,
           "active": 0,
           "recovered": 0,
           "deceased": 0
