@@ -603,13 +603,13 @@
       },
       {
         "district": "Rupandehi",
-        "active": 33,
-        "confirmed": 44,
+        "active": 34,
+        "confirmed": 45,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -617,13 +617,13 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 150,
-        "confirmed": 151,
+        "active": 159,
+        "confirmed": 160,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 42,
+          "confirmed": 51,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -687,9 +687,9 @@
       },
       {
         "district": "Argakhanchi",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
-        "deceased": 0,
+        "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
@@ -763,17 +763,55 @@
     ]
   },
   {
+    "state": "Province 6",
+    "districtData": [
+      {
+        "district": "Dang",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Province 7",
+    "districtData": [
+      {
+        "district": "Dang",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      }
+    ]
+  },
+  {
     "state": "Unknown",
     "districtData": [
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 13,
+        "confirmed": 1,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
