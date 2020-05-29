@@ -106,13 +106,13 @@
         }
       },
       "Lalitpur": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -270,13 +270,13 @@
         }
       },
       "Nawalpur": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -307,32 +307,45 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Myagdi": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
   "Province 2": {
     "districtData": {
       "Parsa": {
-        "active": 4,
-        "confirmed": 95,
+        "active": 9,
+        "confirmed": 100,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 91,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "active": 0,
           "recovered": 0,
           "deceased": 0
         }
       },
       "Rautahat": {
-        "active": 124,
-        "confirmed": 127,
+        "active": 180,
+        "confirmed": 183,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 56,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -391,13 +404,13 @@
         }
       },
       "Sarlahi": {
-        "active": 39,
-        "confirmed": 40,
+        "active": 43,
+        "confirmed": 44,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -529,13 +542,13 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 147,
-        "confirmed": 171,
+        "active": 157,
+        "confirmed": 181,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -555,13 +568,13 @@
         }
       },
       "Kapilvastu": {
-        "active": 108,
-        "confirmed": 109,
+        "active": 150,
+        "confirmed": 151,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 42,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -694,12 +707,12 @@
     "districtData": {
       "Unknown": {
         "active": 0,
-        "confirmed": 134,
+        "confirmed": 13,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 134,
+          "confirmed": 13,
           "active": 0,
           "recovered": 0,
           "deceased": 0
