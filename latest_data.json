@@ -1133,6 +1133,15 @@
 			"totalconfirmed": "1042",
 			"totaldeceased": "5",
 			"totalrecovered": "187"
+		},
+		{
+			"dailyconfirmed": "170",
+			"dailydeceased": "1",
+			"dailyrecovered": "19",
+			"date": "29 May",
+			"totalconfirmed": "1212",
+			"totaldeceased": "6",
+			"totalrecovered": "206"
 		}
 	],
 	"statewise": [
