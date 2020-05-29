@@ -22749,18 +22749,18 @@
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
 			"dateannounced": "29/05/2020",
-			"detectedcity": "Patan",
-			"detecteddistrict": "Lalitpur",
-			"detectedstate": "Bagmati Province",
+			"detectedcity": "Sarlahi",
+			"detecteddistrict": "Sarlahi",
+			"detectedstate": "Province 2",
 			"gender": "F",
 			"nationality": "",
-			"note": "From Sarlahi",
+			"note": "Patan Hospital",
 			"patientnimber": "1084",
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "P3",
-			"statepatientnimber": "P3-44",
+			"statecode": "P2",
+			"statepatientnimber": "P2-430",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23621,7 +23621,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-430",
+			"statepatientnimber": "P2-431",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23642,7 +23642,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-431",
+			"statepatientnimber": "P2-432",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23663,7 +23663,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-432",
+			"statepatientnimber": "P2-433",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23684,7 +23684,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-433",
+			"statepatientnimber": "P2-434",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23705,7 +23705,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-434",
+			"statepatientnimber": "P2-435",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23726,7 +23726,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-435",
+			"statepatientnimber": "P2-436",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23747,7 +23747,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-436",
+			"statepatientnimber": "P2-437",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23768,7 +23768,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-437",
+			"statepatientnimber": "P2-438",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23789,7 +23789,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-438",
+			"statepatientnimber": "P2-439",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23810,7 +23810,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-439",
+			"statepatientnimber": "P2-440",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23831,7 +23831,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-440",
+			"statepatientnimber": "P2-441",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23852,7 +23852,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-441",
+			"statepatientnimber": "P2-442",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23873,7 +23873,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-442",
+			"statepatientnimber": "P2-443",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23894,7 +23894,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-443",
+			"statepatientnimber": "P2-444",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23915,7 +23915,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-444",
+			"statepatientnimber": "P2-445",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23936,7 +23936,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-445",
+			"statepatientnimber": "P2-446",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23957,7 +23957,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-446",
+			"statepatientnimber": "P2-447",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23978,7 +23978,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-447",
+			"statepatientnimber": "P2-448",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -23999,7 +23999,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-448",
+			"statepatientnimber": "P2-449",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24020,7 +24020,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-449",
+			"statepatientnimber": "P2-450",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24041,7 +24041,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-450",
+			"statepatientnimber": "P2-451",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24062,7 +24062,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-451",
+			"statepatientnimber": "P2-452",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24083,7 +24083,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-452",
+			"statepatientnimber": "P2-453",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24104,7 +24104,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-453",
+			"statepatientnimber": "P2-454",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24125,7 +24125,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-454",
+			"statepatientnimber": "P2-455",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24146,7 +24146,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-455",
+			"statepatientnimber": "P2-456",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24167,7 +24167,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-456",
+			"statepatientnimber": "P2-457",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24188,7 +24188,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-457",
+			"statepatientnimber": "P2-458",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24209,7 +24209,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-458",
+			"statepatientnimber": "P2-459",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24230,7 +24230,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-459",
+			"statepatientnimber": "P2-460",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24251,7 +24251,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-460",
+			"statepatientnimber": "P2-461",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24272,7 +24272,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-461",
+			"statepatientnimber": "P2-462",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24293,7 +24293,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-462",
+			"statepatientnimber": "P2-463",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24314,7 +24314,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-463",
+			"statepatientnimber": "P2-464",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24335,7 +24335,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-464",
+			"statepatientnimber": "P2-465",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24356,7 +24356,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-465",
+			"statepatientnimber": "P2-466",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24377,7 +24377,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-466",
+			"statepatientnimber": "P2-467",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24398,7 +24398,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-467",
+			"statepatientnimber": "P2-468",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24419,7 +24419,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-468",
+			"statepatientnimber": "P2-469",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24440,7 +24440,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-469",
+			"statepatientnimber": "P2-470",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24461,7 +24461,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-470",
+			"statepatientnimber": "P2-471",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24482,7 +24482,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-471",
+			"statepatientnimber": "P2-472",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24503,7 +24503,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-472",
+			"statepatientnimber": "P2-473",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24524,7 +24524,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-473",
+			"statepatientnimber": "P2-474",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24545,7 +24545,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-474",
+			"statepatientnimber": "P2-475",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24566,7 +24566,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-475",
+			"statepatientnimber": "P2-476",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24587,7 +24587,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-476",
+			"statepatientnimber": "P2-477",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24608,7 +24608,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-477",
+			"statepatientnimber": "P2-478",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24629,7 +24629,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-478",
+			"statepatientnimber": "P2-479",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24650,7 +24650,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-479",
+			"statepatientnimber": "P2-480",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24671,7 +24671,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-480",
+			"statepatientnimber": "P2-481",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24692,7 +24692,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-481",
+			"statepatientnimber": "P2-482",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24713,7 +24713,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-482",
+			"statepatientnimber": "P2-483",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24734,7 +24734,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-483",
+			"statepatientnimber": "P2-484",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24755,7 +24755,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-484",
+			"statepatientnimber": "P2-485",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24776,7 +24776,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-485",
+			"statepatientnimber": "P2-486",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24797,7 +24797,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-486",
+			"statepatientnimber": "P2-487",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24818,7 +24818,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-487",
+			"statepatientnimber": "P2-488",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24839,7 +24839,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-488",
+			"statepatientnimber": "P2-489",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},
@@ -24860,7 +24860,7 @@
 			"source2": "",
 			"source3": "",
 			"statecode": "P2",
-			"statepatientnimber": "P2-489",
+			"statepatientnimber": "P2-490",
 			"statuschangedate": "",
 			"typeoftransmission": ""
 		},

@@ -1170,8 +1170,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "387",
-			"confirmed": "489",
+			"active": "388",
+			"confirmed": "490",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1182,8 +1182,8 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "31",
-			"confirmed": "44",
+			"active": "30",
+			"confirmed": "43",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

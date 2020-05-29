@@ -116,13 +116,13 @@
       },
       {
         "district": "Lalitpur",
-        "active": 2,
-        "confirmed": 3,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -439,13 +439,13 @@
       },
       {
         "district": "Sarlahi",
-        "active": 43,
-        "confirmed": 44,
+        "active": 44,
+        "confirmed": 45,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "active": 0,
           "recovered": 0,
           "deceased": 0
