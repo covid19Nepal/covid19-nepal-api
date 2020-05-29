@@ -383,13 +383,13 @@
       },
       {
         "district": "Bara",
-        "active": 43,
-        "confirmed": 47,
+        "active": 47,
+        "confirmed": 51,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -397,13 +397,13 @@
       },
       {
         "district": "Saptari",
-        "active": 29,
-        "confirmed": 29,
+        "active": 33,
+        "confirmed": 33,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -486,13 +486,13 @@
       },
       {
         "district": "Jhapa",
-        "active": 76,
-        "confirmed": 78,
+        "active": 104,
+        "confirmed": 106,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "active": 0,
           "recovered": 0,
           "deceased": 0
@@ -754,12 +754,12 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 170,
+        "confirmed": 134,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
         "delta": {
-          "confirmed": 170,
+          "confirmed": 134,
           "active": 0,
           "recovered": 0,
           "deceased": 0
