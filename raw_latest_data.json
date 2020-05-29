@@ -8194,7 +8194,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "19/05/2020",
 			"detectedcity": "Kathmandu",
 			"detecteddistrict": "Kathmandu",
@@ -8208,7 +8208,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-22",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -9594,7 +9594,7 @@
 			"source3": "https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/97998967_10220004264050090_5089625675569037312_n.jpg?_nc_cat=107&_nc_sid=1480c5&_nc_ohc=tErJvI3kjJwAX8jtezy&_nc_ht=scontent.fktm8-1.fna&oh=82184353f8273df49779094ebe86389f&oe=5EEF06F6",
 			"statecode": "P5",
 			"statepatientnimber": "P5-201",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -11299,15 +11299,15 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "35",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Kathmandu",
 			"detecteddistrict": "Kathmandu",
 			"detectedstate": "Bagmati Province",
-			"gender": "M",
+			"gender": "",
 			"nationality": "Nepal",
 			"note": "",
 			"patientnimber": "539",
@@ -11316,7 +11316,7 @@
 			"source3": "",
 			"statecode": "P3",
 			"statepatientnimber": "P3-32",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{

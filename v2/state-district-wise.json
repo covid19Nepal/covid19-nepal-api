@@ -4,11 +4,11 @@
     "districtData": [
       {
         "district": "Kathmandu",
-        "active": 11,
+        "active": 9,
         "confirmed": 17,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "active": 0,
