@@ -542,11 +542,11 @@
   "Province 5": {
     "districtData": {
       "Banke": {
-        "active": 157,
+        "active": 154,
         "confirmed": 181,
         "deceased": 1,
         "lastupdatedtime": "",
-        "recovered": 23,
+        "recovered": 26,
         "delta": {
           "confirmed": 10,
           "active": 0,
@@ -568,11 +568,11 @@
         }
       },
       "Kapilvastu": {
-        "active": 159,
+        "active": 155,
         "confirmed": 160,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 5,
         "delta": {
           "confirmed": 51,
           "active": 0,
@@ -607,11 +607,11 @@
         }
       },
       "Dang": {
-        "active": 19,
+        "active": 18,
         "confirmed": 20,
         "deceased": 0,
         "lastupdatedtime": "",
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "active": 0,

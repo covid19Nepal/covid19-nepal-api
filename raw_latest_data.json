@@ -9580,7 +9580,7 @@
 			"agebracket": "37",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "21/05/2020",
 			"detectedcity": "Dang",
 			"detecteddistrict": "Dang",
@@ -10858,10 +10858,10 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "19",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Kapilvastu",
 			"detecteddistrict": "Kapilvastu",
@@ -10875,7 +10875,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-230",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -10903,7 +10903,7 @@
 			"agebracket": "29",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Kapilvastu",
 			"detecteddistrict": "Kapilvastu",
@@ -10917,14 +10917,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-232",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "35",
+			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Kapilvastu",
 			"detecteddistrict": "Kapilvastu",
@@ -10938,7 +10938,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-233",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -10966,7 +10966,7 @@
 			"agebracket": "42",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Kapilvastu",
 			"detecteddistrict": "Kapilvastu",
@@ -10980,7 +10980,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-235",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
@@ -11512,7 +11512,7 @@
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Banke",
 			"detecteddistrict": "Banke",
@@ -11526,14 +11526,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-245",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Banke",
 			"detecteddistrict": "Banke",
@@ -11547,14 +11547,14 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-246",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
 			"agebracket": "",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "23/05/2020",
 			"detectedcity": "Banke",
 			"detecteddistrict": "Banke",
@@ -11568,7 +11568,7 @@
 			"source3": "",
 			"statecode": "P5",
 			"statepatientnimber": "P5-247",
-			"statuschangedate": "",
+			"statuschangedate": "29/05/2020",
 			"typeoftransmission": ""
 		},
 		{
