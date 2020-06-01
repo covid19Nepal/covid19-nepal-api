@@ -355,8 +355,8 @@
     "districtData": [
       {
         "district": "Parsa",
-        "active": 9,
-        "confirmed": 100,
+        "active": 11,
+        "confirmed": 102,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 91,
@@ -369,8 +369,8 @@
       },
       {
         "district": "Rautahat",
-        "active": 180,
-        "confirmed": 183,
+        "active": 186,
+        "confirmed": 189,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -383,8 +383,8 @@
       },
       {
         "district": "Dhanusa",
-        "active": 41,
-        "confirmed": 42,
+        "active": 48,
+        "confirmed": 49,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -397,8 +397,8 @@
       },
       {
         "district": "Bara",
-        "active": 47,
-        "confirmed": 51,
+        "active": 48,
+        "confirmed": 52,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 3,
@@ -411,8 +411,8 @@
       },
       {
         "district": "Saptari",
-        "active": 33,
-        "confirmed": 33,
+        "active": 42,
+        "confirmed": 42,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -439,8 +439,8 @@
       },
       {
         "district": "Sarlahi",
-        "active": 44,
-        "confirmed": 45,
+        "active": 61,
+        "confirmed": 62,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 1,
@@ -453,8 +453,22 @@
       },
       {
         "district": "Siraha",
-        "active": 14,
-        "confirmed": 14,
+        "active": 25,
+        "confirmed": 25,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -805,8 +819,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 80,
-        "confirmed": 80,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
