@@ -617,8 +617,8 @@
       },
       {
         "district": "Kapilvastu",
-        "active": 155,
-        "confirmed": 160,
+        "active": 264,
+        "confirmed": 269,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 5,
@@ -805,8 +805,8 @@
     "districtData": [
       {
         "district": "Unknown",
-        "active": 189,
-        "confirmed": 189,
+        "active": 80,
+        "confirmed": 80,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
