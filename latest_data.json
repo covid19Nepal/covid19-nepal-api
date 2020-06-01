@@ -1161,7 +1161,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 16:45:01",
+			"lastupdatedtime": "30/05/2020 16:45:01",
 			"recovered": "206",
 			"state": "Total",
 			"statecode": "TT"
@@ -1173,7 +1173,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 16:45:01",
+			"lastupdatedtime": "30/05/2020 16:45:01",
 			"recovered": "30",
 			"state": "Province 1",
 			"statecode": "P1"
@@ -1185,7 +1185,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 16:45:01",
+			"lastupdatedtime": "30/05/2020 16:45:01",
 			"recovered": "102",
 			"state": "Province 2",
 			"statecode": "P2"
@@ -1197,7 +1197,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "28/05/2020 15:31:00",
+			"lastupdatedtime": "30/05/2020 15:31:00",
 			"recovered": "20",
 			"state": "Bagmati Province",
 			"statecode": "P3"
@@ -1221,7 +1221,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/05/2020 16:45:01",
+			"lastupdatedtime": "30/05/2020 16:45:01",
 			"recovered": "47",
 			"state": "Province 5",
 			"statecode": "P5"
@@ -1233,7 +1233,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "28/05/2020 15:31:00",
+			"lastupdatedtime": "30/05/2020 15:31:00",
 			"recovered": "0",
 			"state": "Karnali Province",
 			"statecode": "P6"
