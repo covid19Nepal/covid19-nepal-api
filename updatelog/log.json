@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Province 5\n",
-    "timestamp": 1590047073
-  },
-  {
     "update": "8 new cases in Province 1\n1 new case in Province 5\n",
     "timestamp": 1590060265
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Province 5\n",
     "timestamp": 1590988143
+  },
+  {
+    "update": "3 new cases in Province 1\n57 new cases in Province 2\n1 new case in Bagmati Province\n109 new cases in Province 5\n19 new cases in Karnali Province\n",
+    "timestamp": 1590990880
   }
 ]

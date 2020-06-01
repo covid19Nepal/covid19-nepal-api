@@ -106,8 +106,8 @@
         }
       },
       "Lalitpur": {
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 1,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -391,8 +391,8 @@
         }
       },
       "Mahottari": {
-        "active": 22,
-        "confirmed": 22,
+        "active": 26,
+        "confirmed": 26,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -419,19 +419,6 @@
       "Siraha": {
         "active": 25,
         "confirmed": 25,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      },
-      "Unknown": {
-        "active": 4,
-        "confirmed": 4,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -473,8 +460,8 @@
         }
       },
       "Jhapa": {
-        "active": 104,
-        "confirmed": 106,
+        "active": 105,
+        "confirmed": 107,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 2,
@@ -540,6 +527,19 @@
       "Solukhumbu": {
         "active": 1,
         "confirmed": 1,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
+      },
+      "Sankhuwasabha": {
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -676,8 +676,8 @@
   "Karnali Province": {
     "districtData": {
       "Dailekh": {
-        "active": 16,
-        "confirmed": 16,
+        "active": 30,
+        "confirmed": 30,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,
@@ -713,6 +713,19 @@
           "recovered": 0,
           "deceased": 0
         }
+      },
+      "Dang": {
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "lastupdatedtime": "",
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "active": 0,
+          "recovered": 0,
+          "deceased": 0
+        }
       }
     }
   },
@@ -738,23 +751,6 @@
       "Dang": {
         "active": 1,
         "confirmed": 1,
-        "deceased": 0,
-        "lastupdatedtime": "",
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "active": 0,
-          "recovered": 0,
-          "deceased": 0
-        }
-      }
-    }
-  },
-  "Unknown": {
-    "districtData": {
-      "Unknown": {
-        "active": 23,
-        "confirmed": 23,
         "deceased": 0,
         "lastupdatedtime": "",
         "recovered": 0,

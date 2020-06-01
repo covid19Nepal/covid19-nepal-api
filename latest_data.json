@@ -1142,12 +1142,21 @@
 			"totalconfirmed": "1212",
 			"totaldeceased": "6",
 			"totalrecovered": "206"
+		},
+		{
+			"dailyconfirmed": "189",
+			"dailydeceased": "1",
+			"dailyrecovered": "19",
+			"date": "30 May",
+			"totalconfirmed": "1401",
+			"totaldeceased": "6",
+			"totalrecovered": "206"
 		}
 	],
 	"statewise": [
 		{
-			"active": "1000",
-			"confirmed": "1212",
+			"active": "1189",
+			"confirmed": "1401",
 			"deaths": "6",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1158,8 +1167,8 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "128",
-			"confirmed": "158",
+			"active": "131",
+			"confirmed": "161",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1170,8 +1179,8 @@
 			"statecode": "P1"
 		},
 		{
-			"active": "387",
-			"confirmed": "490",
+			"active": "444",
+			"confirmed": "547",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1182,8 +1191,8 @@
 			"statecode": "P2"
 		},
 		{
-			"active": "21",
-			"confirmed": "43",
+			"active": "22",
+			"confirmed": "44",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1206,8 +1215,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "385",
-			"confirmed": "435",
+			"active": "494",
+			"confirmed": "544",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1218,8 +1227,8 @@
 			"statecode": "P5"
 		},
 		{
-			"active": "46",
-			"confirmed": "46",
+			"active": "65",
+			"confirmed": "65",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
