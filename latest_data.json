@@ -1145,12 +1145,21 @@
 		},
 		{
 			"dailyconfirmed": "189",
-			"dailydeceased": "1",
-			"dailyrecovered": "19",
+			"dailydeceased": "0",
+			"dailyrecovered": "13",
 			"date": "30 May",
 			"totalconfirmed": "1401",
 			"totaldeceased": "6",
-			"totalrecovered": "206"
+			"totalrecovered": "219"
+		},
+		{
+			"dailyconfirmed": "166",
+			"dailydeceased": "2",
+			"dailyrecovered": "1",
+			"date": "31 May",
+			"totalconfirmed": "1567",
+			"totaldeceased": "8",
+			"totalrecovered": "220"
 		}
 	],
 	"statewise": [
