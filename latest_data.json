@@ -1206,8 +1206,8 @@
 			"statecode": "P4"
 		},
 		{
-			"active": "384",
-			"confirmed": "434",
+			"active": "385",
+			"confirmed": "435",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -1218,8 +1218,8 @@
 			"statecode": "P5"
 		},
 		{
-			"active": "47",
-			"confirmed": "47",
+			"active": "46",
+			"confirmed": "46",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",

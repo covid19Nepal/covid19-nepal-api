@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 recoveries in Province 1\n",
-    "timestamp": 1590046483
-  },
-  {
     "update": "1 death in Province 5\n",
     "timestamp": 1590047073
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Karnali Province\n",
     "timestamp": 1590764952
+  },
+  {
+    "update": "1 new case in Province 5\n",
+    "timestamp": 1590988143
   }
 ]
