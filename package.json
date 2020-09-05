@@ -13,7 +13,7 @@
     "moment": "^2.27.0",
     "moment-timezone": "^0.5.31",
     "mongoose": "^5.5.13",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "author": "",
   "license": "ISC"
